@@ -1,42 +1,36 @@
-# Kopřivnice 2023–2026 — analytický dashboard
+# Kopřivnice 2023–2026 — zpráva z tiskových zpráv
 
-Interaktivní přehled tiskových zpráv a plnění akčního plánu (režimy **Vedení města** / **Občané**).
+Interaktivní editoriální report (Shrnutí, Úřad, Goliáši, Témata, Databáze, Vývoj).
 
-## GitHub Pages (doporučeno)
+**Živě:** https://taiemnik.github.io/report/
 
-1. Vytvoř na GitHubu **nové prázdné repo** (např. `koprivnice-dashboard`).
-2. Nahraj **obsah této složky** jako kořen repozitáře (ne nadřazenou složku `github-publish`).
-3. **Settings → Pages → Build and deployment:**
-   - Source: **Deploy from a branch**
-   - Branch: `main`, folder: **/ (root)**
-4. Po minutě běží na `https://<uzivatel>.github.io/<repo>/`
+## GitHub Pages
+
+**Settings → Pages → Build and deployment:**
+
+- Source: **Deploy from a branch**
+- Branch: `main`, folder: **/ (root)**
 
 Soubor `.nojekyll` zajišťuje, že GitHub nezpracovává stránku přes Jekyll.
 
-## Lokální náhled
+## Aktualizace (z vaultu `Work/2 Projects/Tiskovky`)
 
 ```bash
-python -m http.server 8080
+python scripts/build_report_bundle.py
+cd aplikace/report
+npx vite build
+# zkopírovat dist/* → aplikace/web-public/ (viz scripts/deploy_report_pages.py)
+cd ../web-public
+git add -A && git commit -m "Aktualizace reportu" && git push
 ```
-
-Otevři http://localhost:8080 — soubor `index.html` musí být v kořeni serveru.
-
-## Aktualizace dat (z pracovní kopie v Obsidianu)
-
-Tato složka je **export**. V vaultu `Work/2 Projects/Tiskovky`:
-
-```bash
-python _data/pipeline.py
-python scripts/sync_github_publish.py --build
-```
-
-Pak zkopíruj změněné soubory sem (nebo commitni z `github-publish/` pokud je to samostatné repo).
 
 ## Technologie
 
-- HTML + Tailwind (CDN), Chart.js, vanilla JS
-- Data: `data/dashboard-data.js` (agregované metriky a metadata TZ, bez plných textů článků)
+- React + Vite + Tailwind, Chart.js, Motion
+- Data: `report-bundle.json` (agregované metriky, TZ metadata a texty pro modal)
 
-## Licence / data
+## Co na GitHub nepatří
 
-Veřejné informace z webu města Kopřivnice a agregované statistiky. Interní dokumenty AP nejsou součástí tohoto repozitáře.
+- Celý vault MYSECONDBRAIN
+- `data/zdroje/`, surové TZ v `data/tiskovky/`
+- Zdrojový kód v `aplikace/report/` (build probíhá lokálně)

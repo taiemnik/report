@@ -7,6 +7,7 @@ Thumbs.db
 # Zdrojová data nepatří do veřejného repo
 *.json
 !package.json
+!report-bundle.json
 
 # Python / build
 __pycache__/
