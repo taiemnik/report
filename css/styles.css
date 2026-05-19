@@ -1,0 +1,106 @@
+/* Kopřivnice Dashboard — doplňkové styly k Tailwind CDN */
+:root {
+  --c-navy: #193a5f;
+  --c-blue: #3ea3dc;
+  --c-sky: #d4edfc;
+  --c-green: #4db05b;
+  --c-gold: #e8b84a;
+  --c-text: #1a2533;
+  --c-muted: #5a6b80;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  color: var(--c-text);
+  background: #f0f4f8;
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, #0f2844 0%, #193a5f 40%, #2563a8 100%);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(25, 58, 95, 0.08);
+  border: 1px solid #e2e8f0;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(25, 58, 95, 0.12);
+}
+
+.stat-num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.nav-pill {
+  transition: all 0.2s;
+}
+
+.nav-pill.active {
+  background: var(--c-navy);
+  color: white;
+}
+
+.audience-btn.active {
+  background: white;
+  color: var(--c-navy);
+  font-weight: 700;
+}
+
+.mega-card {
+  border-left: 4px solid var(--c-blue);
+}
+
+.wow-card {
+  background: linear-gradient(135deg, #fff 0%, #f0f9ff 100%);
+}
+
+.tag-investice { background: #dbeafe; color: #1e40af; }
+.tag-mekky { background: #dcfce7; color: #166534; }
+.tag-provozni { background: #f3f4f6; color: #4b5563; }
+
+.chart-wrap { position: relative; height: 280px; }
+
+table.data-table th {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--c-muted);
+}
+
+table.data-table tbody tr:hover {
+  background: #f8fafc;
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Trojsměrka dekorace v hero */
+.trojsmerka {
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 20px solid var(--c-blue);
+  opacity: 0.6;
+}
