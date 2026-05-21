@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-05-21T00:04:57.370788",
+    "generated": "2026-05-21T07:16:13.971655",
     "period": "2023-2026",
     "pressReleaseCount": 875,
     "apActivityCount": 496,
@@ -13,7 +13,19 @@
       "2026": 83
     },
     "analysisSource": "Analýza tiskových zpráv MÚ Kopřivnice",
-    "workflow": "Zpráva o komunikaci města · SP × AP × TZ"
+    "workflow": "Zpráva o komunikaci města · SP × AP × TZ",
+    "apFulfillment": {
+      "total": 496,
+      "splněno": 176,
+      "probíhá": 238,
+      "nezahájeno": 38,
+      "pozastaveno": 10,
+      "neuvedeno": 34,
+      "bez_statusu": 0,
+      "pct_splněno": 35.5,
+      "method": "Všechny aktivity v jmenovateli; neuvedeno = prázdné vyhodnocení (report-akcni-plany.md)."
+    },
+    "methodology": "Všechny aktivity v jmenovateli; neuvedeno = prázdné vyhodnocení (report-akcni-plany.md)."
   },
   "sections": {
     "summary": "## Executive Summary — TOP 5 přelomových momentů\n\n### 1. Centrum, za které se nemusíme stydět\n140 mil. Kč, 2+ roky stavby, otevření s koncerty — fyzická změna tváře města.\n\nZdroj: [[2023-10-26_koprivnice-otevira-nove-centrum_d-76709.md]]\n\n### 2. Strategie s občany, ne jen na papíře\nSP 2023–2038 schválen po participaci; 10 P a ankety 2025.\n\nZdroj: [[2023-03-10_zastupitele-schvalili-plan-rozvoje-na-pristich-15-let_d-74535.md]]\n\n### 3. Šampion zdraví dvakrát po sobě\n2024 i 2025 — elita 147 zdravých měst v ČR.\n\nZdroj: [[2026-01-20_koprivnice-obhajila-titul-sampiona_d-83386.md]]\n\n### 4. Tři Goliáši v roce 2026\nKoupaliště, knihovna+byty, I/58 — rozpočet 953 mil.\n\nZdroj: [[2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md]]\n\n### 5. Sport a komunita na dosah\nPumptrack, mosty hotové, Do práce na kole.\n\nZdroj: [[2025-05-29_pumptrack-je-hotov-muzete-si-uzit-jizdu_d-81595.md]]",
@@ -13864,92 +13876,14 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "kultura-sport",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "socialni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "skolstvi",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "image",
         "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -13961,7 +13895,7 @@
       },
       {
         "source": "investice-stavby",
-        "target": "socialni",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -13972,26 +13906,20 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "participace",
+        "source": "investice-stavby",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
+        "source": "investice-stavby",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "skolstvi",
+        "source": "image",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -14003,13 +13931,97 @@
       },
       {
         "source": "image",
-        "target": "socialni",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
         "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "socialni",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       }
@@ -22883,109 +22895,154 @@
         "B",
         "C",
         "D"
-      ]
+      ],
+      "apFulfillment": {
+        "total": 496,
+        "splněno": 176,
+        "probíhá": 238,
+        "nezahájeno": 38,
+        "pozastaveno": 10,
+        "neuvedeno": 34,
+        "bez_statusu": 0,
+        "pct_splněno": 35.5,
+        "method": "Všechny aktivity v jmenovateli; neuvedeno = prázdné vyhodnocení (report-akcni-plany.md)."
+      },
+      "methodology": "Všechny aktivity v jmenovateli; neuvedeno = prázdné vyhodnocení (report-akcni-plany.md).",
+      "gapNote": "gapAnalysis = oblast SP (AP) vs spArea v TZ; themeGap = robustní podíly témat (report-komunikacni-gap.md)."
     },
+    "themeGap": [
+      {
+        "theme": "podnikani",
+        "label": "Podnikání",
+        "areaHint": "A",
+        "tz_share_pct": 2.4
+      },
+      {
+        "theme": "participace",
+        "label": "Participace",
+        "areaHint": "B",
+        "tz_share_pct": 3.0
+      },
+      {
+        "theme": "investice-stavby",
+        "label": "Investice a stavby",
+        "areaHint": "C",
+        "tz_share_pct": 21.7
+      },
+      {
+        "theme": "doprava",
+        "label": "Doprava",
+        "areaHint": "C",
+        "tz_share_pct": 18.2
+      },
+      {
+        "theme": "socialni",
+        "label": "Sociální oblast",
+        "areaHint": "D",
+        "tz_share_pct": 10.1
+      }
+    ],
     "areaStats": {
       "A": {
         "label": "Ekonomika a podnikání",
         "icon": "TrendingUp",
-        "description": "Rozvoj podnikatelského prostředí, zaměstnanost, spolupráce s průmyslem.",
+        "description": "Ekonomika, podnikání, zaměstnanost, vzdělávání a flexibilní lidé (SP 2023–2038).",
         "color": "#1a3a5c",
         "periods": {
           "2023-2024": {
-            "total": 18,
+            "total": 25,
             "splněno": 13,
             "probíhá": 5,
             "nezahájeno": 0,
             "pozastaveno": 0,
-            "pct_splněno": 72.2,
-            "pct_probíhá": 27.8
+            "pct_splněno": 52.0,
+            "pct_probíhá": 20.0
           },
           "2024-2025": {
-            "total": 21,
+            "total": 28,
             "splněno": 14,
             "probíhá": 6,
             "nezahájeno": 0,
             "pozastaveno": 1,
-            "pct_splněno": 66.7,
-            "pct_probíhá": 28.6
+            "pct_splněno": 50.0,
+            "pct_probíhá": 21.4
           },
           "2025-2026": {
-            "total": 26,
+            "total": 32,
             "splněno": 15,
             "probíhá": 9,
             "nezahájeno": 0,
             "pozastaveno": 2,
-            "pct_splněno": 57.7,
-            "pct_probíhá": 34.6
+            "pct_splněno": 46.9,
+            "pct_probíhá": 28.1
           }
         },
         "overall": {
-          "total": 65,
+          "total": 85,
           "splněno": 42,
           "probíhá": 20,
           "nezahájeno": 0,
           "pozastaveno": 3,
-          "pct_splněno": 64.6
+          "pct_splněno": 49.4
         }
       },
       "B": {
-        "label": "Komunita a kvalita života",
+        "label": "Přitažlivost / image města a veřejný život",
         "icon": "Heart",
-        "description": "Vzdělávání, kultura, sport, sociální služby, bydlení a komunitní život.",
+        "description": "Přitažlivost města, kultura, sport, turismus a veřejný život.",
         "color": "#2563eb",
         "periods": {
           "2023-2024": {
-            "total": 34,
+            "total": 40,
             "splněno": 11,
             "probíhá": 19,
             "nezahájeno": 2,
             "pozastaveno": 2,
-            "pct_splněno": 32.4,
-            "pct_probíhá": 55.9
+            "pct_splněno": 27.5,
+            "pct_probíhá": 47.5
           },
           "2024-2025": {
-            "total": 39,
+            "total": 42,
             "splněno": 7,
             "probíhá": 29,
             "nezahájeno": 2,
             "pozastaveno": 1,
-            "pct_splněno": 17.9,
-            "pct_probíhá": 74.4
+            "pct_splněno": 16.7,
+            "pct_probíhá": 69.0
           },
           "2025-2026": {
-            "total": 40,
+            "total": 43,
             "splněno": 14,
             "probíhá": 21,
             "nezahájeno": 3,
             "pozastaveno": 2,
-            "pct_splněno": 35.0,
-            "pct_probíhá": 52.5
+            "pct_splněno": 32.6,
+            "pct_probíhá": 48.8
           }
         },
         "overall": {
-          "total": 113,
+          "total": 125,
           "splněno": 32,
           "probíhá": 69,
           "nezahájeno": 7,
           "pozastaveno": 5,
-          "pct_splněno": 28.3
+          "pct_splněno": 25.6
         }
       },
       "C": {
-        "label": "Infrastruktura a bezpečnost",
+        "label": "Vyvážený rozvoj",
         "icon": "Shield",
-        "description": "Dopravní infrastruktura, bezpečnost, digitalizace, správa majetku.",
+        "description": "Vyvážený rozvoj — infrastruktura, doprava, bydlení, veřejný prostor.",
         "color": "#7c3aed",
         "periods": {
           "2023-2024": {
-            "total": 78,
+            "total": 79,
             "splněno": 25,
             "probíhá": 43,
             "nezahájeno": 10,
             "pozastaveno": 0,
-            "pct_splněno": 32.1,
-            "pct_probíhá": 55.1
+            "pct_splněno": 31.6,
+            "pct_probíhá": 54.4
           },
           "2024-2025": {
             "total": 81,
@@ -22997,28 +23054,28 @@
             "pct_probíhá": 56.8
           },
           "2025-2026": {
-            "total": 82,
+            "total": 83,
             "splněno": 24,
             "probíhá": 48,
             "nezahájeno": 9,
             "pozastaveno": 1,
-            "pct_splněno": 29.3,
-            "pct_probíhá": 58.5
+            "pct_splněno": 28.9,
+            "pct_probíhá": 57.8
           }
         },
         "overall": {
-          "total": 241,
+          "total": 243,
           "splněno": 77,
           "probíhá": 137,
           "nezahájeno": 25,
           "pozastaveno": 2,
-          "pct_splněno": 32.0
+          "pct_splněno": 31.7
         }
       },
       "D": {
-        "label": "Životní prostředí a udržitelnost",
+        "label": "Sociální zázemí",
         "icon": "Leaf",
-        "description": "Udržitelný rozvoj, klimatická opatření, životní prostředí, zdravé město.",
+        "description": "Sociální zázemí, péče, bezpečí, prevence a komunitní služby.",
         "color": "#059669",
         "periods": {
           "2023-2024": {
@@ -23102,44 +23159,44 @@
         "area": "A",
         "label": "Ekonomika a podnikání",
         "color": "#1a3a5c",
-        "ap_share_pct": 14.1,
+        "ap_share_pct": 17.1,
         "tz_share_pct": 20.8,
-        "ap_count": 65,
+        "ap_count": 85,
         "tz_count": 182,
-        "gap": 6.7,
-        "gap_label": "překomunikováno"
+        "gap": 3.7,
+        "gap_label": "vyváženo"
       },
       {
         "area": "B",
-        "label": "Komunita a kvalita života",
+        "label": "Přitažlivost / image města a veřejný život",
         "color": "#2563eb",
-        "ap_share_pct": 24.5,
+        "ap_share_pct": 25.2,
         "tz_share_pct": 41.7,
-        "ap_count": 113,
+        "ap_count": 125,
         "tz_count": 365,
-        "gap": 17.2,
+        "gap": 16.5,
         "gap_label": "překomunikováno"
       },
       {
         "area": "C",
-        "label": "Infrastruktura a bezpečnost",
+        "label": "Vyvážený rozvoj",
         "color": "#7c3aed",
-        "ap_share_pct": 52.2,
+        "ap_share_pct": 49.0,
         "tz_share_pct": 25.3,
-        "ap_count": 241,
+        "ap_count": 243,
         "tz_count": 221,
-        "gap": -26.9,
+        "gap": -23.7,
         "gap_label": "podkomunikováno"
       },
       {
         "area": "D",
-        "label": "Životní prostředí a udržitelnost",
+        "label": "Sociální zázemí",
         "color": "#059669",
-        "ap_share_pct": 9.3,
+        "ap_share_pct": 8.7,
         "tz_share_pct": 10.1,
         "ap_count": 43,
         "tz_count": 88,
-        "gap": 0.8,
+        "gap": 1.4,
         "gap_label": "vyváženo"
       }
     ],
@@ -23241,7 +23298,7 @@
       {
         "goalCode": "B.1",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.1.1 Revitalizace významných veřejných prostranství mimo centrum města",
         "periods": {
           "2024-2025": {
@@ -23257,14 +23314,14 @@
       {
         "goalCode": "B.1.2",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.1.2 Rekonstrukce a využití nefungujících, problematických budov ve vlastnictví města",
         "periods": {}
       },
       {
         "goalCode": "B.1.3",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.1.3 Místní kulturní dědictví a jeho využití",
         "periods": {
           "2023-2024": {
@@ -23276,7 +23333,7 @@
       {
         "goalCode": "B.2",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.2.1 Revitalizace veřejných prostranství navázaných na nově dokončené centrum města",
         "periods": {
           "2023-2024": {
@@ -23296,7 +23353,7 @@
       {
         "goalCode": "B.3",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.3.1 Rozvoj a modernizace kulturního domu",
         "periods": {
           "2023-2024": {
@@ -23316,7 +23373,7 @@
       {
         "goalCode": "B.4",
         "area": "B",
-        "areaLabel": "Komunita a kvalita života",
+        "areaLabel": "Přitažlivost / image města a veřejný život",
         "measure": "B.4.1 Informační a marketingová podpora cestovního ruchu",
         "periods": {
           "2023-2024": {
@@ -23336,7 +23393,7 @@
       {
         "goalCode": "C..2",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C.2.1 Zlepšení obslužnosti hromadnou dopravou",
         "periods": {
           "2023-2024": {
@@ -23356,7 +23413,7 @@
       {
         "goalCode": "C.1",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C1.1 Zvyšování bezpečnosti dopravy",
         "periods": {
           "2023-2024": {
@@ -23376,7 +23433,7 @@
       {
         "goalCode": "C.3",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C.3.1 Investice do bytového fondu v majetku města",
         "periods": {
           "2023-2024": {
@@ -23396,7 +23453,7 @@
       {
         "goalCode": "C.4",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C.4.1 Kvalitní páteřní technická infrastruktura",
         "periods": {
           "2023-2024": {
@@ -23416,7 +23473,7 @@
       {
         "goalCode": "C.5",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C.5.1 Rozšiřování stávajících způsobů třídění a sběru odpadů",
         "periods": {
           "2023-2024": {
@@ -23436,7 +23493,7 @@
       {
         "goalCode": "C.6",
         "area": "C",
-        "areaLabel": "Infrastruktura a bezpečnost",
+        "areaLabel": "Vyvážený rozvoj",
         "measure": "C.6.1 Otevřený a bezpečný úřad",
         "periods": {
           "2023-2024": {
@@ -23456,7 +23513,7 @@
       {
         "goalCode": "D..1",
         "area": "D",
-        "areaLabel": "Životní prostředí a udržitelnost",
+        "areaLabel": "Sociální zázemí",
         "measure": "D.1.3 Volnočasové aktivity pro osoby se zdravotním postižením",
         "periods": {
           "2023-2024": {
@@ -23476,7 +23533,7 @@
       {
         "goalCode": "D..1.2",
         "area": "D",
-        "areaLabel": "Životní prostředí a udržitelnost",
+        "areaLabel": "Sociální zázemí",
         "measure": "D. 1.2 Péče o osoby v seniorském věku, osob se zdravotním postižením a podpora pečujících osob",
         "periods": {
           "2023-2024": {
@@ -23488,7 +23545,7 @@
       {
         "goalCode": "D..2",
         "area": "D",
-        "areaLabel": "Životní prostředí a udržitelnost",
+        "areaLabel": "Sociální zázemí",
         "measure": "D.2.1 Efektivní programy prevence rizikového chování u dětí a mládeže",
         "periods": {
           "2023-2024": {
