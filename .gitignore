@@ -8,6 +8,7 @@ Thumbs.db
 *.json
 !package.json
 !report-bundle.json
+!reports/index.json
 
 # Python / build
 __pycache__/
