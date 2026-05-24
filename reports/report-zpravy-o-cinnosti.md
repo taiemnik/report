@@ -7,7 +7,7 @@ Hloubková analýza čtyř výročních zpráv o činnosti Městského úřadu K
 ## Manažerské shrnutí
 
 1. **Objem rozhodování klesá, majetek roste.** Celkový počet usnesení orgánů města klesl z 933 (2022) na 813 (2025), tedy o 13 %. Souběžně rostla aktiva města z 2,77 mld na 3,10 mld Kč. Méně rozhodnutí, větší majetková báze — úřad rozhoduje méně často, ale o větších hodnotách.
-2. **Úřad systematicky sbírá ocenění za kvalitu a komunikaci.** Druhé místo v soutěži Přívětivý úřad (MSK) v letech 2024 i 2025, první místo v krajském kole za komunikaci s veřejností (2025), opakovaný titul Šampion zdraví. Externí benchmark potvrzuje, že úřad nepatří k průměru.
+2. **Úřad systematicky sbírá ocenění za kvalitu a komunikaci.** Druhé místo v soutěži Přívětivý úřad (MSK) v letech 2024 i 2025, první místo v krajském kole za komunikaci s veřejností (2025), opakovaný titul Šampion Ligy Národní sítě Zdravých měst (NSZM). Externí benchmark potvrzuje, že úřad nepatří k průměru.
 3. **Posun od provozu k řízení podle strategie.** V roce 2024 úřad dokončil vlastní Strategii MÚ 2025–2029 (tři pilíře: Profesionální správa, Konkurenceschopný zaměstnavatel, Informační technologie) a hodnotový rámec „6× O". V roce 2025 začal strategii realizovat, včetně nasazení AI a interní znalostní báze „Příručka úředníka".
 4. **Sociální agenda je pod finančním tlakem.** Požadavky na dotaci výkonu sociálně-právní ochrany dětí (OSPOD) rostly na 7,72 mil. Kč (2025), ale státní příspěvek nestačí — požadavek na doplatek vyskočil z 219 tis. (2022) na 984 tis. Kč (2025). Rozdíl nese rozpočet města.
 

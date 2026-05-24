@@ -65,7 +65,7 @@ Plánujete zhruba třikrát víc, než stihnete v periodě dokončit, a tento po
 
 ## Pro zastupitele
 
-Z 500 naplánovaných aktivit je 36 % hotových a 48 % rozpracovaných — město tedy plán nenechává ležet, ale dokončuje pomaleji, než plánuje. Mrtvých aktivit (zrušeno/pozastaveno) je minimum, což svědčí o realistickém plánování bez velkých „odpisů". Při schvalování dalšího AP je legitimní ptát se, proč je dvouletá dokončenost stabilně kolem třetiny a zda další plán neslibuje opět víc, než lze v období uzavřít.
+Z 500 naplánovaných aktivit je 36 % hotových a 48 % rozpracovaných — město tedy plán nenechává ležet, ale dokončuje pomaleji, než plánuje. Mrtvých aktivit (zrušeno/pozastaveno) je minimum, což svědčí o realistickém plánování bez velkých „odpisů". Při schvalování dalšího AP je legitimní ptát se, proč je dvouletá dokončenost stabilně kolem třetiny a zda další plán neobsahuje opět víc aktivit, než lze v období uzavřít.
 
 ## Pro občany
 

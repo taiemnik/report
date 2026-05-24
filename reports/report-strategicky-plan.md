@@ -61,7 +61,7 @@ Strategický plán → akční plány (dvouleté) → realizace → komunikace. 
 
 ## Pro vedení města
 
-Plán je dobře postavený a jeho těžiště (oblast C) sedí s tím, kam reálně směřuje práce úřadu — to je vzácný soulad. Dvě věci hlídat: za prvé, opakovaný strop dokončenosti ~36 % za periodu znamená, že plán slibuje víc, než kapacita stíhá; při revizi zvážit buď zúžení, nebo posílení realizačních kapacit. Za druhé, oblast A (podnikání) je strategicky rozpracovaná, ale veřejnost o ní neví — nesoulad mezi strategickou váhou a viditelností oslabuje její dopad.
+Plán je dobře postavený a jeho těžiště (oblast C) sedí s tím, kam reálně směřuje práce úřadu — to je vzácný soulad. Dvě věci hlídat: za prvé, opakovaný strop dokončenosti ~36 % za periodu znamená, že plán obsahuje víc aktivit, než kapacita stíhá uzavřít; při revizi zvážit buď zúžení, nebo posílení realizačních kapacit. Za druhé, oblast A (podnikání) je strategicky rozpracovaná, ale veřejnost o ní neví — nesoulad mezi strategickou váhou a viditelností oslabuje její dopad.
 
 ## Pro zastupitele
 
