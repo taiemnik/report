@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-05-25T07:59:09.728963",
+    "generated": "2026-05-26T00:14:17.950410",
     "period": "2023-2026",
     "pressReleaseCount": 875,
     "apActivityCount": 496,
@@ -13352,6 +13352,7 @@
     {
       "id": "golias-0",
       "title": "Revitalizace centra / Nové náměstí",
+      "type": "investice",
       "amountCzk": 140000000,
       "amountLabel": "140 mil. Kč",
       "status": "Dokončeno 2023, kolaudace 2024–2025",
@@ -13408,6 +13409,7 @@
     {
       "id": "golias-1",
       "title": "Rekonstrukce koupaliště",
+      "type": "investice",
       "amountCzk": 205000000,
       "amountLabel": "205 mil. Kč",
       "status": "Zahájeno 01/2026, dokončení plánováno léto 2027 (ORM 2026)",
@@ -13544,6 +13546,7 @@
     {
       "id": "golias-2",
       "title": "ZŠ Náměstí → knihovna + 23 bytů",
+      "type": "investice",
       "amountCzk": 213000000,
       "amountLabel": "213 mil. Kč",
       "status": "PD v přípravě, financování Dostupné nájemní bydlení (ORM 2026)",
@@ -13575,6 +13578,7 @@
     {
       "id": "golias-3",
       "title": "Silniční propojení průmyslového parku (I/58)",
+      "type": "investice",
       "amountCzk": 25000000,
       "amountLabel": "25 mil. Kč",
       "status": "25 mil. v plánovaném rozpočtu ORM, realizace v roce 2026 neproběhne (odloženo)",
@@ -13598,6 +13602,7 @@
     {
       "id": "golias-4",
       "title": "Mosty – Jaroše, Dukelská, Erbenova",
+      "type": "investice",
       "amountCzk": 36173300,
       "amountLabel": "36 mil. Kč",
       "status": "Splněno AP 2024 (dokončení 2024)",
@@ -13610,6 +13615,7 @@
     {
       "id": "golias-5",
       "title": "Okružní křižovatka Záhumenní – Jaroše",
+      "type": "investice",
       "amountCzk": 18000000,
       "amountLabel": "18 mil. Kč",
       "status": "Splněno 2025",
@@ -13631,6 +13637,7 @@
     {
       "id": "golias-6",
       "title": "Pumptrack na házeňáku",
+      "type": "investice",
       "amountCzk": 4800000,
       "amountLabel": "4 mil. Kč",
       "status": "Hotovo 05/2025",
@@ -13670,6 +13677,7 @@
     {
       "id": "golias-7",
       "title": "ZŠ dr. Milady Horákové – rekonstrukce",
+      "type": "investice",
       "amountCzk": 68000000,
       "amountLabel": "68 mil. Kč",
       "status": "Plánováno 2026",
@@ -13687,6 +13695,339 @@
           "amountCzk": 223000000,
           "amountLabel": "223 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-8",
+      "title": "KOP-WORK – sdílená kancelář na radnici",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Spuštěno 07/2025",
+      "spArea": "A",
+      "spLabel": "A.1 Podnikavost",
+      "benefit": "Sdílené pracovní místo pro začínající podnikatele a OSVČ přímo na radnici – nízkoprahová podpora podnikání.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-07-09_na-radnici-vznikne-sdilena-kancelar-kop-work_d-81989.md",
+        "data/tiskovky/markdown/2025/2025-07-25_na-radnici-zacina-fungovat-sdilena-kancelar_d-82056.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "82056",
+          "date": "2025-07-25",
+          "title": "Na radnici začíná fungovat sdílená kancelář",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-07-25_na-radnici-zacina-fungovat-sdilena-kancelar_d-82056.md"
+        },
+        {
+          "id": "81989",
+          "date": "2025-07-09",
+          "title": "Na radnici vznikne sdílená kancelář KOP-WORK",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-07-09_na-radnici-vznikne-sdilena-kancelar-kop-work_d-81989.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-9",
+      "title": "Podnikej raz dva – workshopy pro podnikatele",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Opakované běhy 2025",
+      "spArea": "A",
+      "spLabel": "A.1 Podnikavost",
+      "benefit": "Bezplatné workshopy a mentoring pro vznik a rozvoj podnikání; doložené příběhy účastníků.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-03-14_podnikejte-raz-dva-prijdte-na-uzitecne-workshopy-zdarma_d-80974.md",
+        "data/tiskovky/markdown/2025/2025-09-02_blizi-se-dalsi-setkani-podnikej-raz-dva_d-82292.md",
+        "data/tiskovky/markdown/2025/2025-09-26_pribehy-ucastniku-projektu-podnikej-raz-dva-inspiruji_d-82538.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "82538",
+          "date": "2025-09-26",
+          "title": "Příběhy účastníků projektu Podnikej raz dva inspirují",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-26_pribehy-ucastniku-projektu-podnikej-raz-dva-inspiruji_d-82538.md"
+        },
+        {
+          "id": "82292",
+          "date": "2025-09-02",
+          "title": "Blíží se další setkání Podnikej raz dva",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-02_blizi-se-dalsi-setkani-podnikej-raz-dva_d-82292.md"
+        },
+        {
+          "id": "80974",
+          "date": "2025-03-14",
+          "title": "Podnikejte raz dva! Přijďte na užitečné workshopy zdarma",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-14_podnikejte-raz-dva-prijdte-na-uzitecne-workshopy-zdarma_d-80974.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-10",
+      "title": "Klub pro podnikatele",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Zaveden 2025",
+      "spArea": "A",
+      "spLabel": "A.1 Podnikavost",
+      "benefit": "Pravidelná setkávání podnikatelů s vedením města – rady, inspirace a kontakty.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md",
+        "data/tiskovky/markdown/2025/2025-10-08_vedeni-mesta-se-sejde-s-podnikateli_d-82483.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "82483",
+          "date": "2025-10-08",
+          "title": "Vedení města se sejde s podnikateli",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-10-08_vedeni-mesta-se-sejde-s-podnikateli_d-82483.md"
+        },
+        {
+          "id": "81657",
+          "date": "2025-06-04",
+          "title": "Klub pro podnikatele nabídne rady, inspiraci i kontakty",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-11",
+      "title": "Daňová motivace pro podnikatele",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Schváleno zastupitelstvem 2025",
+      "spArea": "A",
+      "spLabel": "A.2 Péče o investory",
+      "benefit": "Úprava koeficientu daně z nemovitostí jako pobídka pro místní podnikatele.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-09-26_zastupitele-upravili-koeficient-dane-z-nemovitosti-pro-podnikatele_d-82539.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "82539",
+          "date": "2025-09-26",
+          "title": "Zastupitelé upravili koeficient daně z nemovitostí pro podnikatele",
+          "amountCzk": 4000000,
+          "amountLabel": "4 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-26_zastupitele-upravili-koeficient-dane-z-nemovitosti-pro-podnikatele_d-82539.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-12",
+      "title": "Oceňování pedagogů a podpora vzdělávání",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Každoročně 2024–2026",
+      "spArea": "A",
+      "spLabel": "A.3 Flexibilní a vzdělaní lidé",
+      "benefit": "Ocenění pedagogů a vzdělávací akce zvyšující prestiž škol a kvalitu výuky.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-03-26_koprivnicka-radnice-ocenila-26-pedagogu-za-jejich-prinos-vzdelavani_d-81044.md",
+        "data/tiskovky/markdown/2026/2026-03-26_koprivnice-ocenila-nejlepsi-pedagogy_d-84017.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "84017",
+          "date": "2026-03-26",
+          "title": "Kopřivnice ocenila nejlepší pedagogy",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-03-26_koprivnice-ocenila-nejlepsi-pedagogy_d-84017.md"
+        },
+        {
+          "id": "81044",
+          "date": "2025-03-26",
+          "title": "Kopřivnická radnice ocenila 26 pedagogů za jejich přínos vzdělávání",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-26_koprivnicka-radnice-ocenila-26-pedagogu-za-jejich-prinos-vzdelavani_d-81044.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-13",
+      "title": "Aktivní senior – celoroční program",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Probíhá každý ročník",
+      "spArea": "D",
+      "spLabel": "D Sociální zázemí",
+      "benefit": "Celoroční nabídka aktivit, vzdělávání a setkávání pro seniory.",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-01-21_spousti-se-dalsi-rocnik-aktivniho-seniora-v-koprivnici_d-80402.md",
+        "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "84083",
+          "date": "2026-04-01",
+          "title": "Velikonoce v Kopřivnici zpestří interaktivní stezka",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-04-01_velikonoce-v-koprivnici-zpestri-interaktivni-stezka_d-84083.md"
+        },
+        {
+          "id": "80402",
+          "date": "2025-01-21",
+          "title": "Spouští se další ročník Aktivního seniora v Kopřivnici",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-01-21_spousti-se-dalsi-rocnik-aktivniho-seniora-v-koprivnici_d-80402.md"
+        },
+        {
+          "id": "79984",
+          "date": "2024-11-26",
+          "title": "Předvánoční tvoření na radnici zakončí seriál Aktivní senior 2024",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-11-26_predvanocni-tvoreni-na-radnici-zakonci-serial-aktivni-senior-2024_d-79984.md"
+        },
+        {
+          "id": "77323",
+          "date": "2024-01-12",
+          "title": "Aktivní senioři se opět mohou těšit na pestrou nabídku akcí",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
+        },
+        {
+          "id": "41913",
+          "date": "2023-02-01",
+          "title": "Aktivní senior startuje druhou dekádu",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-02-01_aktivni-senior-startuje-druhou-dekadu_d-41913.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-14",
+      "title": "Senior v bezpečí – poradenství a prevence",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Dlouhodobě (8. rokem)",
+      "spArea": "D",
+      "spLabel": "D Sociální zázemí",
+      "benefit": "Poradenství, prevence podvodů a bezpečnostní osvěta pro seniory.",
+      "sources": [],
+      "relatedPress": [
+        {
+          "id": "82687",
+          "date": "2025-10-15",
+          "title": "Senior v dopravě aneb Školení řidičů",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-10-15_senior-v-doprave-aneb-skoleni-ridicu_d-82687.md"
+        },
+        {
+          "id": "80997",
+          "date": "2025-03-19",
+          "title": "Senior v bezpečí",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-19_senior-v-bezpeci_d-80997.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-15",
+      "title": "Koprojekt – participativní rozpočet",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Každoročně, rekordní 1 mil. Kč",
+      "spArea": "B",
+      "spLabel": "B Veřejný život a participace",
+      "benefit": "Občané navrhují a hlasují o projektech; město na ně ročně vyčleňuje 1 mil. Kč.",
+      "sources": [
+        "data/tiskovky/markdown/2023/2023-04-27_lide-mohou-navrhovat-koprojekty-letos-je-na-ne-vyclenen-rekordni-milion_d-75325.md",
+        "data/tiskovky/markdown/2024/2024-05-22_blizi-se-doba-podavani-koprojektu-opet-je-na-ne-vyclenen-rovny-milion_d-78524.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "84271",
+          "date": "2026-04-22",
+          "title": "Napadá vás, co by Kopřivničany potěšilo? Získejte na svůj Koprojekt milion!",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-04-22_napada-vas-co-by-koprivnicany-potesilo-ziskejte-na-svuj-koprojekt-milion_d-84271.md"
+        },
+        {
+          "id": "82850",
+          "date": "2025-11-03",
+          "title": "Vítězným Koprojektem je psí zóna ve městě",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-11-03_viteznym-koprojektem-je-psi-zona-ve-meste_d-82850.md"
+        },
+        {
+          "id": "82620",
+          "date": "2025-10-06",
+          "title": "Kopřivničané hlasují o pěti Koprojektech, vítězný může získat až milion na realizaci",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-10-06_koprivnicane-hlasuji-o-peti-koprojektech-vitezny-muze-ziskat-az-milion-na-realiz_d-82620.md"
+        },
+        {
+          "id": "80923",
+          "date": "2025-03-11",
+          "title": "Jak bude vypadat loňský vítěz Koprojektů?",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-11_jak-bude-vypadat-lonsky-vitez-koprojektu_d-80923.md"
+        },
+        {
+          "id": "79820",
+          "date": "2024-11-04",
+          "title": "Vítězným Koprojektem je odpočinek u cyklostezky",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-11-04_viteznym-koprojektem-je-odpocinek-u-cyklostezky_d-79820.md"
+        },
+        {
+          "id": "78524",
+          "date": "2024-05-22",
+          "title": "Blíží se doba podávání Koprojektů, opět je na ně vyčleněn rovný milion!",
+          "amountCzk": 1000000,
+          "amountLabel": "1 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-05-22_blizi-se-doba-podavani-koprojektu-opet-je-na-ne-vyclenen-rovny-milion_d-78524.md"
+        },
+        {
+          "id": "76805",
+          "date": "2023-11-06",
+          "title": "Vítězným Koprojektem je zahrada za Effathou",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-11-06_viteznym-koprojektem-je-zahrada-za-effathou_d-76805.md"
+        },
+        {
+          "id": "75325",
+          "date": "2023-04-27",
+          "title": "Lidé mohou navrhovat Koprojekty, letos je na ně vyčleněn rekordní milion!",
+          "amountCzk": 1000000,
+          "amountLabel": "1 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-04-27_lide-mohou-navrhovat-koprojekty-letos-je-na-ne-vyclenen-rekordni-milion_d-75325.md"
         }
       ]
     }
@@ -13860,26 +14201,38 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "image",
-        "target": "zivotni-prostredi",
+        "source": "investice-stavby",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "doprava",
-        "target": "zivotni-prostredi",
+        "target": "investice-stavby",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "skolstvi",
-        "target": "zivotni-prostredi",
+        "source": "investice-stavby",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "zivotni-prostredi",
+        "source": "image",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -13890,14 +14243,44 @@
         "mode": "cooccurrence"
       },
       {
+        "source": "doprava",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
         "source": "kultura-sport",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "socialni",
-        "target": "zivotni-prostredi",
+        "source": "doprava",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -13908,38 +14291,8 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "doprava",
-        "target": "skolstvi",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -13951,36 +14304,12 @@
       },
       {
         "source": "doprava",
-        "target": "investice-stavby",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
+        "source": "image",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
@@ -13992,20 +14321,32 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "participace",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
         "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       }
