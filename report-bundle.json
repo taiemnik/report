@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-05-28T09:58:47.572156",
+    "generated": "2026-06-08T10:16:47.614762",
     "period": "2023-2026",
     "pressReleaseCount": 875,
     "apActivityCount": 496,
@@ -14,6 +14,7 @@
     },
     "analysisSource": "Analýza tiskových zpráv MÚ Kopřivnice",
     "workflow": "Zpráva o komunikaci města · SP × AP × TZ",
+    "projectGalleryUrl": "https://www.zdravamesta.cz/cz/koprivnice/galerie-projektu",
     "apFulfillment": {
       "total": 496,
       "splněno": 176,
@@ -13363,14 +13364,6 @@
       ],
       "relatedPress": [
         {
-          "id": "84082",
-          "date": "2026-04-01",
-          "title": "Revitalizace dětského hřiště Pod Zahradami",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-04-01_revitalizace-detskeho-hriste-pod-zahradami_d-84082.md"
-        },
-        {
           "id": "81358",
           "date": "2025-04-30",
           "title": "Centrum se oficiálně mění na Nové náměstí",
@@ -13379,28 +13372,12 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-04-30_centrum-se-oficialne-meni-na-nove-namesti_d-81358.md"
         },
         {
-          "id": "77634",
-          "date": "2024-02-16",
-          "title": "Dokument připomene revitalizaci centra, následovat bude anketa o názvu",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-02-16_dokument-pripomene-revitalizaci-centra-nasledovat-bude-anketa-o-nazvu_d-77634.md"
-        },
-        {
           "id": "76709",
           "date": "2023-10-26",
           "title": "Kopřivnice otevírá nové centrum!",
           "amountCzk": 140000000,
           "amountLabel": "140 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2023/2023-10-26_koprivnice-otevira-nove-centrum_d-76709.md"
-        },
-        {
-          "id": "76078",
-          "date": "2023-07-14",
-          "title": "Spouštíme anketu o prioritní revitalizaci veřejných prostranství na Severu",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-07-14_spoustime-anketu-o-prioritni-revitalizaci-verejnych-prostranstvi-na-severu_d-76078.md"
         }
       ]
     },
@@ -13420,30 +13397,6 @@
       ],
       "relatedPress": [
         {
-          "id": "84370",
-          "date": "2026-05-04",
-          "title": "Začíná rekonstrukce chodníku v Lubině",
-          "amountCzk": 4000000,
-          "amountLabel": "4 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-05-04_zacina-rekonstrukce-chodniku-v-lubine_d-84370.md"
-        },
-        {
-          "id": "83934",
-          "date": "2026-03-18",
-          "title": "Po Velikonocích bude pokračovat rekonstrukce chodníků na Polní",
-          "amountCzk": 4000000,
-          "amountLabel": "4 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-03-18_po-velikonocich-bude-pokracovat-rekonstrukce-chodniku-na-polni_d-83934.md"
-        },
-        {
-          "id": "83344",
-          "date": "2026-01-13",
-          "title": "Brzy začne rekonstrukce vestibulu radnice",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-01-13_brzy-zacne-rekonstrukce-vestibulu-radnice_d-83344.md"
-        },
-        {
           "id": "83337",
           "date": "2026-01-07",
           "title": "Začíná rekonstrukce koupaliště",
@@ -13458,86 +13411,6 @@
           "amountCzk": 223000000,
           "amountLabel": "223 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
-        },
-        {
-          "id": "82808",
-          "date": "2025-10-30",
-          "title": "V suterénu Fojtství probíhá rekonstrukce",
-          "amountCzk": 7000000,
-          "amountLabel": "7 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-30_v-suterenu-fojtstvi-probiha-rekonstrukce_d-82808.md"
-        },
-        {
-          "id": "82738",
-          "date": "2025-10-22",
-          "title": "Rada vybrala firmu, která zrekonstruuje koupaliště",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-22_rada-vybrala-firmu-ktera-zrekonstruuje-koupaliste_d-82738.md"
-        },
-        {
-          "id": "82740",
-          "date": "2025-10-22",
-          "title": "Radní rozhodli o pokračování rekonstrukce chodníků na Polní",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-22_radni-rozhodli-o-pokracovani-rekonstrukce-chodniku-na-polni_d-82740.md"
-        },
-        {
-          "id": "82374",
-          "date": "2025-09-09",
-          "title": "Na Severu pokračuje rekonstrukce chodníků",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-09-09_na-severu-pokracuje-rekonstrukce-chodniku_d-82374.md"
-        },
-        {
-          "id": "82108",
-          "date": "2025-08-06",
-          "title": "Brzy začne rekonstrukce prostranství u Dvořákovy ulice",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-08-06_brzy-zacne-rekonstrukce-prostranstvi-u-dvorakovy-ulice_d-82108.md"
-        },
-        {
-          "id": "82053",
-          "date": "2025-07-23",
-          "title": "Kopřivnice hledá firmu, která zrekonstruuje koupaliště",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-23_koprivnice-hleda-firmu-ktera-zrekonstruuje-koupaliste_d-82053.md"
-        },
-        {
-          "id": "81983",
-          "date": "2025-07-07",
-          "title": "Na Alšovce začíná rekonstrukce kanalizace",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-07_na-alsovce-zacina-rekonstrukce-kanalizace_d-81983.md"
-        },
-        {
-          "id": "81760",
-          "date": "2025-06-17",
-          "title": "Zbrojnice v Drnholci je po rekonstrukci jako nová",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-17_zbrojnice-v-drnholci-je-po-rekonstrukci-jako-nova_d-81760.md"
-        },
-        {
-          "id": "81695",
-          "date": "2025-06-06",
-          "title": "Na Dukelské začne rekonstrukce chodníků",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-06_na-dukelske-zacne-rekonstrukce-chodniku_d-81695.md"
-        },
-        {
-          "id": "81516",
-          "date": "2025-05-20",
-          "title": "Začne rekonstrukce chodníků na Polní",
-          "amountCzk": 3000000,
-          "amountLabel": "3 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-05-20_zacne-rekonstrukce-chodniku-na-polni_d-81516.md"
         }
       ]
     },
@@ -13562,14 +13435,6 @@
           "amountCzk": 5000000,
           "amountLabel": "5 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2025/2025-05-13_v-casti-byvale-skoly-vzniknou-byty-prijdte-se-seznamit-s-projektem_d-81456.md"
-        },
-        {
-          "id": "75472",
-          "date": "2023-05-09",
-          "title": "Radní dali zelenou projektu knihovny v bývalé ZŠ Náměstí",
-          "amountCzk": 150000000,
-          "amountLabel": "150 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-05-09_radni-dali-zelenou-projektu-knihovny-v-byvale-zs-namesti_d-75472.md"
         }
       ]
     },
@@ -13607,8 +13472,28 @@
       "spArea": "C",
       "spLabel": "C.1 Plynulá doprava",
       "benefit": "Bezpečnější doprava, opravená infrastruktura",
-      "sources": [],
-      "relatedPress": []
+      "sources": [
+        "data/tiskovky/markdown/2024/2024-05-31_most-na-ulici-kpt-jarose-je-zprujezdnen_d-78685.md",
+        "data/tiskovky/markdown/2024/2024-06-24_blizi-se-demolice-a-vystavba-mostu-na-erbenove_d-78905.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "78905",
+          "date": "2024-06-24",
+          "title": "Blíží se demolice a výstavba mostu na Erbenově",
+          "amountCzk": 1000000,
+          "amountLabel": "1 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-06-24_blizi-se-demolice-a-vystavba-mostu-na-erbenove_d-78905.md"
+        },
+        {
+          "id": "78685",
+          "date": "2024-05-31",
+          "title": "Most na ulici Kpt. Jaroše je zprůjezdněn",
+          "amountCzk": 7000000,
+          "amountLabel": "7 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-05-31_most-na-ulici-kpt-jarose-je-zprujezdnen_d-78685.md"
+        }
+      ]
     },
     {
       "id": "golias-5",
@@ -13620,7 +13505,9 @@
       "spArea": "C",
       "spLabel": "C.1",
       "benefit": "Plynulost dopravy u průmyslové zóny",
-      "sources": [],
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-02-19_blizi-se-stavba-nove-okruzni-krizovatky_d-80693.md"
+      ],
       "relatedPress": [
         {
           "id": "80693",
@@ -13647,28 +13534,12 @@
       ],
       "relatedPress": [
         {
-          "id": "81827",
-          "date": "2025-06-25",
-          "title": "Cyklobike pumptrack zahájí projekt Někdo ven???",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-25_cyklobike-pumptrack-zahaji-projekt-nekdo-ven_d-81827.md"
-        },
-        {
           "id": "81595",
           "date": "2025-05-29",
           "title": "Pumptrack je hotov, můžete si užít jízdu!",
           "amountCzk": 8000000,
           "amountLabel": "8 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2025/2025-05-29_pumptrack-je-hotov-muzete-si-uzit-jizdu_d-81595.md"
-        },
-        {
-          "id": "81041",
-          "date": "2025-03-25",
-          "title": "Na Házeňáku začíná výstavba pumptracku",
-          "amountCzk": 8000000,
-          "amountLabel": "8 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-03-25_na-hazenaku-zacina-vystavba-pumptracku_d-81041.md"
         }
       ]
     },
@@ -13853,14 +13724,6 @@
       ],
       "relatedPress": [
         {
-          "id": "84083",
-          "date": "2026-04-01",
-          "title": "Velikonoce v Kopřivnici zpestří interaktivní stezka",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-04-01_velikonoce-v-koprivnici-zpestri-interaktivni-stezka_d-84083.md"
-        },
-        {
           "id": "80402",
           "date": "2025-01-21",
           "title": "Spouští se další ročník Aktivního seniora v Kopřivnici",
@@ -13869,28 +13732,12 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-01-21_spousti-se-dalsi-rocnik-aktivniho-seniora-v-koprivnici_d-80402.md"
         },
         {
-          "id": "79984",
-          "date": "2024-11-26",
-          "title": "Předvánoční tvoření na radnici zakončí seriál Aktivní senior 2024",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-11-26_predvanocni-tvoreni-na-radnici-zakonci-serial-aktivni-senior-2024_d-79984.md"
-        },
-        {
           "id": "77323",
           "date": "2024-01-12",
           "title": "Aktivní senioři se opět mohou těšit na pestrou nabídku akcí",
           "amountCzk": null,
           "amountLabel": "-",
           "sourceFile": "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
-        },
-        {
-          "id": "41913",
-          "date": "2023-02-01",
-          "title": "Aktivní senior startuje druhou dekádu",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-02-01_aktivni-senior-startuje-druhou-dekadu_d-41913.md"
         }
       ]
     },
@@ -13905,24 +13752,7 @@
       "spLabel": "D Sociální zázemí",
       "benefit": "Poradenství, prevence podvodů a bezpečnostní osvěta pro seniory.",
       "sources": [],
-      "relatedPress": [
-        {
-          "id": "82687",
-          "date": "2025-10-15",
-          "title": "Senior v dopravě aneb Školení řidičů",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-15_senior-v-doprave-aneb-skoleni-ridicu_d-82687.md"
-        },
-        {
-          "id": "80997",
-          "date": "2025-03-19",
-          "title": "Senior v bezpečí",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-03-19_senior-v-bezpeci_d-80997.md"
-        }
-      ]
+      "relatedPress": []
     },
     {
       "id": "golias-14",
@@ -13940,60 +13770,12 @@
       ],
       "relatedPress": [
         {
-          "id": "84271",
-          "date": "2026-04-22",
-          "title": "Napadá vás, co by Kopřivničany potěšilo? Získejte na svůj Koprojekt milion!",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-04-22_napada-vas-co-by-koprivnicany-potesilo-ziskejte-na-svuj-koprojekt-milion_d-84271.md"
-        },
-        {
-          "id": "82850",
-          "date": "2025-11-03",
-          "title": "Vítězným Koprojektem je psí zóna ve městě",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-11-03_viteznym-koprojektem-je-psi-zona-ve-meste_d-82850.md"
-        },
-        {
-          "id": "82620",
-          "date": "2025-10-06",
-          "title": "Kopřivničané hlasují o pěti Koprojektech, vítězný může získat až milion na realizaci",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-06_koprivnicane-hlasuji-o-peti-koprojektech-vitezny-muze-ziskat-az-milion-na-realiz_d-82620.md"
-        },
-        {
-          "id": "80923",
-          "date": "2025-03-11",
-          "title": "Jak bude vypadat loňský vítěz Koprojektů?",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-03-11_jak-bude-vypadat-lonsky-vitez-koprojektu_d-80923.md"
-        },
-        {
-          "id": "79820",
-          "date": "2024-11-04",
-          "title": "Vítězným Koprojektem je odpočinek u cyklostezky",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-11-04_viteznym-koprojektem-je-odpocinek-u-cyklostezky_d-79820.md"
-        },
-        {
           "id": "78524",
           "date": "2024-05-22",
           "title": "Blíží se doba podávání Koprojektů, opět je na ně vyčleněn rovný milion!",
           "amountCzk": 1000000,
           "amountLabel": "1 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2024/2024-05-22_blizi-se-doba-podavani-koprojektu-opet-je-na-ne-vyclenen-rovny-milion_d-78524.md"
-        },
-        {
-          "id": "76805",
-          "date": "2023-11-06",
-          "title": "Vítězným Koprojektem je zahrada za Effathou",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-11-06_viteznym-koprojektem-je-zahrada-za-effathou_d-76805.md"
         },
         {
           "id": "75325",
@@ -14007,6 +13789,30 @@
     },
     {
       "id": "golias-15",
+      "title": "Motivační program pro podnikatele v centru města",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Splněno AP 2023–2024 (dotační program + manuál Estetika centra)",
+      "spArea": "A",
+      "spLabel": "A.1 Podnikavost",
+      "benefit": "Dotace a poradenství pro vlastníky a provozovatele v centru — úpravy fasád a výloh podle manuálu Estetika centra (ne daňové úlevy).",
+      "sources": [
+        "data/tiskovky/markdown/2024/2024-01-09_podnikatele-v-centru-mohou-zadat-o-dotace-na-upravy-provozoven_d-77291.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "77291",
+          "date": "2024-01-09",
+          "title": "Podnikatelé v centru mohou žádat o dotace na úpravy provozoven",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-01-09_podnikatele-v-centru-mohou-zadat-o-dotace-na-upravy-provozoven_d-77291.md"
+        }
+      ]
+    },
+    {
+      "id": "golias-16",
       "title": "Místní akční plán rozvoje vzdělávání (MAP)",
       "type": "měkký",
       "amountCzk": null,
@@ -14014,12 +13820,22 @@
       "status": "Probíhá průběžně 2023–2026",
       "spArea": "A",
       "spLabel": "A.3 Flexibilní a vzdělaní lidé",
-      "benefit": "Spolupráce škol a zřizovatelů: digitální vybavení MŠ, semináře pro pedagogy, diagnostika školní zralosti, projekty kvality výuky.",
+      "benefit": "Spolupráce škol a zřizovatelů: digitální vybavení MŠ, semináře pro pedagogy, diagnostika školní zralosti, výzva 100 hodin venku.",
       "sources": [
+        "data/tiskovky/markdown/2022/2022-04-19_skolky-dostanou-nove-digi-vybaveni-seminar-jim-pomohl-s-vyberem_d-4000.md",
         "data/tiskovky/markdown/2024/2024-03-07_pedagogy-nadchnul-seminar-o-matematice_d-77794.md",
-        "data/tiskovky/markdown/2024/2024-06-13_skolky-vyuzivaji-moderni-zpusob-diagnostiky-skolni-zralosti_d-78792.md"
+        "data/tiskovky/markdown/2024/2024-06-13_skolky-vyuzivaji-moderni-zpusob-diagnostiky-skolni-zralosti_d-78792.md",
+        "data/tiskovky/markdown/2025/2025-06-30_skoly-na-koprivnicku-slavi-uspech-ve-vyzve-100-hodin-venku_d-81945.md"
       ],
       "relatedPress": [
+        {
+          "id": "81945",
+          "date": "2025-06-30",
+          "title": "Školy na Kopřivnicku slaví úspěch ve výzvě „100 hodin venku“",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-30_skoly-na-koprivnicku-slavi-uspech-ve-vyzve-100-hodin-venku_d-81945.md"
+        },
         {
           "id": "78792",
           "date": "2024-06-13",
@@ -14039,7 +13855,7 @@
       ]
     },
     {
-      "id": "golias-16",
+      "id": "golias-17",
       "title": "Kariérové poradenství pro žáky ZŠ",
       "type": "měkký",
       "amountCzk": null,
@@ -14048,11 +13864,22 @@
       "spArea": "A",
       "spLabel": "A.3 Flexibilní a vzdělaní lidé",
       "benefit": "Systematická podpora kariérového poradenství na školách v Kopřivnici — pomoc žákům 8. a 9. tříd s volbou školy a budoucího povolání.",
-      "sources": [],
-      "relatedPress": []
+      "sources": [
+        "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "77433",
+          "date": "2024-01-24",
+          "title": "Beseda pomůže s přihláškami na střední",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md"
+        }
+      ]
     },
     {
-      "id": "golias-17",
+      "id": "golias-18",
       "title": "Dny tvojí kariéry",
       "type": "měkký",
       "amountCzk": null,
@@ -14094,143 +13921,49 @@
       ]
     },
     {
-      "id": "golias-18",
+      "id": "golias-19",
       "title": "Rekonstrukce jídelny ZŠ 17. listopadu",
       "type": "investice",
-      "amountCzk": null,
-      "amountLabel": "-",
-      "status": "Realizace 2024–2025",
+      "amountCzk": 7350000,
+      "amountLabel": "7 mil. Kč",
+      "status": "Dokončeno 2024–2025 (jídelna + pavilon Polárka)",
       "spArea": "A",
-      "spLabel": "A.3 Vzdělávání / B.3 Volný čas",
-      "benefit": "Modernizace školního stravování — kvalitnější zázemí pro žáky a personál.",
+      "spLabel": "A.3 Vzdělávání",
+      "benefit": "Nová školní jídelna s flexibilním nábytkem, elektroinstalace a zázemí MŠ Polárka — 6,8 mil. stavba + nábytek.",
       "sources": [
-        "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
+        "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md",
+        "data/tiskovky/markdown/2025/2025-06-20_casti-skolaku-zacaly-prazdniny-o-tyden-drive_d-81815.md",
+        "data/tiskovky/markdown/2025/2025-09-01_skolaky-dnes-vitaly-nove-tridy-i-novi-reditele_d-82287.md"
       ],
       "relatedPress": [
         {
-          "id": "84370",
-          "date": "2026-05-04",
-          "title": "Začíná rekonstrukce chodníku v Lubině",
-          "amountCzk": 4000000,
-          "amountLabel": "4 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-05-04_zacina-rekonstrukce-chodniku-v-lubine_d-84370.md"
-        },
-        {
-          "id": "83934",
-          "date": "2026-03-18",
-          "title": "Po Velikonocích bude pokračovat rekonstrukce chodníků na Polní",
-          "amountCzk": 4000000,
-          "amountLabel": "4 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-03-18_po-velikonocich-bude-pokracovat-rekonstrukce-chodniku-na-polni_d-83934.md"
-        },
-        {
-          "id": "83344",
-          "date": "2026-01-13",
-          "title": "Brzy začne rekonstrukce vestibulu radnice",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-01-13_brzy-zacne-rekonstrukce-vestibulu-radnice_d-83344.md"
-        },
-        {
-          "id": "83337",
-          "date": "2026-01-07",
-          "title": "Začíná rekonstrukce koupaliště",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2026/2026-01-07_zacina-rekonstrukce-koupaliste_d-83337.md"
-        },
-        {
-          "id": "83222",
-          "date": "2025-12-15",
-          "title": "Zastupitelé schválili rozpočet,  čeká nás zahájení tří velkých investic",
-          "amountCzk": 223000000,
-          "amountLabel": "223 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
-        },
-        {
-          "id": "82808",
-          "date": "2025-10-30",
-          "title": "V suterénu Fojtství probíhá rekonstrukce",
-          "amountCzk": 7000000,
-          "amountLabel": "7 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-30_v-suterenu-fojtstvi-probiha-rekonstrukce_d-82808.md"
-        },
-        {
-          "id": "82738",
-          "date": "2025-10-22",
-          "title": "Rada vybrala firmu, která zrekonstruuje koupaliště",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-22_rada-vybrala-firmu-ktera-zrekonstruuje-koupaliste_d-82738.md"
-        },
-        {
-          "id": "82740",
-          "date": "2025-10-22",
-          "title": "Radní rozhodli o pokračování rekonstrukce chodníků na Polní",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-10-22_radni-rozhodli-o-pokracovani-rekonstrukce-chodniku-na-polni_d-82740.md"
-        },
-        {
-          "id": "82374",
-          "date": "2025-09-09",
-          "title": "Na Severu pokračuje rekonstrukce chodníků",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-09-09_na-severu-pokracuje-rekonstrukce-chodniku_d-82374.md"
-        },
-        {
-          "id": "82108",
-          "date": "2025-08-06",
-          "title": "Brzy začne rekonstrukce prostranství u Dvořákovy ulice",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-08-06_brzy-zacne-rekonstrukce-prostranstvi-u-dvorakovy-ulice_d-82108.md"
-        },
-        {
-          "id": "82053",
-          "date": "2025-07-23",
-          "title": "Kopřivnice hledá firmu, která zrekonstruuje koupaliště",
+          "id": "82287",
+          "date": "2025-09-01",
+          "title": "Školáky dnes vítaly nové třídy i noví ředitelé",
           "amountCzk": null,
           "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-23_koprivnice-hleda-firmu-ktera-zrekonstruuje-koupaliste_d-82053.md"
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-01_skolaky-dnes-vitaly-nove-tridy-i-novi-reditele_d-82287.md"
         },
         {
-          "id": "81983",
-          "date": "2025-07-07",
-          "title": "Na Alšovce začíná rekonstrukce kanalizace",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-07_na-alsovce-zacina-rekonstrukce-kanalizace_d-81983.md"
+          "id": "81815",
+          "date": "2025-06-20",
+          "title": "Části školáků začaly prázdniny o týden dříve",
+          "amountCzk": 10000000,
+          "amountLabel": "10 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-20_casti-skolaku-zacaly-prazdniny-o-tyden-drive_d-81815.md"
         },
         {
-          "id": "81760",
-          "date": "2025-06-17",
-          "title": "Zbrojnice v Drnholci je po rekonstrukci jako nová",
-          "amountCzk": 5000000,
-          "amountLabel": "5 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-17_zbrojnice-v-drnholci-je-po-rekonstrukci-jako-nova_d-81760.md"
-        },
-        {
-          "id": "81695",
-          "date": "2025-06-06",
-          "title": "Na Dukelské začne rekonstrukce chodníků",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-06_na-dukelske-zacne-rekonstrukce-chodniku_d-81695.md"
-        },
-        {
-          "id": "81516",
-          "date": "2025-05-20",
-          "title": "Začne rekonstrukce chodníků na Polní",
-          "amountCzk": 3000000,
-          "amountLabel": "3 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-05-20_zacne-rekonstrukce-chodniku-na-polni_d-81516.md"
+          "id": "79073",
+          "date": "2024-07-17",
+          "title": "Ve školách se o prázdninách nezahálí",
+          "amountCzk": 9000000,
+          "amountLabel": "9 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md"
         }
       ]
     },
     {
-      "id": "golias-19",
+      "id": "golias-20",
       "title": "Akce v centru města a výstavním pavilonu",
       "type": "měkký",
       "amountCzk": null,
@@ -14243,9 +13976,36 @@
         "data/tiskovky/markdown/2023/2023-11-29_adventni-cteni-v-pavilonu-v-centru-mesta_d-77013.md",
         "data/tiskovky/markdown/2024/2024-02-20_vystava-v-pavilonu-pripomina-den-materskeho-jazyka_d-77645.md",
         "data/tiskovky/markdown/2024/2024-03-04_mesic-knihy-pripomina-instalace-v-pavilonu-i-akce-v-knihovne_d-77763.md",
-        "data/tiskovky/markdown/2024/2024-09-19_pavilon-bude-hostit-milovniky-kavy_d-79440.md"
+        "data/tiskovky/markdown/2024/2024-09-19_pavilon-bude-hostit-milovniky-kavy_d-79440.md",
+        "data/tiskovky/markdown/2025/2025-02-05_projekce-v-pavilonu-pripomene-mistni-malire_d-80559.md",
+        "data/tiskovky/markdown/2025/2025-07-10_instalace-v-pavilonu-laka-k-vyletum-do-muzei-za-zajimavymi-stavbami-i-prirodnimi_d-82000.md",
+        "data/tiskovky/markdown/2025/2025-12-01_nove-namesti-rozzarili-mamuti-a-v-lasske-brane-ozila-detska-prani_d-83081.md"
       ],
       "relatedPress": [
+        {
+          "id": "83081",
+          "date": "2025-12-01",
+          "title": "Nové náměstí rozzářili mamuti a v Lašské bráně ožila dětská přání",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-12-01_nove-namesti-rozzarili-mamuti-a-v-lasske-brane-ozila-detska-prani_d-83081.md"
+        },
+        {
+          "id": "82000",
+          "date": "2025-07-10",
+          "title": "Instalace v pavilonu láká k výletům do muzeí,  za zajímavými stavbami i přírodními krásami",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-07-10_instalace-v-pavilonu-laka-k-vyletum-do-muzei-za-zajimavymi-stavbami-i-prirodnimi_d-82000.md"
+        },
+        {
+          "id": "80559",
+          "date": "2025-02-05",
+          "title": "Projekce v pavilonu připomene místní malíře",
+          "amountCzk": 4000000,
+          "amountLabel": "4 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-02-05_projekce-v-pavilonu-pripomene-mistni-malire_d-80559.md"
+        },
         {
           "id": "79440",
           "date": "2024-09-19",
@@ -14281,28 +14041,37 @@
       ]
     },
     {
-      "id": "golias-20",
+      "id": "golias-21",
       "title": "Větřkovická přehrada – atraktivita pro veřejnost",
       "type": "investice",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Postupně 2022–2024 (molo, hřiště, lavičky)",
+      "status": "Postupně 2019–2025 (molo, hřiště, převlékárny, Lovečka/fotopoint)",
       "spArea": "B",
       "spLabel": "B.4 Destinace cestovního ruchu",
-      "benefit": "Nové molo, dětské hřiště, převlékárny a obnovené prvky u přehrady — místo pro volný čas a turistický ruch.",
+      "benefit": "Bufet s toaletami, molo, dětské hřiště, převlékárny, nabíječka e-kol, knihobudka a Lovečka jako fotopoint u přehrady.",
       "sources": [
         "data/tiskovky/markdown/2023/2023-05-24_na-vetrkovicke-prehrade-letos-vznikne-molo_d-75613.md",
         "data/tiskovky/markdown/2024/2024-05-16_upravy-prehrady-pokracuji-renovaci-lavicek_d-78475.md",
-        "data/tiskovky/markdown/2024/2024-08-14_vetrkovicky-triatlon-poprve-i-pro-deti_d-79168.md"
+        "data/tiskovky/markdown/2025/2025-07-11_vetrky-slavi-padesatiny-mesto-chysta-oslavu-a-shani-fotky_d-82040.md",
+        "data/tiskovky/markdown/2025/2025-12-03_na-vetrkach-byla-instalovana-lovecka_d-83091.md"
       ],
       "relatedPress": [
         {
-          "id": "79168",
-          "date": "2024-08-14",
-          "title": "Větřkovický triatlon poprvé i pro děti",
+          "id": "83091",
+          "date": "2025-12-03",
+          "title": "Na Větřkách byla instalována Lovečka",
           "amountCzk": null,
           "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-08-14_vetrkovicky-triatlon-poprve-i-pro-deti_d-79168.md"
+          "sourceFile": "data/tiskovky/markdown/2025/2025-12-03_na-vetrkach-byla-instalovana-lovecka_d-83091.md"
+        },
+        {
+          "id": "82040",
+          "date": "2025-07-11",
+          "title": "Větřky slaví padesátiny – město chystá oslavu a shání fotky",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-07-11_vetrky-slavi-padesatiny-mesto-chysta-oslavu-a-shani-fotky_d-82040.md"
         },
         {
           "id": "78475",
@@ -14323,20 +14092,49 @@
       ]
     },
     {
-      "id": "golias-21",
-      "title": "Odpočívka pro turisty v centru města",
+      "id": "golias-22",
+      "title": "Odpočívka nejen pro turisty v centru města",
       "type": "investice",
-      "amountCzk": null,
-      "amountLabel": "-",
-      "status": "Realizace v rámci úprav centra",
+      "amountCzk": 4000000,
+      "amountLabel": "4 mil. Kč",
+      "status": "Realizováno (dotace MMR, NP podpory cestovního ruchu v regionech)",
       "spArea": "B",
-      "spLabel": "B.2 Centrální zóna / B.4 Destinace",
-      "benefit": "Veřejně přístupné odpočinkové místo v centru pro občany i návštěvníky města.",
-      "sources": [],
-      "relatedPress": []
+      "spLabel": "B Přitažlivost / image města a veřejný život",
+      "benefit": "Doplnění vybavení Výstavního pavilonu na Novém náměstí pro kulturní a společenské akce: rozkládací lehátka pro návštěvníky centra, projektor pro videomappingové promítání a dva designové prodejní stánky jako zázemí aktivit v centru. Projekt podpořila dotace Ministerstva pro místní rozvoj ČR (celkové náklady cca 4 mil. Kč).",
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-02-05_projekce-v-pavilonu-pripomene-mistni-malire_d-80559.md",
+        "data/tiskovky/markdown/2025/2025-07-10_instalace-v-pavilonu-laka-k-vyletum-do-muzei-za-zajimavymi-stavbami-i-prirodnimi_d-82000.md",
+        "data/tiskovky/markdown/2025/2025-09-17_vystavni-pavilon-predstavi-rozmanitost-koprivnicke-keramiky_d-82433.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "82433",
+          "date": "2025-09-17",
+          "title": "Výstavní pavilon představí rozmanitost kopřivnické keramiky",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-17_vystavni-pavilon-predstavi-rozmanitost-koprivnicke-keramiky_d-82433.md"
+        },
+        {
+          "id": "82000",
+          "date": "2025-07-10",
+          "title": "Instalace v pavilonu láká k výletům do muzeí,  za zajímavými stavbami i přírodními krásami",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-07-10_instalace-v-pavilonu-laka-k-vyletum-do-muzei-za-zajimavymi-stavbami-i-prirodnimi_d-82000.md"
+        },
+        {
+          "id": "80559",
+          "date": "2025-02-05",
+          "title": "Projekce v pavilonu připomene místní malíře",
+          "amountCzk": 4000000,
+          "amountLabel": "4 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-02-05_projekce-v-pavilonu-pripomene-mistni-malire_d-80559.md"
+        }
+      ]
     },
     {
-      "id": "golias-22",
+      "id": "golias-23",
       "title": "Sdílená kola v Kopřivnici",
       "type": "měkký",
       "amountCzk": null,
@@ -14347,25 +14145,10 @@
       "benefit": "Služba bikesharingu zavedená společně s Novým Jičínem; po prvním roce zájem převýšil očekávání, přidána další stanoviště.",
       "sources": [
         "data/tiskovky/markdown/2024/2024-03-27_koprivnice-spolu-s-novym-jicinem-zavadi-sluzbu-sdilenych-kol_d-77955.md",
-        "data/tiskovky/markdown/2024/2024-07-24_sdileni-kol-predcilo-ocekavani-pridavame-stanoviste_d-79089.md"
+        "data/tiskovky/markdown/2024/2024-07-24_sdileni-kol-predcilo-ocekavani-pridavame-stanoviste_d-79089.md",
+        "data/tiskovky/markdown/2025/2025-02-25_rozsireni-poctu-stanovist-pro-sdilena-kola_d-80762.md"
       ],
       "relatedPress": [
-        {
-          "id": "82056",
-          "date": "2025-07-25",
-          "title": "Na radnici začíná fungovat sdílená kancelář",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-25_na-radnici-zacina-fungovat-sdilena-kancelar_d-82056.md"
-        },
-        {
-          "id": "81989",
-          "date": "2025-07-09",
-          "title": "Na radnici vznikne sdílená kancelář KOP-WORK",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-07-09_na-radnici-vznikne-sdilena-kancelar-kop-work_d-81989.md"
-        },
         {
           "id": "80762",
           "date": "2025-02-25",
@@ -14389,19 +14172,11 @@
           "amountCzk": null,
           "amountLabel": "-",
           "sourceFile": "data/tiskovky/markdown/2024/2024-03-27_koprivnice-spolu-s-novym-jicinem-zavadi-sluzbu-sdilenych-kol_d-77955.md"
-        },
-        {
-          "id": "77510",
-          "date": "2024-02-02",
-          "title": "Na jaře by mohla Kopřivnicí začít jezdit sdílená kola",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-02-02_na-jare-by-mohla-koprivnici-zacit-jezdit-sdilena-kola_d-77510.md"
         }
       ]
     },
     {
-      "id": "golias-23",
+      "id": "golias-24",
       "title": "Posílení autobusových linek do sídliště Sever a Korej",
       "type": "měkký",
       "amountCzk": null,
@@ -14434,7 +14209,7 @@
       ]
     },
     {
-      "id": "golias-24",
+      "id": "golias-25",
       "title": "Nová parkoviště (Obránců míru, Školní, u ZŠ 17. listopadu)",
       "type": "investice",
       "amountCzk": null,
@@ -14445,9 +14220,19 @@
       "benefit": "Rozšíření parkovacích kapacit v sídlištních lokalitách: Obránců míru za č. p. 761, ulice Školní a plocha u hřiště ZŠ 17. listopadu.",
       "sources": [
         "data/tiskovky/markdown/2023/2023-01-13_na-jare-zacne-vystavba-dalsiho-parkoviste_d-40518.md",
-        "data/tiskovky/markdown/2023/2023-08-15_v-koprivnici-vzniklo-nove-parkoviste_d-76180.md"
+        "data/tiskovky/markdown/2023/2023-06-15_na-severu-se-diskutovalo-o-parkovani-a-vzhledu-sidliste_d-75816.md",
+        "data/tiskovky/markdown/2023/2023-08-15_v-koprivnici-vzniklo-nove-parkoviste_d-76180.md",
+        "data/tiskovky/markdown/2024/2024-09-09_brzy-zacne-oprava-dalsich-chodniku-a-komunikaci_d-79342.md"
       ],
       "relatedPress": [
+        {
+          "id": "79342",
+          "date": "2024-09-09",
+          "title": "Brzy začne oprava dalších chodníků a komunikací",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-09-09_brzy-zacne-oprava-dalsich-chodniku-a-komunikaci_d-79342.md"
+        },
         {
           "id": "76180",
           "date": "2023-08-15",
@@ -14455,6 +14240,14 @@
           "amountCzk": 5000000,
           "amountLabel": "5 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2023/2023-08-15_v-koprivnici-vzniklo-nove-parkoviste_d-76180.md"
+        },
+        {
+          "id": "75816",
+          "date": "2023-06-15",
+          "title": "Na Severu se diskutovalo o parkování a vzhledu sídliště",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-06-15_na-severu-se-diskutovalo-o-parkovani-a-vzhledu-sidliste_d-75816.md"
         },
         {
           "id": "40518",
@@ -14467,37 +14260,49 @@
       ]
     },
     {
-      "id": "golias-25",
+      "id": "golias-26",
       "title": "Výměna veřejného osvětlení za úsporná LED svítidla",
       "type": "investice",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Realizováno 2023–2025",
+      "status": "Realizováno 2023–2025 (etapy včetně centra a ulic)",
       "spArea": "C",
       "spLabel": "C Vyvážený rozvoj (energetika a životní prostředí)",
-      "benefit": "Úspora energie a kvalitnější osvětlení ulic — postupná výměna svítidel s konzultací s občany.",
-      "sources": [],
+      "benefit": "Úspora energie a kvalitnější osvětlení ulic — postupná výměna výbojek za LED (centrum, ulice Dolní aj.).",
+      "sources": [
+        "data/tiskovky/markdown/2024/2024-03-18_zhasnuti-centra-mesta-upozorni-na-nutnost-ochrany-klimatu_d-77900.md",
+        "data/tiskovky/markdown/2025/2025-03-17_koprivnice-podpori-kampan-hodina-zeme_d-80988.md",
+        "data/tiskovky/markdown/2025/2025-10-20_ulice-dolni-se-docka-verejneho-osvetleni_d-82731.md"
+      ],
       "relatedPress": [
         {
-          "id": "82111",
-          "date": "2025-08-07",
-          "title": "V kině probíhá výměna vzduchotechniky",
-          "amountCzk": 2000000,
-          "amountLabel": "2 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-08-07_v-kine-probiha-vymena-vzduchotechniky_d-82111.md"
+          "id": "82731",
+          "date": "2025-10-20",
+          "title": "Ulice Dolní se dočká veřejného osvětlení",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-10-20_ulice-dolni-se-docka-verejneho-osvetleni_d-82731.md"
         },
         {
-          "id": "81825",
-          "date": "2025-06-25",
-          "title": "Výměna veřejného osvětlení finišuje",
-          "amountCzk": 7000000,
-          "amountLabel": "7 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-25_vymena-verejneho-osvetleni-finisuje_d-81825.md"
+          "id": "80988",
+          "date": "2025-03-17",
+          "title": "Kopřivnice podpoří kampaň Hodina Země",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-17_koprivnice-podpori-kampan-hodina-zeme_d-80988.md"
+        },
+        {
+          "id": "77900",
+          "date": "2024-03-18",
+          "title": "Zhasnutí centra města upozorní na nutnost ochrany klimatu",
+          "amountCzk": 9000000,
+          "amountLabel": "9 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-03-18_zhasnuti-centra-mesta-upozorni-na-nutnost-ochrany-klimatu_d-77900.md"
         }
       ]
     },
     {
-      "id": "golias-26",
+      "id": "golias-27",
       "title": "Re-use centrum",
       "type": "měkký",
       "amountCzk": null,
@@ -14511,30 +14316,6 @@
         "data/tiskovky/markdown/2023/2023-04-06_pokladnicka-v-re-use-centru-je-po-trech-mesicich-plna_d-75139.md"
       ],
       "relatedPress": [
-        {
-          "id": "77161",
-          "date": "2023-12-14",
-          "title": "Re-use centrum rozšířilo své prostory",
-          "amountCzk": 7000000,
-          "amountLabel": "7 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-12-14_re-use-centrum-rozsirilo-sve-prostory_d-77161.md"
-        },
-        {
-          "id": "75812",
-          "date": "2023-06-14",
-          "title": "Sbírka v re-use centru předčila očekávání",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-06-14_sbirka-v-re-use-centru-predcila-ocekavani_d-75812.md"
-        },
-        {
-          "id": "75662",
-          "date": "2023-05-30",
-          "title": "Radnice zřídí dvoudenní re-use centrum",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2023/2023-05-30_radnice-zridi-dvoudenni-re-use-centrum_d-75662.md"
-        },
         {
           "id": "75139",
           "date": "2023-04-06",
@@ -14554,7 +14335,7 @@
       ]
     },
     {
-      "id": "golias-27",
+      "id": "golias-28",
       "title": "Door-to-door sběr a třídění odpadu",
       "type": "měkký",
       "amountCzk": null,
@@ -14563,20 +14344,31 @@
       "spArea": "C",
       "spLabel": "C Vyvážený rozvoj (odpadové hospodářství)",
       "benefit": "Rozšiřování svozu vytříděných složek odpadu od domu k domu — komfortnější systém pro občany a vyšší míra třídění.",
-      "sources": [],
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-01-15_specialni-priloha-novin-poradi-s-tridenim-odpadu_d-80354.md",
+        "data/tiskovky/markdown/2025/2025-06-16_koprivnicane-tridi-nejlepe-v-kraji_d-81753.md"
+      ],
       "relatedPress": [
         {
-          "id": "77535",
-          "date": "2024-02-06",
-          "title": "Door-to-door sběr papíru se rozšíří do celého města",
+          "id": "81753",
+          "date": "2025-06-16",
+          "title": "Kopřivničané třídí nejlépe v kraji",
           "amountCzk": null,
           "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-02-06_door-to-door-sber-papiru-se-rozsiri-do-celeho-mesta_d-77535.md"
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-16_koprivnicane-tridi-nejlepe-v-kraji_d-81753.md"
+        },
+        {
+          "id": "80354",
+          "date": "2025-01-15",
+          "title": "Speciální příloha novin poradí s tříděním odpadů",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-01-15_specialni-priloha-novin-poradi-s-tridenim-odpadu_d-80354.md"
         }
       ]
     },
     {
-      "id": "golias-28",
+      "id": "golias-29",
       "title": "Krajský domov pro seniory Pod Bílou horou",
       "type": "měkký",
       "amountCzk": null,
@@ -14588,9 +14380,18 @@
       "sources": [
         "data/tiskovky/markdown/2023/2023-06-26_domov-pro-seniory-ma-byt-hotov-v-lednu-zadosti-bude-mozne-podavat-od-dubna_d-75932.md",
         "data/tiskovky/markdown/2024/2024-04-16_seniori-mohou-zadat-o-misto-v-novem-domove_d-78176.md",
-        "data/tiskovky/markdown/2024/2024-06-18_v-koprivnici-se-otevrel-domov-pro-seniory_d-78845.md"
+        "data/tiskovky/markdown/2024/2024-06-18_v-koprivnici-se-otevrel-domov-pro-seniory_d-78845.md",
+        "data/tiskovky/markdown/2025/2025-04-25_zastupitele-schvalili-dotaci-na-opravu-kostela-nebo-prodej-pozemku-v-prumyslovem_d-81332.md"
       ],
       "relatedPress": [
+        {
+          "id": "81332",
+          "date": "2025-04-25",
+          "title": "Zastupitelé schválili dotaci na opravu kostela nebo prodej pozemků v průmyslovém parku",
+          "amountCzk": 4000000,
+          "amountLabel": "4 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-04-25_zastupitele-schvalili-dotaci-na-opravu-kostela-nebo-prodej-pozemku-v-prumyslovem_d-81332.md"
+        },
         {
           "id": "78845",
           "date": "2024-06-18",
@@ -14618,20 +14419,32 @@
       ]
     },
     {
-      "id": "golias-29",
+      "id": "golias-30",
       "title": "Obnova zahrady DSZR Masarykovo náměstí 650",
       "type": "investice",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Plánovaná obnova",
+      "status": "Plánovaná obnova (AP)",
       "spArea": "D",
       "spLabel": "D Sociální zázemí",
       "benefit": "Obnova zahrady pro obyvatele domu se zvláštním režimem na Masarykově nám. 650 — důstojnější venkovní prostředí pro klienty.",
-      "sources": [],
-      "relatedPress": []
+      "sources": [
+        "data/tiskovky/markdown/2023/2023-06-30_po-rekonstrukci-se-dum-c-650-dockal-i-nove-zahrady_d-75995.md",
+        "data/tiskovky/markdown/2022/2022-02-02_v-byvale-skole-ma-vzniknout-devatenact-bytu_d-3959.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "75995",
+          "date": "2023-06-30",
+          "title": "Po rekonstrukci se dům č. 650 dočkal i nové zahrady",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-06-30_po-rekonstrukci-se-dum-c-650-dockal-i-nove-zahrady_d-75995.md"
+        }
+      ]
     },
     {
-      "id": "golias-30",
+      "id": "golias-31",
       "title": "Podpora laických pečujících",
       "type": "měkký",
       "amountCzk": null,
@@ -14643,10 +14456,21 @@
       "sources": [
         "data/tiskovky/markdown/2024/2024-03-04_radnice-planuje-pravidelna-setkani-pecujicich_d-77762.md",
         "data/tiskovky/markdown/2024/2024-10-01_pravidelna-setkani-pomahaji-pecujicim-zvladat-narocne-situace_d-79546.md",
+        "data/tiskovky/markdown/2025/2025-03-05_setkani-svepomocne-skupiny-pro-pecujici-v-koprivnici_d-80854.md",
         "data/tiskovky/markdown/2025/2025-03-17_pecujete-o-blizkeho-cloveka-navstivte-edukacni-mistnost-a-zjistete-jak-si-peci-u_d-80977.md",
-        "data/tiskovky/markdown/2025/2025-10-29_psychohygiena-beseda-pro-pecujici-i-sirokou-verejnost_d-82805.md"
+        "data/tiskovky/markdown/2025/2025-09-08_narocnou-situaci-pecujicim-ulehcuji-spolecna-setkani_d-82371.md",
+        "data/tiskovky/markdown/2025/2025-10-29_psychohygiena-beseda-pro-pecujici-i-sirokou-verejnost_d-82805.md",
+        "data/tiskovky/markdown/2026/2026-03-03_mimoradne-setkani-svepomocne-skupiny-pro-pecujici-ve-stredisku-socialnich-sluzeb_d-83781.md"
       ],
       "relatedPress": [
+        {
+          "id": "83781",
+          "date": "2026-03-03",
+          "title": "Mimořádné setkání svépomocné skupiny pro pečující ve Středisku sociálních služeb",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-03-03_mimoradne-setkani-svepomocne-skupiny-pro-pecujici-ve-stredisku-socialnich-sluzeb_d-83781.md"
+        },
         {
           "id": "82805",
           "date": "2025-10-29",
@@ -14656,12 +14480,28 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-10-29_psychohygiena-beseda-pro-pecujici-i-sirokou-verejnost_d-82805.md"
         },
         {
+          "id": "82371",
+          "date": "2025-09-08",
+          "title": "Náročnou situaci pečujícím ulehčují společná setkání",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-08_narocnou-situaci-pecujicim-ulehcuji-spolecna-setkani_d-82371.md"
+        },
+        {
           "id": "80977",
           "date": "2025-03-17",
           "title": "Pečujete o blízkého člověka? Navštivte edukační místnost a zjistěte, jak si péči usnadnit!",
           "amountCzk": null,
           "amountLabel": "-",
           "sourceFile": "data/tiskovky/markdown/2025/2025-03-17_pecujete-o-blizkeho-cloveka-navstivte-edukacni-mistnost-a-zjistete-jak-si-peci-u_d-80977.md"
+        },
+        {
+          "id": "80854",
+          "date": "2025-03-05",
+          "title": "Setkání Svépomocné skupiny pro pečující v Kopřivnici",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-05_setkani-svepomocne-skupiny-pro-pecujici-v-koprivnici_d-80854.md"
         },
         {
           "id": "79546",
@@ -14851,44 +14691,20 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "doprava",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
+        "source": "kultura-sport",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "image",
+        "source": "image",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
+        "source": "kultura-sport",
         "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -14899,38 +14715,20 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
+        "source": "kultura-sport",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "socialni",
+        "source": "kultura-sport",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "provozni",
+        "source": "investice-stavby",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -14941,49 +14739,7 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "image",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "skolstvi",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
@@ -14995,8 +14751,92 @@
         "mode": "cooccurrence"
       },
       {
+        "source": "doprava",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
         "source": "participace",
         "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "image",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       }
