@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generated": "2026-06-25T08:04:15.949576",
+    "generated": "2026-06-25T08:27:04.624167",
     "period": "2023-2026",
-    "pressReleaseCount": 875,
+    "pressReleaseCount": 915,
     "apActivityCount": 496,
-    "markdownFiles": 1086,
+    "markdownFiles": 1126,
     "markdownByYear": {
       "2022": 211,
       "2023": 224,
       "2024": 273,
       "2025": 295,
-      "2026": 83
+      "2026": 123
     },
     "analysisSource": "Analýza tiskových zpráv MÚ Kopřivnice",
     "workflow": "Zpráva o komunikaci města · SP × AP × TZ",
@@ -91,59 +91,66 @@
       }
     ],
     "samplePressFiles": [
-      "data/tiskovky/2026/2026-05-13_koprivnice-vyhrala-elektrooskara_d-84467.md",
-      "data/tiskovky/2026/2026-05-13_komentovane-vychazky-za-krasou-divokych-orchideji_d-84488.md",
-      "data/tiskovky/2026/2026-05-12_koprivnice-opet-hosti-runtour_d-84452.md",
-      "data/tiskovky/2026/2026-05-11_workshop-krajinomalby-pred-lasskym-muzeem_d-84448.md",
-      "data/tiskovky/2026/2026-05-07_koprivnice-ocenila-nejlepsi-sportovce_d-84446.md",
-      "data/tiskovky/2026/2026-05-06_v-koprivnici-pribyly-cykloboxy_d-84404.md",
-      "data/tiskovky/2026/2026-05-06_motylek-zve-k-navsteve-pavilonu_d-84407.md",
-      "data/tiskovky/2026/2026-05-06_farmarsky-trh-nabidne-bohaty-vyber-sazenic-i-fairtradovy-program_d-84408.md"
+      "data/tiskovky/2026/2026-06-24_oprava-vozovky-uzavre-ulici-erbenovu_d-84835.md",
+      "data/tiskovky/2026/2026-06-24_mesto-prodava-vybaveni-skolni-kuchyne-v-aukci_d-84845.md",
+      "data/tiskovky/2026/2026-06-24_cervencove-nedelni-podvecery-budou-patrit-hudbe_d-84836.md",
+      "data/tiskovky/2026/2026-06-23_zakum-zs-dr-milady-horakove-zacinaji-prodlouzene-prazdniny_d-84807.md",
+      "data/tiskovky/2026/2026-06-23_koprivnicke-prazdniny-opet-oziji-projektem-nekdo-ven_d-84808.md",
+      "data/tiskovky/2026/2026-06-22_pokladka-dlazby-v-centru-pokracuje-podle-noveho-harmonogramu_d-84800.md",
+      "data/tiskovky/2026/2026-06-19_do-prace-na-kole-mistni-ucastnici-naslapali-pres-71-tisic-kilometru_d-84798.md",
+      "data/tiskovky/2026/2026-06-17_koprivnice-ucti-pamatku-milady-horakove_d-84755.md"
     ]
   },
   "socio": {
     "overallMood": "Pozitivně-realistická, vítězná mentalita s otevřeností o velkých výzvách",
-    "overallSummary": "Z 875 analyzovaných TZ dominují měkké projekty a investiční příběhy; participace a podnikání jsou v komunikaci slabší vrstva. Průměrné skóre náladových dimenzí: 76/100.",
+    "overallSummary": "Z 915 analyzovaných TZ dominují měkké projekty a investiční příběhy; participace a podnikání jsou v komunikaci slabší vrstva. Průměrné skóre náladových dimenzí: 76/100.",
     "averageScore": 76,
     "dimensions": [
       {
         "id": "hrdost",
         "label": "Hrdost a image města",
         "score": 69,
-        "insight": "Ocenění, šampioni a kulturní akce tvoří 25.1 % tematické mapy (220 TZ). Město komunikuje „vítěznou“ linku, dvojnásobný Šampion Ligy Národní sítě Zdravých měst (ne jen zdraví), otevření centra."
+        "insight": "Ocenění, šampioni a kulturní akce tvoří 25.4 % tematické mapy (232 TZ). Město komunikuje „vítěznou“ linku, dvojnásobný Šampion Ligy Národní sítě Zdravých měst (ne jen zdraví), otevření centra."
       },
       {
         "id": "komunita",
         "label": "Komunita a setkávání",
-        "score": 85,
-        "insight": "Komunitní vrstva: kultura-sport 183×, sociální 77×, měkké projekty dominují (223 TZ v 2025). Pumptrack, trhy, Re-use, narativ „místa, kde se potkáváme“."
+        "score": 86,
+        "insight": "Komunitní vrstva: kultura-sport 194×, sociální 82×, měkké projekty dominují (223 TZ v 2025). Pumptrack, trhy, Re-use, narativ „místa, kde se potkáváme“."
       },
       {
         "id": "participace",
         "label": "Participace a důvěra v plánování",
-        "score": 65,
+        "score": 64,
         "insight": "Participace jako téma: 36 TZ, nízký podíl vůči investicím, ale koncentrovaně silné (Plánujme společně, 10 P, SP 2023). Nálada: otevřené město, ne plánování za zavřenými dveřmi."
       },
       {
         "id": "bezpeci",
         "label": "Bezpečí a infrastruktura",
         "score": 82,
-        "insight": "Doprava 156×, dokončené mosty a okružní křižovatka. Propojení PP k I/58 (25 mil. v plánu) se v roce 2026 nebude stavět, v TZ zůstává spíš úleva z hotových mostů."
+        "insight": "Doprava 166×, dokončené mosty a okružní křižovatka. Propojení PP k I/58 (25 mil. v plánu) se v roce 2026 nebude stavět, v TZ zůstává spíš úleva z hotových mostů."
       },
       {
         "id": "budoucnost",
         "label": "Ambice a investiční optimismus",
         "score": 92,
-        "insight": "Investiční TZ rostou: 2023→52 / 2025→66 / 2026→19. Aktivní Goliáši ORM: koupaliště 205 + Náměstí+byty 213 mil. (418 mil.). I/58 PP (25 mil.) odloženo. Rozpočet města celkem 953 mil."
+        "insight": "Investiční TZ rostou: 2023→52 / 2025→66 / 2026→22. Aktivní Goliáši ORM: koupaliště 205 + Náměstí+byty 213 mil. (418 mil.). I/58 PP (25 mil.) odloženo. Rozpočet města celkem 953 mil."
       },
       {
         "id": "vzdelavani",
         "label": "Rodiny, školství, péče",
         "score": 63,
-        "insight": "Školství 132× + sociální 77×, město mluví k rodinám přes školy, školky, podporu znevýhodněných. Nálada pečujícího města, méně konfliktní než investiční agenda."
+        "insight": "Školství 136× + sociální 82×, město mluví k rodinám přes školy, školky, podporu znevýhodněných. Nálada pečujícího města, méně konfliktní než investiční agenda."
       }
     ],
     "signals": [
+      {
+        "id": "2026-84807",
+        "year": "2026",
+        "title": "Žákům ZŠ dr. Milady Horákové začínají prodloužené prázdniny",
+        "detail": "Téma: investice-stavby · typ: investice",
+        "sentiment": "Ambice · očekávání"
+      },
       {
         "id": "2026-83337",
         "year": "2026",
@@ -194,33 +201,627 @@
         "sentiment": "Zdraví · odpovědnost"
       },
       {
+        "id": "2026-84635",
+        "year": "2026",
+        "title": "Kopřivnice zvítězila ve výzvě (T)řiď se srdcem! Občané nasbírali 290 kilo plechovek",
+        "detail": "Téma: doprava · typ: mekky-projekt",
+        "sentiment": "Hrdost · euforie"
+      },
+      {
         "id": "2026-83926",
         "year": "2026",
         "title": "Kopřivnice oslaví Světový den loutkového divadla festivalem pro děti",
         "detail": "Téma: zivotni-prostredi · typ: mekky-projekt",
         "sentiment": "Radost · oslavný tón"
-      },
-      {
-        "id": "2026-83386",
-        "year": "2026",
-        "title": "Kopřivnice obhájila titul Šampiona",
-        "detail": "Téma: participace · typ: mekky-projekt",
-        "sentiment": "Hrdost · euforie"
-      },
-      {
-        "id": "2026-84326",
-        "year": "2026",
-        "title": "Den vítězství: letos u pomníku promluví skautky",
-        "detail": "Téma: skolstvi · typ: mekky-projekt",
-        "sentiment": "Hrdost · euforie"
       }
     ],
     "gaps": [
-      "Podnikání a ekonomika (24 TZ, 2.7 %), slabá vrstva vůči investicím",
+      "Podnikání a ekonomika (27 TZ, 3.0 %), slabá vrstva vůči investicím",
+      "Participace jako téma, silné události, ale málo průběžné komunikace mezi anketami",
       "Chybí explicitní komunikace rizik/zpoždění u Goliášů, narativ je téměř bez „tvrdých“ zpráv"
     ]
   },
   "pressTable": [
+    {
+      "id": "84836",
+      "date": "2026-06-24",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Červencové nedělní podvečery budou patřit hudbě",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-24_cervencove-nedelni-podvecery-budou-patrit-hudbe_d-84836.md",
+      "wowScore": 1,
+      "body": "> Každou neděli v červenci od 17 hodin rozezní sad dr. Edvarda Beneše kytarové koncerty. Oblíbená série Letních koncertů v parku nabídne příjemnou atmosféru, známé melodie i možnost společně si zazpívat.\nLetošní táboráková edice propojí živou hudbu se společným zpíváním a pohodovou letní atmosférou. Na své si přijdou návštěvníci všech věkových kategorií. Připraveny budou noty a akordy k písním, takže se mohou zapojit hudebníci s vlastními nástroji i ti, kteří si chtějí podvečer zpříjemnit jen poslechem. Za příznivého počasí program doplní také táborák s možností opékání špekáčků.\nProgram odstartuje v neděli 5. července ostravská parta kamarádů Kytarovka, která přiveze akustickou pohodu a známé melodie. O týden později, 12. července, se představí Jiří Gadula se svou interpretací písní Jaromíra Nohavici. Třetí červencovou neděli vystoupí duo BÍDÁCI, nové spojení místních muzikantů Honzy „Comara“ Ražnoka (Comar in the Cube) a Zdeňka Sochy (Zdendalele). Sérii Letních koncertů v parku zakončí 26. července uskupení MR. DAY."
+    },
+    {
+      "id": "84835",
+      "date": "2026-06-24",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Oprava vozovky uzavře ulici Erbenovu",
+      "type": "investice",
+      "amountCzk": 7000000,
+      "amountLabel": "7 mil. Kč",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-24_oprava-vozovky-uzavre-ulici-erbenovu_d-84835.md",
+      "wowScore": 1,
+      "body": "> Na začátku července bude zahájena výměna povrchu komunikace na ulici Erbenově. Stavební práce jsou plánovány na 21 dní, během nichž bude silnice zcela uzavřena. Jako náhrada za parkovací místa podél vozovky poslouží parkoviště u Kachlovky, které bude po dobu realizace zdarma.\nOprava je dlouhodobě připravovanou investicí, neboť povrch komunikace je již značně opotřebovaný a vykazuje řadu lokálních závad. Během července dojde ke kompletní výměně asfaltového povrchu v úseku od retardéru u mostu po křižovatku s ulicí Štramberskou. Součástí projektu bude také úprava žulových kostek oddělujících parkovací stání od vozovky a výšková úprava uličních vpustí dešťové kanalizace. „Věříme, že obyvatelé této lokality přijmou krátkodobá omezení s pochopením. Výsledkem bude kvalitnější a bezpečnější komunikace, která jim bude sloužit řadu dalších let. Předem děkujeme za shovívavost a respektování přechodného dopravního značení,“ uvedl Adam Ondrašík z odboru majetku města s tím, že uzavírka začne pravděpodobně ve středu 1. července.\nOprava vozovky na Erbenově je součástí veřejné zakázky za 1,7 milionu korun, v rámci níž proběhne také asfaltování tří sportovních hřišť. Nového povrchu se v průběhu července dočkají hřiště Pod Morávií u domu čp. 1313, na ulici Kadláčkově poblíž dětského hřiště a na ulici 17. listopadu vedle nerezových skluzavek. „Během stavebních prací budou hřiště uzavřena a kvůli příjezdu stavební techniky bude dočasně omezeno několik parkovacích míst v okolí. Děkujeme za pochopení,“ doplnil Adam Ondrašík."
+    },
+    {
+      "id": "84845",
+      "date": "2026-06-24",
+      "year": "2026",
+      "theme": "skolstvi",
+      "themeLabel": "Školství",
+      "title": "Město prodává vybavení školní kuchyně v aukci",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-24_mesto-prodava-vybaveni-skolni-kuchyne-v-aukci_d-84845.md",
+      "wowScore": 1,
+      "body": "> Kopřivnice spustila další aukci nevyužitého majetku. Tentokrát je nabídka velmi specifická, neboť jde o vybavení z rekonstruované kuchyně ZŠ dr. Milady Horákové. Zakoupit je možné konvektomat, mycí stroj, smažící pánve, plynový kotel, plynové sporáky, drtící zařízení, nerezový dřez, elektrickou stoličku, lednice nebo mrazničky.\nAukce s 16 položkami je dostupná na webu města a skončí v úterý 7. července v 7 hodin. Telefonní číslo, na kterém lze získat bližší informace o nabízených předmětech, je uvedeno přímo v jejich popisech. Výherci, kteří podají nejvyšší nabídky, budou následně kontaktováni."
+    },
+    {
+      "id": "84807",
+      "date": "2026-06-23",
+      "year": "2026",
+      "theme": "investice-stavby",
+      "themeLabel": "Investice a stavby",
+      "title": "Žákům ZŠ dr. Milady Horákové začínají prodloužené prázdniny",
+      "type": "investice",
+      "amountCzk": 51000000,
+      "amountLabel": "51 mil. Kč",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-23_zakum-zs-dr-milady-horakove-zacinaji-prodlouzene-prazdniny_d-84807.md",
+      "wowScore": 3,
+      "body": "> Žáci ZŠ dr. Milady Horákové už dnes převzali svá vysvědčení a začínají jim prázdniny. Na škole totiž začíná rozsáhlá rekonstrukce školní kuchyně, jídelny, hlavního vstupu a respiria. Po návratu do školy tak bude žáky čekat příjemnější prostředí a kuchařky se mohou těšit na lepší pracovní podmínky i moderní vybavení.\nPo rozdání vysvědčení začne stěhování a příprava prostor na stavební práce. Samotná rekonstrukce odstartuje 29. června. Opravy se dotknou téměř celého pavilonu, v němž se nachází školní jídelna. Zrekonstruována bude školní kuchyně, jídelna, ale také hlavní vstup a společné prostory v přízemí, kde mimo jiné dojde k přemístění bufetu. Varna jídel bude rozšířena na úkor jídelny a získá nové moderní vybavení i nový nákladní výtah. Zrekonstruuje se rovněž vzduchotechnická jednotka, která bude doplněna o chlazení a rekuperaci. V jídelně bude doplněn akustický podhled. V prostorech dotčených rekonstrukcí bude vyměněna elektroinstalace, opraveny rozvody vody a topení. Současně bude vyměněn dosluhující páteřní rozvod vody vedoucí do jednotlivých pavilonů školy.\nVzhledem k rozsahu prací nebude možné dokončit rekonstrukci během letních prázdnin, a proto ředitel školy požádal Ministerstvo školství, mládeže a tělovýchovy ČR o odlišnou organizaci školního roku spočívající v zahájení výuky v novém školním roce o týden později. Část stavebních prací bude probíhat za provozu, což se dotkne především fungování školní kuchyně. V září a říjnu proto bude zajištěno náhradní stravování na místní Střední a vyšší odborné škole, kam budou žáky i pedagogy vozit autobusy financované městem.\nCelkové náklady na rekonstrukci a pořízení nového gastro vybavení přesáhnou 51 milionů korun. Jedná se tak o největší investici do školní budovy, která bude během letošních prázdnin probíhat. Kromě toho bude na některých školách a školkách pokračovat výměna lin ve vybraných třídách."
+    },
+    {
+      "id": "84808",
+      "date": "2026-06-23",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Kopřivnické prázdniny opět ožijí projektem Někdo ven???",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-23_koprivnicke-prazdniny-opet-oziji-projektem-nekdo-ven_d-84808.md",
+      "wowScore": 1,
+      "body": "> Devět akcí, devět příležitostí zažít něco nového. Oblíbený prázdninový projekt pro mládež Někdo ven??? se letos v Kopřivnici uskuteční už podvanácté a opět nabídne pestrý program plný sportu, zábavy i netradičních aktivit.\nBěhem července a srpna čeká účastníky devět akcí určených všem, kteří nechtějí trávit prázdniny doma, ale raději si léto užijí aktivně ve společnosti svých vrstevníků. Účast na všech akcích je zdarma.\nProgram nabídne například cyklistickou vyjížďku na Hukvaldy, dodgeball, noční pochod nebo závěrečnou párty na Novém náměstí, která bude i letos vyvrcholením celého projektu.\nLetošní ročník přináší také dvě nové akce. Ve středu 9. července proběhne odpoledne inspirované Japonskem, během kterého si účastníci vyzkoušejí workshop kreslení ve stylu mangy, skládání origami a čekají je také sportovní a odpočinkové aktivity. O týden později, 16. července, se dění přesune k Větřkovické přehradě, kde místní vodáci připravili akční hru kombinující aktivity na vodě i na souši. Chybět nebude dobrodružství, týmová spolupráce ani pořádná dávka zábavy.\nAktuální informace a detailní rozpis akcí je možné sledovat na facebookové stránce projektu [https://www.facebook.com/nekdoven](https://www.facebook.com/nekdoven)."
+    },
+    {
+      "id": "84800",
+      "date": "2026-06-22",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Pokládka dlažby v centru pokračuje podle nového harmonogramu",
+      "type": "mekky-projekt",
+      "amountCzk": 8000000,
+      "amountLabel": "8 mil. Kč",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-22_pokladka-dlazby-v-centru-pokracuje-podle-noveho-harmonogramu_d-84800.md",
+      "wowScore": 3,
+      "body": "> Výměna povrchů navazujících na Nové náměstí, jejímž cílem je estetické i funkční zkvalitnění prostranství v centru města, pokračuje podle upraveného harmonogramu. Důvodem jsou nečekané komplikace vyplývající z nesouladu dostupných dokumentací se skutečným stavem pod povrchem.\nJako první se dokončí pokládka velkoformátové dlažby před kulturním domem. Práce v této lokalitě se protáhly, neboť po odstranění asfaltu a odkopání části podloží se narazilo na vedení vysokého napětí, které bylo uloženo výše, než uváděla projektová dokumentace. Současně zde byla zjištěna nevyhovující statika, a proto bylo nutné doplnit další vrstvu kameniva. Tyto vícepráce si vyžádaly prodloužení doby realizace i navýšení nákladů, zajistí však bezpečný vjezd vozidel zajišťujících zásobování kulturního domu.\n„Nové výšce terénu před kulturním domem bude potřeba přizpůsobit také ocelové schodiště vedoucí z Nového náměstí. Do doby jeho výměny, která je plánována na jaro příštího roku, bude poslední spodní schod vyšší. Místo proto označíme a žádáme chodce o zvýšenou opatrnost,“ uvedl referent odboru majetku města Pavel Zajíček. Doplnil, že už tento týden bude obnoven provoz veřejných toalet, které byly během uzavření vymalovány a opatřeny antivandal nátěrem.\nKe změně časového plánu došlo také v prostoru před lékárnou Dr. Max a bistrem Saigon. Po odkrytí povrchu stavebníci zjistili, že oproti dokumentaci je zde výše uložená plynovodní přípojka. Po konzultaci se společností GasNet bylo nutné přepracovat plánovaný postup prací a zajistit, aby provozem nedošlo k poškození plynovodu.\nS ohledem na vzniklé komplikace se první etapa stavby prodlouží z 60 na 100 dní. Současně do ní bude nově zařazena také úprava prostoru před drogerií Teta, která měla být původně součástí druhé etapy. „Zde se práce rozběhnou tento nebo příští týden. Přístup ke všem provozovnám by měl zůstat po celou dobu zachován, omezení budeme plánovat na víkendy. Pěší žádáme o trpělivost a doporučujeme využívat chodníky na protější straně komunikace,“ uvedl vedoucí odboru majetku města Adam Ondrašík. Obě zmíněné lokality – u lékárny Dr. Max i před drogerií Teta – by měly být dokončeny do 20. července.\nPoslední plánovaná část projektu, tedy předláždění chodníku vedoucího od Nového náměstí směrem k provozovně Saily Burger, se zatím odkládá. Důvodem je připravovaná stavba společnosti SmVaK, o níž bylo rozhodnuto až po uzavření smlouvy na městskou investici. „Nechceme, aby v centru města současně probíhaly dvě rozsáhlé stavební akce. Odložením poslední etapy předejdeme zbytečným komplikacím a předláždění chodníku zahájíme až po srpnové pouti,“ doplnil Adam Ondrašík s tím, že celkové náklady projektu činí 7,8 milionu korun včetně DPH."
+    },
+    {
+      "id": "84798",
+      "date": "2026-06-19",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Do práce na kole: Místní účastníci našlapali přes 71 tisíc kilometrů",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-19_do-prace-na-kole-mistni-ucastnici-naslapali-pres-71-tisic-kilometru_d-84798.md",
+      "wowScore": 1,
+      "body": "> Květnová výzva Do práce na kole, pěšky či poklusem má za sebou další úspěšný ročník. Celorepubliková kampaň, která podporuje šetrnější způsoby dopravy a zdravý životní styl, přilákala letos v Kopřivnici 344 účastníků. Ti během jediného měsíce společně urazili úctyhodných 71 189 kilometrů a přispěli tak k aktivnějšímu životnímu stylu i čistšímu ovzduší.\nKopřivnice se do kampaně zapojila již podvanácté. Přestože byl počet účastníků oproti loňskému roku nižší, podařilo se společnými silami urazit ještě více kilometrů. Výsledkem je nejen lepší kondice a více pohybu, ale také významný přínos pro životní prostředí. Díky aktivní a šetrné dopravě se podařilo ušetřit 11,4 tuny emisí oxidu uhličitého, což odpovídá výsadbě přibližně 570 stromů.\nDo výzvy se zapojilo celkem 136 týmů a 11 kopřivnických firem své zaměstnance podpořilo například úhradou startovného. Největší podíl z našlapaných kilometrů připadl tradičně cyklistům, kteří ujeli 62 513 kilometrů. Dalších 8 676 kilometrů účastníci zvládli pěšky nebo poklusem.\nDo výzvy se tradičně zapojili také zaměstnanci městského úřadu. Celkem 46 účastníků vytvořilo 19 týmů a společně překonali více než 5,5 tisíce kilometrů.\nSlavnostní ocenění účastníků a vyhlášení výsledků proběhlo v rámci akce CYKLOODPOLEDNE s Cyklohrátkami, která se uskutečnila v pátek 12. června.\nKampaň Do práce na kole je součástí širšího souboru aktivit a opatření, kterými Zdravé město Kopřivnice dlouhodobě podporuje udržitelnou mobilitu. V průběhu roku jej doplňují také čtrnáctidenní zářijová a týdenní lednová výzva, oblíbená pěší akce 10 000 kroků či stále se rozšiřující nabídka a rostoucí obliba systému sdílených kol."
+    },
+    {
+      "id": "84755",
+      "date": "2026-06-17",
+      "year": "2026",
+      "theme": "skolstvi",
+      "themeLabel": "Školství",
+      "title": "Kopřivnice uctí památku Milady Horákové",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-17_koprivnice-ucti-pamatku-milady-horakove_d-84755.md",
+      "wowScore": 1,
+      "body": "> V pondělí 22. června v 11 hodin se před Základní školou dr. Milady Horákové uskuteční tradiční pietní setkání u příležitosti výročí popravy významné právničky a političky, podle níž se tato kopřivnická škola jmenuje.\nMilada Horáková byla obětí komunistických protidemokratických represí v polovině minulého století a stala se symbolem odporu proti totalitnímu systému. Na základě vykonstruovaného politického procesu byla 27. června 1950 popravena. Památku této významné osobnosti české historie uctí představitelé města, zástupci školy a členové místního klubu Masarykova demokratického hnutí. Srdečně zvána je také veřejnost. Součástí pietního setkání bude proslov Lubomíra Sazovského připomínající odkaz Milady Horákové, položení kytic a hudební vystoupení žáků školy."
+    },
+    {
+      "id": "84760",
+      "date": "2026-06-17",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Kopřivnice přivítá léto třemi dny plnými zábavy",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-17_koprivnice-privita-leto-tremi-dny-plnymi-zabavy_d-84760.md",
+      "wowScore": 3,
+      "body": "> Nové náměstí ožije na konci školního roku akcí Rozjeď léto! Od 25. do 27. června nabídne pestrý program pro všechny generace. Na návštěvníky čekají tři dny plné hudby, zábavy a setkávání pod širým nebem, od Hospodského kvízu přes aktivity pro děti až po koncerty místních kapel a orchestrů.\nProgram zahájí ve čtvrtek 25. června od 18 hodin Hospodský kvíz, oblíbená vědomostní soutěž pro týmy. Zájemci mohou sestavit tým o 2 až 8 hráčích, vymyslet originální název a registrovat se [ZDE](https://docs.google.com/forms/d/e/1FAIpQLSe51SwL81I8EYi4CZanpzkYKUPNytLIush7FnBt_hWPMQRijw/viewform). Vstupné činí 50 Kč za osobu.\nPáteční odpoledne bude patřit dětem. Od 15 do 17 hodin si budou moci projít zábavnou stezku s Beskydskými strašidýlky, během níž na pěti stanovištích splní různé úkoly a v cíli získají drobnou odměnu. Večer pak Nové náměstí rozezní hudba a tanec v podání žáků, pedagogů a hostů Základní umělecké školy Zdeňka Buriana. Open Air koncert ZUŠ Zdeňka Buriana začne ve 20:30 hodin.\nSobotní program s názvem Na plný plyn! bude patřit místním orchestrům a kapelám. Na dvou pódiích se od 15 hodin představí celkem šest hudebních uskupení.\n•15:00 Městský dechový orchestr Kopřivnice\n•16:00 Komorní orchestr Kopřivnice\n•17:30 Kyselé Rybičky\n•19:00 Samidva a hosté\n•20:30 Swingalia\n•22:00 Sunar Rock\nPřijďte společně rozjet léto a užít si tři dny plné hudby, zábavy a dobré nálady."
+    },
+    {
+      "id": "84759",
+      "date": "2026-06-17",
+      "year": "2026",
+      "theme": "podnikani",
+      "themeLabel": "Podnikání",
+      "title": "Den otců zpestří Hrátky s tátou a tatrou",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-17_den-otcu-zpestri-hratky-s-tatou-a-tatrou_d-84759.md",
+      "wowScore": 1,
+      "body": "> Na den otců, tedy v neděli 21. června, se uskuteční pátý ročník akce Hrátky s tátou a tatrou. Ve 14 hodin ožije prostranství před Muzeem nákladních automobilů Tatra bohatým programem, jehož hlavním bodem bude tradiční zápolení legendárních plastových tatrovek.\nRodinné týmy čeká řada zábavných disciplín, ve kterých prověří svou šikovnost, rychlost i spolupráci. „Během uplynulých ročníků si akce získala řadu příznivců a stala se milou součástí oslav Dne otců v Kopřivnici. Doufáme, že i letos dorazí zejména tatínci s dětmi a zapojí se do soutěží, které jsme pro ně připravili ve spolupráci se Skautským střediskem Kopřivnice. Čekají je například jízdy zručnosti, koulení pneumatik či soutěž o nejkrásnější tatrovku. Kdo vlastní tatrovku nemá, tomu ji rádi zapůjčíme,“ uvedla edukátorka muzea Lucie Kazlepková s tím, že soutěžící se mohou přihlašovat na místě od 13:30 hodin a každý registrovaný účastník obdrží drobnou odměnu.\nPříchozí se mohou těšit také na workshopy, nafukovací atrakce, ukázky současných i historických vozů značky Tatra a příjemnou atmosféru, kterou zajistí DJ a moderátor Roman Pastorek. Vstup bude zdarma."
+    },
+    {
+      "id": "84746",
+      "date": "2026-06-16",
+      "year": "2026",
+      "theme": "zivotni-prostredi",
+      "themeLabel": "Životní prostředí",
+      "title": "Farmářský trh láká na nákupy i osvětu",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-16_farmarsky-trh-laka-na-nakupy-i-osvetu_d-84746.md",
+      "wowScore": 3,
+      "body": "> V pátek 19. června od 8 do 16 hodin ožije Nové náměstí dalším farmářským trhem. Návštěvníci se mohou těšit na pestrou nabídku čerstvých surovin, lokálních potravin i rukodělného zboží od regionálních prodejců. Doprovodný program bude tentokrát zaměřen na téma ochrany klimatu.\nK dostání bude tradiční sortiment, jakým je ovoce a zelenina, koláče a další pečivo, uzeniny, mléčné výrobky, včelí produkty nebo sazenice bylinek, ovocných stromků, okrasných rostlin nebo letniček. Chybět nebudou ani stánky s dětským oblečením, výrobky z proutí či keramikou z chráněné dílny Sdružení Tulipán. Svou tvorbu představí také senioři z Domova Příbor, kteří nabídnou tkané koberce, pletené košíky a dekorativní výrobky ze dřeva.\nSoučástí farmářského trhu bude i informační stánek Klima nás spojuje, kde se příchozí budou moci seznámit se zajímavými projekty přispívajícími k větší odolnosti České republiky vůči dopadům klimatických změn. „K tématu přistupujeme pozitivně, věcně a s nadhledem. Kdo bude mít zájem, může si o něm přijít popovídat do našeho stánku,“ uvedl Daniel Tichý ze společnosti CI2, která ve spolupráci s veřejnou správou, soukromou sférou i akademickými institucemi realizuje projekty zaměřené na ochranu klimatu a udržitelný rozvoj.\nFarmářský trh tedy nabídne nejen kvalitní sezónní produkty, ale také možnost dozvědět se více o tématu ovlivňujícím naši budoucnost. Pokud chcete vybírat z co nejširší nabídky zboží, doporučujeme přijít spíše v dopoledních hodinách. U některých prodejců bývá část sortimentu během dne vyprodána, a proto nelze zaručit, že odpoledne budou všechny nabízené produkty ještě k dispozici."
+    },
+    {
+      "id": "84744",
+      "date": "2026-06-15",
+      "year": "2026",
+      "theme": "zivotni-prostredi",
+      "themeLabel": "Životní prostředí",
+      "title": "Kopřivnice obhájila ministerské stříbro",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-15_koprivnice-obhajila-ministerske-stribro_d-84744.md",
+      "wowScore": 3,
+      "body": "> Kopřivnice opět potvrdila, že má jednu z nejlépe fungujících radnic. V soutěži Přívětivý úřad, kterou každoročně vyhlašuje Ministerstvo vnitra ČR, obhájila 2. místo v Moravskoslezském kraji. Do letošního ročníku se zapojilo celkem 104 úřadů z celé republiky.\nSoutěž hodnotí přívětivost úřadů vůči občanům a sdílením dobré praxe motivuje radnice k otevřenějšímu přístupu. Mapuje, jakým způsobem radnice poskytují služby občanům, jak jsou transparentní, jak komunikují nebo jak zapojují občany. Hodnotí se devět desítek kritérií, mezi kterými je například počet úředních hodin, elektronizace poskytovaných služeb, zavádění online nástrojů a mobilních aplikací, možnost bezhotovostní platby správních poplatků a další. „Přívětivé úřady poskytují nadstandardní služby nebo běžné služby v nadstandardní kvalitě,“ shrnují pořadatelé. Prvenství v kraji obhájila moravskoslezská metropole Ostrava, třetí místo vybojoval Nový Jičín.\n„Stříbrnou příčku jsme obhájili už poněkolikáté, přesto ji rozhodně nepovažujeme za samozřejmost. Kritéria hodnocení se každoročně vyvíjejí a to, co bylo ještě nedávno považováno za inovaci, se rychle stává standardem. O to více nás těší, že dokážeme dlouhodobě obstát v konkurenci měst s výrazně většími rozpočty i počtem zaměstnanců. Soutěž potvrzuje, že kvalita úřadu není dána jeho velikostí, ale především promyšlenými procesy, otevřeným přístupem a snahou služby průběžně zlepšovat. Řada řešení, která jsou jinde představována jako příklady dobré praxe, je u nás již běžnou součástí každodenního fungování. Druhé místo potvrzuje, že se nám daří držet vysoký standard a zároveň hledat nové způsoby, jak občanům usnadňovat kontakt s úřadem,“ uvedl tajemník Městského úřadu Kopřivnice Josef Procházka.\n„Děkuji všem svým kolegyním a kolegům, kteří denně dokazují, že kvalitní veřejná služba stojí zejména na profesionalitě, ochotě pomáhat a schopnosti jednat s občany s respektem a pochopením. To, jak úřad funguje, jak komunikuje a jakou má atmosféru, vytvářejí právě zaměstnanci. Krásné druhé místo beru jako ocenění práce celého našeho týmu,“ připojil poděkování Josef Procházka.\nVedle tradičních hodnoticích kritérií se letos porota zaměřila také na oblast bezpečnosti a krizové připravenosti úřadů. „V této oblasti jsme za poslední měsíce učinili velký posun. Máme hotový bezpečnostní audit a postupně realizujeme organizační a technická opatření, abychom zvýšili připravenost radnice na případné krizové situace. Na chodbách úřadu jsme instalovali nové kamery, do kanceláří bezpečnostní tlačítka a pracujeme na zavedení systému tichého poplachu. V plánu je také postupné proškolení zaměstnanců a workshopy zaměřené na zvyšování odolnosti úřadu jako takového,“ doplnil tajemník."
+    },
+    {
+      "id": "84736",
+      "date": "2026-06-12",
+      "year": "2026",
+      "theme": "socialni",
+      "themeLabel": "Sociální služby",
+      "title": "Kopřivnice ocenila bezpříspěvkové dárce krevních složek",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "D",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-12_koprivnice-ocenila-bezprispevkove-darce-krevnich-slozek_d-84736.md",
+      "wowScore": 1,
+      "body": "> Město Kopřivnice ocenilo bezpříspěvkové dárce krve a plazmy, kteří v loňském roce dosáhli významných dárcovských milníků, a to 40, 80, 120 a dalších násobků odběrů. Slavnostní setkání na jejich počest se uskutečnilo ve středu 10. června v Ringhofferově vile.\nPoděkování a ocenění z rukou starosty Adama Hanuse převzalo celkem 20 dárců z Kopřivnice a jejích místních částí. Ve městě je celkem evidováno 313 bezpříspěvkových dárců. Právě jejich pravidelná ochota darovat krev a její složky představuje nenahraditelnou pomoc pro pacienty po úrazech, operacích či při léčbě závažných onemocnění."
+    },
+    {
+      "id": "84741",
+      "date": "2026-06-12",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Adam Hanus získal titul Nejlepší starosta",
+      "type": "investice",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-12_adam-hanus-ziskal-titul-nejlepsi-starosta_d-84741.md",
+      "wowScore": 3,
+      "body": "> Starosta Kopřivnice Adam Hanus převzal ocenění Nejlepší starosta 2022-2026, které uděluje Svaz měst a obcí České republiky osobnostem významně přispívajícím k rozvoji svých měst a obcí. Odborná porota vybírá nejvýraznější starosty nebo primátory v každém kraji.\nCílem soutěže je zviditelnit kvalitní práci komunálních politiků, ocenit inspirativní osobnosti samospráv a poukázat na příklady dobré praxe, které mohou být inspirací pro další města a obce. Ocenění je určeno starostům a primátorům, kteří svou dlouhodobou a systematickou činností přispívají ke zlepšování života obyvatel a rozvoji svěřených samospráv. Soutěž se konala pod záštitou prezidenta České republiky Petra Pavla a předsedy Senátu Parlamentu České republiky Miloše Vystrčila. Slavnostní vyhlášení se uskutečnilo ve čtvrtek 11. června v reprezentativních historických prostorách Senátu.\n„Tohoto ocenění si velmi vážím. Beru jej především jako ocenění práce celého týmu – mých kolegů místostarostů Davida Monsporta a Stanislava Šimíčka, lidí na radnici, v městských organizacích i všech aktivních občanů, kteří pomáhají Kopřivnici posouvat vpřed. Bez jejich nasazení by se nepodařilo realizovat tolik projektů ani vytvořit prostředí, ve kterém se lidem dobře žije. Je to ocenění pro celé město,“ uvedl starosta Adam Hanus.\nZa roky, které byly v soutěži hodnoceny, se v Kopřivnici podařilo realizovat desítky projektů - od velkých investic po drobné změny zlepšující každodenní život. Byla dokončena revitalizace centra, které teď krásně žije. Dopravu vylepšila okružní křižovatka, opravené mosty, nová parkovací místa, bezpečnější chodníky i zavedení bikesharingu. Postupně probíhá modernizace škol a sportovišť, našel se developer pro novou obytnou zónu a blíží se dlouho očekávaná přeměna bývalé ZŠ na knihovnu a byty.\nZa svůj největší úspěch však Adam Hanus označuje proměnu atmosféry ve městě: „Na radnici a v příspěvkových organizacích se podařilo vytvořit stabilizované týmy kvalifikovaných a kreativních lidí, díky nimž se postupně mění vnímání úřadu i města jako takového. Kopřivnice už není škaredé průmyslové káčátko, ale sebevědomá labuť s novými projekty, upraveným veřejným prostorem i aktivním komunitním životem. Lidé nám často vyjadřují podporu a místo stížností posílají své nápady - mění se tedy nejen město, ale i jeho energie,“ uvedl nejlepší starosta Moravskoslezského kraje.\nPorota ocenila rovněž inovativní přístup vedení města, otevřenou komunikaci s veřejností a projekty zaměřené na kultivaci veřejného prostoru. Pozornost vzbudily například aktivity spojené s omezováním vizuálního smogu, projekt Estetika, originální úpravy veřejných prostranství nebo využívání moderních technologií při řízení města.\nZískaný titul je nejen oceněním práce starosty Adama Hanuse, ale také potvrzením, že Kopřivnice patří mezi města, která dokáží spojovat strategický rozvoj, inovativní přístup a otevřenou komunikaci s obyvateli."
+    },
+    {
+      "id": "84704",
+      "date": "2026-06-11",
+      "year": "2026",
+      "theme": "podnikani",
+      "themeLabel": "Podnikání",
+      "title": "Projekt Podnikej raz dva opět ožívá!",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-11_projekt-podnikej-raz-dva-opet-oziva_d-84704.md",
+      "wowScore": 1,
+      "body": "> Úspěšný projekt Podnikej raz dva, který v roce 2025 pod touto značkou společně realizovala města Kopřivnice a Nový Jičín, znovu ožívá. První letošní setkání pro začínající i aktivní podnikatele z obou měst se uskuteční v úterý 16. června v Kopřivnici.\nProjekt Podnikej Raz Dva odstartoval sérií šesti workshopů zaměřených na rozjezd podnikání. Na ně navázala pravidelná klubová setkání, která umožnila účastníkům dále rozvíjet své podnikatelské záměry, sdílet zkušenosti, inspirovat se a vzájemně si pomáhat. Po úspěšném prvním ročníku se nyní Podnikej raz dva klub opět otevírá.\nPrvní letošní setkání podnikatelů a podnikavců z Kopřivnice i Nového Jičína proběhne v úterý 16. června od 16:30 hodin v Ringhofferově vile v Kopřivnici, další se po ledních prázdninách uskuteční v Novém Jičíně. Program v první části nabídne tradiční „sdílení“, během kterého účastníci představí své projekty, úspěchy i výzvy, s nimiž se potýkají. Součástí bude také přehled aktuálních akcí, příležitostí a programů určených pro podnikatele a podnikavé lidi v Moravskoslezském kraji. Druhá část programu nabídne praktický workshop, během něhož se účastníci seznámí se základy tvorby videí pro sociální sítě a získají tipy a triky, které mohou využít při propagaci svého podnikání během letních měsíců.\n„Naším cílem je rozvíjet aktivní komunitu a prostředí, kde se mohou lidé s podnikatelskými nápady i zkušenostmi pravidelně setkávat, vzájemně se inspirovat a navazovat nové kontakty. Podpora podnikavého myšlení lidí v našem kraji je jednou z důležitých oblastí, kterým se věnujeme a jsme rádi, že můžeme takto spolupracovat,“ uvedl organizátor setkání Jan Dittrich z centra digitalizace, vědy a inovací Černá kostka.\nKapacita setkání je omezena přibližně na 25 účastníků. Zájemci se mohou registrovat prostřednictvím webových stránek Podnikej Raz Dva: [https://podnikejrazdva.cz/](https://podnikejrazdva.cz/)"
+    },
+    {
+      "id": "84705",
+      "date": "2026-06-11",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Benefiční happening pro Reziho",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-11_beneficni-happening-pro-reziho_d-84705.md",
+      "wowScore": 3,
+      "body": "> Přátelé, dobrovolníci a místní umělci spojili síly, aby pomohli Pavlu „Rezimu“ Rösnerovi v boji s těžkou nemocí. Benefiční happening pro Reziho „Vraťme Páju do života“, který se uskuteční v pátek 19. června v sadu E. Beneše, podpoří veřejnou sbírku na jeho léčbu.\nPavel Rösner, známý jako Rezi, pracoval dlouhá léta jako pedagog a trenér parkouru v DDM Kopřivnice. Akční člověk a milovník výzev, který dlouhá léta rozdával radost a energii, se však v důsledku nemoci ocitl ve velmi náročné životní situaci. Už víc než rok bojuje s pozdní lymskou boreliózou a koinfekcemi. V Česku bohužel léčba takto komplikovaných stavů neexistuje a jedinou Pavlovou nadějí je specializovaná léčba v Německu, která je však finančně náročná a české pojišťovny ji neproplácí. Proto se spojila komunita Reziho kamarádů, dobrovolníků, místních umělců i společností a vznikla akce „Vraťme Páju do života“. Na platformě Donio probíhá [sbírka](https://donio.cz/paja?utm_source=print&utm_medium=socialshare&utm_campaign=share_button), která dává Rezimu naději.\nSbírku podpoří benefiční happening, který se bude konat v pátek 19. června od 14 hodin v sadu E. Beneše. Návštěvníci se mohou těšit na odpoledne a večer plné hudby, divadla, pohybu, tvoření a sdílení. Na akci vystoupí řada místních hudebníků a kapel, mimo jiné Martin Galia a syn, Martin Topič, Unomás, Sharka Band, Zbyněk Machetanz a Eliška Rösnerová, Tom Strom, Bídáci, Adhmad, Srneček a Jelínek či Zuzi Tralalam. Součástí programu bude také divadelní představení Oceán Báry Hubáčkové, fireshow, projekce pro děti a večerní afterparty pod taktovkou Kopr DJ Squad.\nHappening nabídne i bohatý doprovodný program pro všechny generace. Chybět nebudou kreativní a pohybové dílny, flow arts, aerial hoop, pole dance, balanc plac či malování na obličej. Otevřená bude také Relax zóna s muzikoterapií, jógou, meditací, dechovým cvičením a mantrováním a zajištěn bude rovněž benefiční prodej občerstvení a výrobků místních tvůrců. Bližší info na [https://www.proreziho.cz/](https://www.proreziho.cz/).\nVeškerý výtěžek z dobrovolného vstupného, občerstvení, prodeje výrobků a doprovodných aktivit bude věnován na léčbu Pavla Rösnera prostřednictvím veřejné sbírky. „Tahle akce ale není jen o finanční pomoci a zvýšení povědomí o finanční sbírce. Je o přátelství, sounáležitosti a o tom, že nikdo nemusí zůstat na těžké životní situace sám. Je o síle komunity, která je v Kopřivnici a okolí opravdu propojená. Chceme Páju podpořit a ukázat mu, že za ním stojí lidé, kterým na něm záleží,“ shodují se organizátoři.\nAkci pořádají Filmový klub Kopřivnice a Ateliér pod oborou za podpory města Kopřivnice, Kulturního domu Kopřivnice, Domu dětí a mládeže Kopřivnice a mnoha dalších přátel a partnerů."
+    },
+    {
+      "id": "84703",
+      "date": "2026-06-10",
+      "year": "2026",
+      "theme": "zivotni-prostredi",
+      "themeLabel": "Životní prostředí",
+      "title": "Workshop sečení a naklepávání kosy",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-10_workshop-seceni-a-naklepavani-kosy_d-84703.md",
+      "wowScore": 1,
+      "body": "> Zveme vás na workshop sečení a naklepávání kosy, který se uskuteční ve čtvrtek 18. června od 15 hodin u chaty Červený kámen. Přijďte si užít příjemné odpoledne v přírodě, zpomalit tempo každodenního života a vyzkoušet si tradiční dovednost našich předků, která by neměla upadnout v zapomnění.\nPod vedením zkušených lektorů si účastníci osvojí základy správného sečení i naklepávání kosy a dozvědí se, jaké nástroje a techniky se při této práci používají. Pro ty, kdo si na kosení netroufnou, ale přesto se budou chtít aktivně zapojit, budou připraveny hrábě. Součástí programu bude také povídání o historii sečení horských luk v Beskydech a o významu tradičního kosení pro krajinu a biodiverzitu. Workshop se uskuteční na orchidejové louce, a proto nebude chybět povídání o vstavačovitých rostlinách, které zde mají své stanoviště a kterým kosení velmi prospívá. Pro malé objevitele bude připravena Motýlí dílnička s kreativním malování 3D tištěných motýlů.\nÚčast bude zdarma. Doporučujeme zvolit pohodlné oblečení a pevnou obuv do terénu."
+    },
+    {
+      "id": "84700",
+      "date": "2026-06-10",
+      "year": "2026",
+      "theme": "investice-stavby",
+      "themeLabel": "Investice a stavby",
+      "title": "Příběhy brazilské Amazonie na Červeném kameni",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-10_pribehy-brazilske-amazonie-na-cervenem-kameni_d-84700.md",
+      "wowScore": 3,
+      "body": "> Do Kopřivnice zavítají zástupci indiánského kmene Huni Kuin z brazilské Amazonie, aby přiblížili svůj tradiční způsob života, zvyky i kulturní dědictví. Návštěvníky čeká nevšední setkání s kulturou amazonského pralesa v úterý 16. června od 16:30 hodin u chaty Červený kámen.\nNávštěvníci se mohou těšit na autentické vyprávění o životě v amazonské džungli, seznámení s tradicemi a kulturou kmene Huni Kuin i na ukázky tradiční hudby, která je nedílnou součástí jejich každodenního života. Setkání nabídne unikátní pohled do světa původních obyvatel brazilské Amazonie, kteří si dodnes z velké části uchovávají svůj tradiční způsob života a přinášejí živé svědectví o tom, jak se žije v srdci pralesa.\nSpolečně se zástupci kmene dorazí Karolína Draxlerová, zakladatelka projektu Cura de Floresta, která bude vyprávění indiánů tlumočit. Více informací o projektu naleznete na webových stránkách[https://curadafloresta.org/](https://curadafloresta.org/).\nZveme vás na jedinečné setkání, které je otevřené široké veřejnosti. Výtěžek z dobrovolného vstupného bude použit na výstavbu rybích sádek, které přispějí k dlouhodobé soběstačnosti a udržitelnému hospodaření kmene Huni Kuin."
+    },
+    {
+      "id": "84701",
+      "date": "2026-06-10",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Na Luhách se řešilo odstavné parkoviště, diskuzi vyvolal i chodníček kolem hřiště",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-10_na-luhach-se-resilo-odstavne-parkoviste-diskuzi-vyvolal-i-chodnicek-kolem-hriste_d-84701.md",
+      "wowScore": 1,
+      "body": "> V úterý 9. června se konalo veřejné projednání projektu odstavného parkoviště na ulici Dělnické. Obyvatelé čtvrti, kteří již dříve vyjádřili své obavy z připravovaného řešení prostřednictvím petice, se na setkání dostavili v hojném počtu. Druhým tématem byl průchod mezi ulicí Mírovou a hřištěm Na Luhách.\nVybudování parkoviště na pozemcích uvnitř historického průmyslového areálu u rohu ulic Panské a Dělnické, je součástí dlouhodobého záměru regulace parkování: „Parkoviště by mělo sloužit zejména pro dlouhodobé odstavování vozidel, která nevyjíždějí denně, a také pro dodávky, které ve stísněných podmínkách na sídlištích zbytečně zabírají místa a způsobují kolize. Jen vymístěním dodávek získáme na sídlištích okolo stovky parkovacích míst,“ uvedl vedoucí odboru rozvoje města Jiří Štěpán. Na Dělnické by mělo vzniknout 75 míst pro dodávky, 19 míst pro nákladní vozy s návěsem (případně 38 bez návěsu), 8 míst pro autobusy a 96 míst pro osobní auta – ta budou potřeba i z důvodu deklarovaného uzavření parkovišť nedalekých obchodních řetězců. Místa pro nákladní vozy budou sloužit zejména kamionům obsluhujícím firmy v průmyslovém parku, které jsou nyní odstavovány podél komunikací a jejich řidiči nemají k dispozici žádné zázemí. I proto vznikne na parkovišti budova se sociálním zařízením a kuchyňkou.\nObyvatelé čtvrti Na Luhách však mají k plánované stavbě parkoviště výhrady a obávají se zvýšeného provozu, ohrožení bezpečnosti chodců a cyklistů, nárůstu hluku, prašnosti, vibrací i světelného smogu. Petici s námitkami, kterou město obdrželo loni v listopadu, podepsalo 43 lidí. Kolem 60 lidí dorazilo i na veřejné projednání. „Obavy obyvatel chápeme a námitky jsme posoudili se vší odpovědností. Měřili jsme průjezdnou kapacitu komunikace, modelovali jsme maximalistické zatížení výjezdu z parkoviště a dokonce jsme nechali zpracovat i hlukovou studii. V extrémním případě by mohlo dojít k navýšení intenzity dopravy na ulici Dělnické o 19 %, ale běžné zatížení bude nižší. Překročení hygienických limitů nehrozí a pohledové zatížení ulice Dělnické bude eliminováno umístěním provozní budovy i zachováním stávajícího pásu zeleně,“ ujistil obyvatele Jiří Štěpán s tím, že vybudování odstavného parkoviště je nezbytným opatřením z perspektivy fungování celého města a efektivního řešení dopravní infrastruktury.\nJednou z hlavních námitek, která na setkání zaznívala, bylo plánované vybudování vjezdu na ulici Dělnické. „Jednáme se společností Tatra Trucks o odkoupení pozemku, který by umožnil vybudování sekundárního vjezdu z ulice Panské. Jednání jsou složitá, ale zástupci společnosti deklarovali ochotu tuto záležitost řešit. Pokud bude výsledek pozitivní, bude druhý vjezd do projektu zahrnut dodatečně,“ doplnil Jiří Štěpán. Samotná výstavba odstavného parkoviště nezačne dříve než v příštím roce.\nDruhým tématem, které se na setkání probíralo, byl průchod mezi ulicí Mírovou a hřištěm Na Luhách. Jak bylo patrné v zeleni přímo na místě, na stávající chodníček najíždějí uživatelé přilehlých pozemků, což se samozřejmě velké části obyvatel nezamlouvá. „Názory na tento průchod nejsou jednotné – jedni by zde rádi viděli plnohodnotnou komunikaci, druzí by chtěli zakázat vjezd i cyklistům a zachovat chodníček jen pro pěší. Jisté je, že pro komunikaci zde není dostatek místa, ale i tak se před projektováním budeme muset zamyslet nad otázkami, které ze setkání vzešly. Nejpravděpodobnější variantou je rozšíření chodníku na 2-2,5 metru, což zajistí bezpečný provoz pro pěší i cyklisty a umožní bezproblémové provádění zimní údržby,“ uvedl vedoucí odboru majetku města Adam Ondrašík."
+    },
+    {
+      "id": "84702",
+      "date": "2026-06-10",
+      "year": "2026",
+      "theme": "image",
+      "themeLabel": "Image a ocenění",
+      "title": "Edvard Beneš v našem kraji",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-10_edvard-benes-v-nasem-kraji_d-84702.md",
+      "wowScore": 1,
+      "body": "> Muzeum Fojtství vás zve na přednášku Edvard Beneš v našem kraji, která se uskuteční ve čtvrtek 18. června od 17 hodin v prostorách muzea. U příležitosti 80. výročí návštěvy prezidenta republiky na Novojičínsku připomene kopřivnický historik Pavel Dvořák dobové souvislosti i význam osobnosti Edvarda Beneše pro náš region.\nPřednáška nabídne pohled na atmosféru poválečných let a na události, které formovaly život v našem kraji. Součástí bude také představení knihy Pavla Dvořáka „Apoštol demokracie. Československo a mýtický obraz Edvarda Beneše“, která nedávno získala mezinárodní ocenění."
+    },
+    {
+      "id": "84695",
+      "date": "2026-06-09",
+      "year": "2026",
+      "theme": "skolstvi",
+      "themeLabel": "Školství",
+      "title": "Školy zvou na zábavná odpoledne",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-09_skoly-zvou-na-zabavna-odpoledne_d-84695.md",
+      "wowScore": 1,
+      "body": "> Nadcházející víkend se areály dvou místních škol promění v místa plná zábavy, tvoření a her. Sobotní odpoledne si můžete zpestřit na dalším ročníku VOSKOP DAY, v neděli si můžete užít Dětský den s MIS music. Obě akce slibují pestrý program a zážitky pro děti i dospělé.\nV sobotu 13. června pořádá Střední škola a Vyšší odborná škola Kopřivnice další VOSKOP DAY! Akce bude probíhat od 12:30 do 17:00 hodin. Těšit se můžete na obří pěnovou show, tvořivé dílny pro děti, herní stanoviště se soutěžemi o drobné ceny a samozřejmě také na tradiční lahodné občerstvení. Cílem je ukázat, že škola není jen místem výuky, ale může být i centrem komunitního života, kde se potkávají generace a vznikají nezapomenutelné zážitky.\nV neděli 14. června mezi 14:00 a 17:00 se můžete přijít pobavit na Dětský den s MIS music. Akce plná hudby, workshopů, tvořivých dílen a soutěží pro děti se uskuteční na zahradě a v prostorách První soukromé základní umělecké školy MIS music. Nebude chybět ani přehlídka školy a hudebních nástrojů, která návštěvníky seznámí s tím, co škola svým žákům nabízí. Program doplní skákací hrad a oblíbené malování na obličej.\nObě školy tak otevírají své brány veřejnosti a nabízejí příležitost strávit příjemný čas v jejich prostředí, poznat jejich činnost a užít si bohatý program. Vstupy budou zdarma."
+    },
+    {
+      "id": "84694",
+      "date": "2026-06-09",
+      "year": "2026",
+      "theme": "zivotni-prostredi",
+      "themeLabel": "Životní prostředí",
+      "title": "Komentovaná procházka odhalí příběhy místní architektury",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-09_komentovana-prochazka-odhali-pribehy-mistni-architektury_d-84694.md",
+      "wowScore": 1,
+      "body": "> Informační centrum Kopřivnice vás zve na komentovanou procházku Proměna Kopřivnice, která se uskuteční ve čtvrtek 11. června. Po stavbách definujících naše město účastníky provedou architekt Václav Kocián a Petr Čaník, autor projektu Brutální Kopřivnice, který prostřednictvím fotografií mapuje moderní, industriální a často opomíjenou kopřivnickou architekturu.\n„Málokteré město se za posledních padesát let proměnilo tak výrazně jako Kopřivnice. Před stávající radnicí stával hotel, na místě Tatrovanky vedla cesta a na Novém náměstí se relativně nedávno rozkládaly zahrady rodinných domů. Na procházce si ukážeme místa, která dnes považujeme za samozřejmou součást města, a připomeneme si, co jim předcházelo. Budeme se bavit o architektuře, urbanismu i o tom, jak jednotlivé stavby ovlivnily podobu současné Kopřivnice,“ uvedl Václav Kocián, který v minulosti působil na pozici městského architekta.\nÚčastníci se mohou těšit na odborný pohled architekta, příběhy fotografií projektu Brutální Kopřivnice i prostor pro otázky a diskusi. Procházka nabídne příležitost podívat se na známá místa novým pohledem a objevit souvislosti, které při běžném pohybu městem často zůstávají skryté. Sraz účastníků bude v 17 hodin před Kulturním domem Kopřivnice. Vstupenky za 50 korun lze koupit v Informačním centru Kopřivnice nebo online: [https://shop.entradio.cz/event/102147](https://shop.entradio.cz/event/102147)"
+    },
+    {
+      "id": "84693",
+      "date": "2026-06-08",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Kopřivnice hostí 25. ročník Sportovních her zdravotně postižených",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-08_koprivnice-hosti-25-rocnik-sportovnich-her-zdravotne-postizenych_d-84693.md",
+      "wowScore": 1,
+      "body": "> V sobotu 13. června se uskuteční již 25. ročník Sportovních her zdravotně postižených dětí a dospělých – Memoriálu Petra Douska. Tradiční kopřivnická akce propojí sportovní zápolení, kulturní program i přátelská setkání lidí se zdravotním handicapem z různých koutů republiky.\nSportovní hry budou slavnostně zahájeny v 8:30 hodin v areálu ZŠ dr. Milady Horákové za doprovodu hudebníků z První soukromé základní umělecké školy MIS music a zpěvačky Sofie Horehleďové. Následně se soutěžící přesunou na jednotlivá sportoviště, kde změří své síly v tradičních disciplínách, jako jsou hod oštěpem a granátem, vrh koulí či střelba ze vzduchovky. Chybět nebude ani speciální okruh a slalom pro vozíčkáře.\nDen plný sportovních výkonů zpestří doprovodné aktivity pro děti i dospělé. Návštěvníci se mohou těšit například na malování na obličej nebo ukázky hasičské techniky. Slavnostní tečkou bude vyhodnocení her, které začne v 16 hodin ve velkém sále Kulturního domu Kopřivnice. V rámci galaprogramu vystoupí taneční skupina TK Gradus Štramberk, integrovaný taneční soubor Bílá holubice Ostrava a hudební skupina TNT Příbor.\n„Sportovní hry nejsou jen o výsledcích a medailích. Jsou především oslavou odhodlání, radosti z pohybu, vzájemné podpory a přátelství. Touto akcí se každoročně snažíme připomenout, že lidé se zdravotním postižením mají právo na plnohodnotný, aktivní a společensky bohatý život,“ uvedla předsedkyně pořádající Asociace zdravotně postižených Alena Skřivánková.\nVstup na akci bude zdarma. Vítáni jsou všichni, kdo chtějí podpořit soutěžící, užít si doprovodný program a strávit den ve znamení sportu, respektu a lidské sounáležitosti."
+    },
+    {
+      "id": "84692",
+      "date": "2026-06-08",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Cykloodpoledne nabídne zábavu nejen pro děti",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-08_cykloodpoledne-nabidne-zabavu-nejen-pro-deti_d-84692.md",
+      "wowScore": 1,
+      "body": "> V pátek 12. června v 16 hodin ožije kopřivnický Bubla City Ranch zábavným Cykloodpolednem. Zváni jsou zejména malí sportovci na kolech a odrážedlech, pro které budou připraveny oblíbené Cyklohrátky. Na programu je však také poskytování první pomoci, vyhlášení vítězů kampaně Do práce na kole a bohatý doprovodný program.\nCyklohrátky, které spoluorganizují členové CykloArt bike klubu z Asociace sportovních klubů Tatra Kopřivnice, začnou v 16 hodin registrací závodníků. Samotný start první skupiny je plánován o 30 minut později. „Závodníci pojedou ve čtyřech věkových kategoriích, přičemž tři budou pro kola a jedna pro odrážela - nebojte se tedy přijít i s menšími cyklisty. Každé startující dítko obdrží sladkou odměnu a ta nejlepší v každé kategorii získají navíc diplomy a pěkné ceny,“ láká koordinátorka projektu Zdravé město Kopřivnice Ivana Holubová.\nNávštěvníci se mohou těšit také na ukázku poskytování první pomoci, během níž si budou moci pod dohledem záchranářky vyzkoušet, jak správně reagovat v případě úrazu či náhlé zdravotní příhody. Dále budou připravena hravá stanoviště „Malý cyklista“ s úkoly zaměřenými nejen na bezpečnost cyklistů v silničním provozu. „Děti zde například otestují své smysly, zamyslí se správným fungováním kola a pomocí zajímavého pokusu si společně ukážeme, proč je důležité nosit na kole přilbu,“ nastínila Eva Kytková, která stanoviště připravuje ve spolupráci s Městkou policií Kopřivnice. A jelikož se akce uskuteční na ranči, nebude chybět ani možnost projet se na koních.\nV 18 hodin bude následovat vyhodnocení kampaně Do práce na kole, pěšky či poklusem, do níž se letos zapojilo 346 účastníků z Kopřivnice a okolí. Ocenění získají nejen jednotlivci s nejvyšším počtem najetých či nachozených kilometrů. „V této kampani je nejdůležitější pravidelnost. Proto hlavní odměnu obdrží tři vylosované týmy, které na kole, pěšky či poklusem absolvovaly více než 66,6 procent cest do práce či z práce. A protože si ceníme nadšení některých účastníků, navíc bude odměněn ještě jeden tým vylosovaný z těch, jejichž pravidelnost byla stoprocentní. Díky za podporu udržitelné mobility ale pochopitelně patří všem účastníkům kampaně, které na akci srdečně zveme! Čeká je dobrota a nápoj na triko a budou-li mít štěstí, možná i výhra v tombole,“ doplnila Ivana Holubová s tím, že účastníkům doporučuje dorazit v triku kampaně.\nPřijeďte si užít odpoledne na čerstvém vzduchu, pobavit se a setkat se s dalšími příznivci aktivního životního styl!"
+    },
+    {
+      "id": "84640",
+      "date": "2026-06-03",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Vydejte se za Lašským pokladem po osmi dobrodružných trasách",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_vydejte-se-za-lasskym-pokladem-po-osmi-dobrodruznych-trasach_d-84640.md",
+      "wowScore": 3,
+      "body": "> Oblíbená outdoorová hra Lašský poklad zve i letos návštěvníky všech generací k objevování jedinečných míst Lašské brány Beskyd. Připraveno je osm tematických tras, které účastníky provedou krajinou a nabídnou nejen zábavu, ale také poznání a nevšední zážitky. Hra odstartovala 31. května a potrvá až do konce října.\nTématem letošního šestého ročníku je voda jako paměť krajiny. Prostřednictvím osmi tras se účastníci seznámí s příběhy vody, která utvářela krajinu Lašské brány Beskyd. Trasy se liší délkou i náročností a jsou vhodné pro jednotlivce, rodiny s dětmi, páry, seniory i větší skupiny.\nKaždá trasa účastníky provede třemi stanovišti, na nichž čekají vždy tři otázky. Správné odpovědi postupně odhalují klíče k otevření pokladu ukrytého v cíli každé trasy. V trezoru na úspěšné hráče čeká drobná sběratelská odměna a soutěžní samolepka. Tu si mohou nalepit na soutěžní ústřižek a po skončení sezóny se zapojit do slosování o Velký Lašský poklad. Do závěrečného slosování budou zařazeni účastníci, kteří nasbírají všech osm samolepek.\nK zapojení do hry není nutná registrace, registrace však může hráčům zpříjemnit a usnadnit průběh hry.\nHru provozuje turistická destinace Lašská brána Beskyd, kterou spravuje Kulturní dům Kopřivnice v rámci smluvní spolupráce měst Kopřivnice, Štramberk, Příbor a obce Hukvaldy. Cílem projektu je přivést návštěvníky do regionu, motivovat je k aktivnímu poznávání místních zajímavostí, prodloužit délku jejich pobytu a podpořit opakované návštěvy prostřednictvím atraktivní sezónní hry.\nVeškeré informace k soutěži, včetně podrobných instrukcí, pravidel a map, jsou k dispozici na webu https://www.lasskypoklad.cz/."
+    },
+    {
+      "id": "84641",
+      "date": "2026-06-03",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Veřejné setkání představí návrh odstavného parkoviště na Dělnické",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_verejne-setkani-predstavi-navrh-odstavneho-parkoviste-na-delnicke_d-84641.md",
+      "wowScore": 3,
+      "body": "> Město Kopřivnice zve občany k veřejnému projednání připravovaného projektu návrhu odstavného parkoviště na ulici Dělnické. Tématem bude také průchod mezi ulicí Mírovou a hřištěm Na Luhách. Setkání se uskuteční v úterý 9. června od 16 hodin na hřišti Na Luhách.\nNa projednání bude představen návrh nového odstavného parkoviště v bývalé rozvojové zóně areálu Tatrypřiléhajícího k ulici Dělnické. Parkoviště má primárně sloužit pro odstavování dodávkových a nákladních vozidel, umožněno bude také parkování osobních automobilů. Záměr bude představen rovněž v širším kontextu kroků, kterými město dlouhodobě řeší problematiku parkování. V rámci setkání bude otevřena také otázka řešení stávající situace v průchodu mezi ulicí Mírovou a hřištěm Na Luhách.\nPřijďte se seznámit s návrhy, sdělit své zkušenosti a názory a ovlivnit podobu řešení, která se dotknou každodenního života v této části města. Všichni zájemci jsou srdečně zváni."
+    },
+    {
+      "id": "84636",
+      "date": "2026-06-03",
+      "year": "2026",
+      "theme": "skolstvi",
+      "themeLabel": "Školství",
+      "title": "Slovenská strela očima dětí",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_slovenska-strela-ocima-deti_d-84636.md",
+      "wowScore": 1,
+      "body": "> Základní umělecká škola Zdeňka Buriana vás zve na slavnostní zahájení výstavy výtvarného projektu Slovenská strela očima dětí, který vznikl ve spolupráci žáků výtvarného oboru s Muzeem Tatra Kopřivnice.\nVýstava je připomínkou 90 let od vzniku Slovenské strely - národní kulturní památky, která i po desetiletích zůstává symbolem elegance, inovace a mimořádného konstruktérského umu. Výtvarné práce žáků školy nabízejí jedinečný pohled dětských autorů na tento ikonický technický symbol našeho regionu a zachycují nejen jeho podobu, ale také technický pokrok a historii, která je se Slovenskou strelou neodmyslitelně spojena."
+    },
+    {
+      "id": "84637",
+      "date": "2026-06-03",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Senioři vyrazí na kolech z Hranic do Kroměříže",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_seniori-vyrazi-na-kolech-z-hranic-do-kromerize_d-84637.md",
+      "wowScore": 1,
+      "body": "> Projekt Aktivní senior Kopřivnice pokračuje další oblíbenou akcí pro milovníky pohybu. Ve středu 10. června se uskuteční cyklovýlet z Hranic do Kroměříže, který účastníkům nabízí možnost aktivního trávení volného času v příjemné společnosti.\nNa start cyklovýletu vyrazí účastníci autobusem z parkoviště u hotelu TATRA, nakládání kol začne v 7:30 hodin. Samotná trasa měří přibližně 50 kilometrů a vede převážně po rovině, takže je vhodná i pro rekreační cyklisty. Každý si navíc může délku či průběh trasy upravit podle vlastních možností a preferencí, případně se přidat k organizované skupině cyklistů.\n„Cílem těchto výletů není sportovní výkon, ale radost z pohybu, poznávání nových míst a společně strávený čas. Díky rovinatému profilu trasy se mohou zapojit i méně zkušení cyklisté,“ uvedla koordinátorka projektu Aktivní senior Kopřivnice Pavla Žáčková, u které se mohou zájemci o cyklovýlet přihlásit a zaplatit příspěvek na autobusovou dopravu ve výši 200 korun. Přihlášky jsou přijímány od 2. června na městském úřadě v kanceláři č. 243.\nProjekt Aktivní senior dlouhodobě nabízí Kopřivničanům seniorského věku pestrou škálu aktivit zaměřených na pohyb, vzdělávání i společenské setkávání. Cyklovýlet z Hranic do Kroměříže je jednou z akcí, která spojuje aktivní trávení volného času s poznáváním zajímavých míst."
+    },
+    {
+      "id": "84639",
+      "date": "2026-06-03",
+      "year": "2026",
+      "theme": "socialni",
+      "themeLabel": "Sociální služby",
+      "title": "Předprázdninové setkání svépomocné skupiny pro pečující",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "D",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_predprazdninove-setkani-svepomocne-skupiny-pro-pecujici_d-84639.md",
+      "wowScore": 1,
+      "body": "> Město Kopřivnice zve na poslední předprázdninové setkání svépomocné skupiny pro neformální pečující, které se uskuteční v úterý 9. června od 17 hodin v 2. patře budovy Městského úřadu. Setkání je určeno především rodinným příslušníkům a dalším osobám, které dlouhodobě pečují o své blízké.\nSvépomocná skupina, realizovaná v rámci komunitního plánování sociálních služeb města Kopřivnice, nabízí bezpečný prostor pro sdílení zkušeností, vzájemnou podporu i praktické informace, které mohou pečujícím usnadnit jejich každodenní náročnou roli.\nPo letní přestávce budou setkání od 13. října opět probíhat pravidelně, a to vždy každé druhé úterý v měsíci od 17 hodin v budově radnice.\nLidé, kteří se rozhodli pečovat o svého blízkého a hledají informace, se mohou obrátit na poradce pro pečující na tel. 556 879 465. Konzultace jsou možné také osobně na odboru sociálních věcí a zdravotnictví ve 2. patře budovy Městského úřadu. Více informací je k dispozici na webových stránkách města [ZDE](https://koprivnice.cz/svepomocna-skupina-pro-pecujici-osoby/ms-10959/p1=10959)."
+    },
+    {
+      "id": "84635",
+      "date": "2026-06-02",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Kopřivnice zvítězila ve výzvě (T)řiď se srdcem! Občané nasbírali 290 kilo plechovek",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-02_koprivnice-zvitezila-ve-vyzve-trid-se-srdcem-obcane-nasbirali-290-kilo-plechovek_d-84635.md",
+      "wowScore": 1,
+      "body": "> Známe vítěze přátelské soutěže mezi městy Kopřivnice a Nový Jičín, která probíhala v rámci osvětové kampaně (T)řiď se srdcem! Cílem měsíční výzvy bylo upozornit na význam recyklace nápojových plechovek a motivovat veřejnost ke správnému třídění.\nNápojové plechovky jsou vyrobeny z hliníku, který lze opakovaně recyklovat a byla by škoda jeho potenciál nevyužívat. Po dobu jednoho měsíce mohli obyvatelé obou měst vhazovat nápojové plechovky do obřích kovových srdcí na náměstích, zapůjčených od iniciativy Každá plechovka se počítá. Po ukončení soutěže byly všechny sesbírané plechovky zváženy, aby se zjistilo, které z měst jich vytřídilo více. Novojičíňáci nasbírali 125 kilogramů a Kopřivničané úctyhodných 290 kilogramů. Celkový výsledek je tedy ohromující a představuje zhruba 30 tisíc vytříděných plechovek.\nHlavním cílem však nebylo porazit sousední město. Kampaň měla především upozornit na skutečnost, že nápojové plechovky patří do žlutých kontejnerů na plasty a kovy. „Soutěž mezi městy o to, kdo nasbírá do našeho kovového srdce více plechovek, byla skvělý nápad – bylo to zábavné, motivující a opravdu smysluplné. O třídění plechovek se během kampaně hodně mluvilo, a to je stěžejní. Díky podobným projektům se zvyšuje povědomí o tom, jak jsou nápojové plechovky výborně recyklovatelné a že jejich třídění má skutečně smysl,“ uvedla Hana Puskařová z iniciativy [Každá plechovka se počítá CZ – Every Can Counts](https://everycancounts.eu/cz/)\n„Rád bych poděkovat všem občanům, kteří se do soutěže zapojili. Každá vytříděná plechovka měla svůj význam a pomohla dobré věci. Toto vítězství patří především životnímu prostředí a lidem, kterým není lhostejné, co se děje s odpady po jejich vyhození,“ uvedl kopřivnický místostarosta Stanislav Šimíček.\nDěkujeme, že třídíte srdcem!\nKonec formuláře"
+    },
+    {
+      "id": "84592",
+      "date": "2026-05-27",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Vlčovjanská čtyřka",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-27_vlcovjanska-ctyrka_d-84592.md",
+      "wowScore": 1,
+      "body": "> V neděli 31. května odstartuje 5. ročník běžeckého závodu pro děti i dospělé Vlčovjanská čtyřka. Oblíbená akce není jen sportovním zážitkem, ale také příležitostí setkat se s přáteli a společně podpořit komunitní život ve Vlčovicích.\nPrezentace na místě bude probíhat od 8:30 v komunitním centru Vlčovjan (Vlčovice čp. 76). Děti, pro které budou připraveny trasy o délce 100 až 800 metrů, začnou startovat v 10 hodin. Dospělí vyrazí na trať o hodinu později. Čeká je trasa o délce 4 kilometry, která vede z 35 % po asfaltu a ze 65 % po zpevněných lesních cestách, malebnou krajinou okolo Holého vrchu. Závod je určen nejen pro běžce, jednou z kategorií pro dospělé je také Nordic Walking. Startovné činí 350 Kč pro dospělé a 150 Kč pro děti.\nVyhlášení vítězů všech kategorií proběhne v 12:30 v areálu komunitního centra.\nBližší informace a registrace na [www.vlcovjane.cz](http://www.vlcovjane.cz/),"
+    },
+    {
+      "id": "84593",
+      "date": "2026-05-27",
+      "year": "2026",
+      "theme": "socialni",
+      "themeLabel": "Sociální služby",
+      "title": "Projekt v Kopřivnici přiblíží svět vysoce citlivých lidí",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "D",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-27_projekt-v-koprivnici-priblizi-svet-vysoce-citlivych-lidi_d-84593.md",
+      "wowScore": 1,
+      "body": "> Výstavní pavilon na Novém náměstí se během prvních dvou červnových týdnů promění v prostor pro citlivé duše a všechny přehlcené tempem dnešní doby. Jedinečný projekt s názvem \"Takže se všichni uklidníme!\" zaměřený na téma hypersenzitivity nabídne od 1. do 15. června sérii akcí propojujících filmové projekce, přednášku i netradiční společenské setkání.\nCílem projektu je přiblížit veřejnosti svět vysoce citlivých lidí a nabídnout bezpečný prostor lidem, kteří se v dnešním hlučném a rychlém světě často cítí přehlcení. Akce vzniká ve spolupráci města Kopřivnice, Městské knihovny Kopřivnice a Kina Kopřivnice.\nProjekt nabídne čtyři tematické akce. Program odstartuje v pondělí 1. června v 19 hodin promítáním dokumentu o vysoké citlivosti. Kapacita je omezená, své místo si zájemci mohou rezervovat prostřednictvím následujícího odkazu [https://tinyurl.com/mvm48v8j](https://tinyurl.com/mvm48v8j).\nVe středu 3. června připravuje Kino Kopřivnice večer tematických filmů. Od 17:30 proběhne promítání naslepo s dobrovolným příspěvkem, od 20 hodin se zájemci mohou těšit na film z dílny Jeana-Pierra Jeuneta, kultovní Amélii z Montmartru. Vstupné činí 70 Kč.\nV pátek 5. června od 19 hodin návštěvníky čeká přednáška Martina Šablatury s názvem \"Když si osud hodí kostkou!\". Kapacita výstavního pavilonu je omezená, organizátoři proto doporučují včasnou registraci [https://tinyurl.com/mvm48v8j](https://tinyurl.com/mvm48v8j).\nVe středu 10. června od 19 hodin vyvrcholí celý projekt akcí ANTISOUŠL PARTY, netradičním (ne)společenským setkáním pro knihomoly, introverty i citlivky.\nProjekt zve návštěvníky k lepšímu pochopení vysoké citlivosti i sebe samých. Organizátoři chtějí vytvořit prostor, kde není nutné nic předstírat, být neustále společenský ani zvládat vše s úsměvem."
+    },
+    {
+      "id": "84591",
+      "date": "2026-05-26",
+      "year": "2026",
+      "theme": "socialni",
+      "themeLabel": "Sociální služby",
+      "title": "Na radnici proběhnou další odběry krve, zájemci se mohou registrovat",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "D",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-26_na-radnici-probehnou-dalsi-odbery-krve-zajemci-se-mohou-registrovat_d-84591.md",
+      "wowScore": 1,
+      "body": "> Do Kopřivnice opět zamíří Mobilní odběrový tým Nemocnice AGEL Nový Jičín. Cílem je umožnit lidem komfortní odběry krve co nejblíže jejich bydlišti, aby ušetřili čas a cestovní náklady. Zájemci budou moci darovat krev přímo na kopřivnické radnici, a to ve středu 17. června.\n„První veřejné odběry krve na kopřivnické radnici se uskutečnily před rokem a hned ukázaly, že je o tyto akce zájem a jejich podpora má smysl. Poprvé u nás na radnici darovalo krev 22 lidí a naposledy, tedy letos v březnu, jich přišlo 36. K naší velké radosti se pokaždé najde i několik prvodárců, kteří se možná i díky naší akci rozhodnou darovat krev pravidelně. Pokud počítáme i neveřejnou generálku pro zaměstnance radnice, přijede Mobilní odběrový tým 17. června už pošesté,“ uvedla koordinátorka Zdravého města Kopřivnice Ivana Holubová s tím, že další návštěvy jsou plánovány na září a listopad.\nMobilní odběry budou probíhat v 10. patře městského úřadu v době od 7 do 11:30 hodin. Zapojit se budou moci jak obyvatelé Kopřivnice, tak lidé z blízkého okolí. Pro účast je však nutné provést registraci v rezervačním systému Transfuzního oddělení Nemocnice AGEL Nový Jičín ([chci se registrovat](https://rezervacedarce.agel.cz/Pages/login.aspx?ReturnUrl=%2ftsl%2fkoprivnice%2fplna-krev%2ftermin)), a to do 15. června. „Dárce krve musí být samozřejmě zdravý člověk, což se při darování pečlivě kontroluje. Zájemci o odběr je nejprve odebrán tzv. kontrolní vzorek pro posouzení zdravotního stavu a ten na místě posuzuje lékař,“ doplnila Ivana Holubová s tím, že veškeré dotazy budou zájemcům zodpovězeny na telefonním čísle 556 773 471. Užitečné informace lze najít také přímo na webových stránkách transfuzního oddělení.\nDarování krve je nenahraditelnou pomocí, která může zachránit lidské zdraví i životy. Město Kopřivnice si proto velmi váží všech dárců a jejich ochoty pomáhat druhým. U příležitosti Světového dne dárců krve ocení starosta ty, kteří v uplynulém roce dosáhli 40, 80, 120, 160 a dalších násobků odběrů. Slavnostní setkání se uskuteční ve středu 10. června v 16 hodin v prostorách Ringhofferovy vily."
+    },
+    {
+      "id": "84590",
+      "date": "2026-05-26",
+      "year": "2026",
+      "theme": "podnikani",
+      "themeLabel": "Podnikání",
+      "title": "Muzejní noc mezi tatrovkami",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "A",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-26_muzejni-noc-mezi-tatrovkami_d-84590.md",
+      "wowScore": 3,
+      "body": "> Muzejní noc v Kopřivnici se blíží! Během dvou pátečních večerů budou mít milovníci tatrovek možnost vyrazit na netradiční prohlídky místních automobilových muzeí. V pátek 29. května nabídne nevšední zážitky expozice nákladních vozů, o týden později přivítá nespavce muzeum osobních aut.\nMuzeum nákladních automobilů Tatra bude v pátek 29. května výjimečně otevřeno od 18 do 22 hodin. Návštěvníci budou mít možnost vidět expozici ve večerních hodinách se speciálním nasvětlením a doprovodným programem. Pro děti bude připraven edukační koutek s různými úkoly a tvořením. V podobném duchu se ponese i Muzejní noc v Muzeu osobních automobilů Tatra, která je plánována na pátek 5. června. Také zde bude od 18 do 22 hodin připraven zajímavý večerní program.\nAkce je součástí Muzejních nocí v rámci Asociace muzeí a galerií ČR. Vstup do obou muzeí bude zdarma."
+    },
+    {
+      "id": "84587",
+      "date": "2026-05-25",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Dny techniky lákají na dakarské speciály a představení nové hasičské cisterny",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-25_dny-techniky-lakaji-na-dakarske-specialy-a-predstaveni-nove-hasicske-cisterny_d-84587.md",
+      "wowScore": 1,
+      "body": "> O víkendu 30. a 31. května se na zkušebním polygonu společnosti Tatra Trucks uskuteční 14. ročník Kopřivnických dnů techniky. Oblíbená akce nabídne interaktivní ukázky armádní, hasičské, stavební, zemědělské i jiné techniky, jízdy tatrovkami, lety vrtulníky a mnoho dalšího. Letošní ročník bude spojen s oslavami dakarské historie automobilky Tatra.\nNávštěvníci se mohou těšit na mimořádný program věnovaný 40. výročí prvního startu tatrovek na legendární Rallye Dakar. Ve speciální dakarské zóně bude vystaveno více než dvacet závodních vozů značky Tatra, takže letošní ročník bude pro fanoušky motosportu opravdu mimořádným zážitkem. Na stánku SEVA bude u této příležitosti spuštěn prodej limitované edice Monti Systemu Tatra se startovním číslem 635.\nSoučástí letošního programu bude také představení a slavnostní předání nové hasičské cisterny Jednotce sboru dobrovolných hasičů města Kopřivnice. Příchozí si budou moci moderní zásahové vozidlo CAS 20 na podvozku Tatra Force zblízka prohlédnout a zeptat se místních hasičů na všechno, co je zajímá. K oficiálnímu předání automobilové stříkačky dojde v sobotu v 11:15, následovat bude ukázka vyprošťování osob z havarovaného vozidla.\nNebude chybět ani možnost bezplatného svezení v nákladních vozech Tatra po speciálních vozovkách polygonu, a to po oba víkendové dny od 9 do 15:30 hodin. Připraveny budou i vyhlídkové lety dvěma vrtulníky, možnost svezení po klopeném oválu v historických i sportovních automobilech, půjčovna motokár, rádiem řízené modely, dětské dopravní hřiště, Lego zóna a v neposlední řadě mnoho interaktivních expozic vystavovatelů. Například u automobilky Tesla si zájemci budou moci prohlédnout unikátní Cybertruck. Doprovodný program zahrnuje také atrakce a kolotoče pro děti, malování na obličej, dočasné tetování, pletení copánků, výrobu obrázků z písku apod.\nAreál bude v sobotu i v neděli otevřen od 9 do 17 hodin, pro vstup se bude uzavírat v 16 hodin. Vzhledem k omezené kapacitě nebude možné vjet bez povolení dovnitř areálu soukromými vozy, výjimkou budou držitelé karet ZTP a ZTP/P. Stejně jako v minulých letech však bude k dispozici bezplatná autobusová doprava od polikliniky v centru města a nově bude jezdit také druhá kyvadlová linka od brány č. 6 z průmyslového parku. Pěší návštěvníci a cyklisté mohou využít vstup z ulice Husovy u Muzea nákladních automobilů Tatra. Přijet lze také na sdílených kolech, protože na polygonu vznikne dočasná stanice pro Rekola. Vlastní kola bude možné odložit v hlídané kolárně.\nGenerálními partnery akce jsou společnost Tatra Trucks a město Kopřivnice, které na její zajištění přispívá dotací ve výši 700 tisíc korun. Další informace a aktuální program naleznou zájemci na webu [www.koprivnickednytechniky.cz](http://www.koprivnickednytechniky.cz/)."
+    },
+    {
+      "id": "84586",
+      "date": "2026-05-25",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Den dětí oživí retro hry a hity z kazeťáku",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-25_den-deti-ozivi-retro-hry-a-hity-z-kazetaku_d-84586.md",
+      "wowScore": 1,
+      "body": "> V pátek 29. května ožije sad E. Beneše dětským smíchem i pořádnou dávkou nostalgie. Tradiční oslava Dne dětí přenese návštěvníky do dob, kdy ke skvělé zábavě stačilo pár kamarádů, křída na chodník nebo guma na skákání.\nDopolední blok odstartuje v 9 hodin a potrvá do 11:30, odpolední porce zábavy bude připravena v době od 14 do 18 hodin. Po celý den budou připravena zábavná stanoviště a retro úkoly, které připravili pracovníci knihovny a DDM Kopřivnice. Malí i velcí návštěvníci si budou moci vyzkoušet například skákání přes gumu, přes švihadlo, panáka, cvrnkání kuliček, skládání vlaštovek a další hry, které bavily celé generace dětí. Od 14 hodin se program rozšíří o horolezeckou stěnu, skákací hrad a herní koutek. O hudební doprovod se postará DJ Stoupa, který zahraje známé retro hity „z kazeťáku“.\nRetro dětský den nabídne nejen zábavu pro nejmenší, ale i příležitost zavzpomínat na hry, které byly součástí dětství dnešních rodičů a prarodičů. Přijďte společně strávit příjemný den!"
+    },
+    {
+      "id": "84580",
+      "date": "2026-05-22",
+      "year": "2026",
+      "theme": "doprava",
+      "themeLabel": "Doprava",
+      "title": "Radnice ověřuje spokojenost klientů",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "C",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-22_radnice-overuje-spokojenost-klientu_d-84580.md",
+      "wowScore": 1,
+      "body": "> Kopřivnická radnice opět zjišťuje, jak jsou občané spokojeni s poskytovanými službami a přístupem místních úředníků. V těchto dnech se tedy může návštěvníkům zdejšího městského úřadu stát, že budou u vstupu zastaveni středoškolskými studenty a požádáni o vyplnění krátkého anonymního dotazníku.\nPři hodnocení práce úředníků bude možné využít stejnou stupnici jako ve škole, tedy 1 – výborný a 5 – nedostatečný. Kromě toho se lidé budou moci vyjádřit k vyřízení své žádosti, čekací době, dostupnosti a prostředí úřadu, odbornosti a osobnímu přístupu úředníků nebo k čemukoliv dalšímu, co by rádi změnili, vylepšili nebo naopak pochválili. V dotazníku nechybí ani dotaz na preferované způsoby komunikace a zjišťování, zda lidé vědí o možnostech vyřizování některých úředních záležitostí z domova, například prostřednictvím Portálu občana.\n„Občas se setkáváme s dotazy, proč průzkum neprobíhá online. Jelikož nás zajímá, jaké odbory klienti navštívili a jaké jsou jejich bezprostřední dojmy, jak hodnotí prostředí úřadu, čekací dobu a zejména přístup úředníků, je pro nás tento způsob nevhodnější a zajišťuje největší reliabilitu výsledků. Ale samozřejmě pracujeme také s ostatními podněty, které nám lidé posílají i elektronicky,“ vysvětlila vedoucí personálního oddělení Marcela Mikulová.\nVloni se tazatelům podařilo uskutečnit 219 rozhovorů a Městský úřad Kopřivnice získal historicky nejlepší hodnocení v podobě výsledné známky 1,11. Výsledky šetření jsou důležitou zpětnou vazbou, se kterou úřad dále pracuje. Podněty získané prostřednictvím průzkumu jsou předávány příslušným odborům k řešení.\nPředem děkujeme všem, kdo si na vyplnění dotazníku najdou chvilku času!"
+    },
+    {
+      "id": "84541",
+      "date": "2026-05-21",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Do Kopřivnice zavítala milá návštěva ze Slovenska",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-21_do-koprivnice-zavitala-mila-navsteva-ze-slovenska_d-84541.md",
+      "wowScore": 1,
+      "body": "> Ve středu 20. května zavítaly do Kopřivnice děti z MŠ Komenského ze slovenského partnerského města Bánovce nad Bebravou. Návštěva je završením společného projektu s místní MŠ Pionýrskou plného rozhovorů, sdílení a objevování. Už v červnu se kopřivnické děti na oplátku vydají do Bánovců nad Bebravou.\nBánovce nad Bebravou jsou malé slovenské město, se kterým Kopřivnice navázala partnerskou spolupráci v roce 2018. S rodištěm tatrovek je historicky jej spojuje existence odštěpného závodu Tatry, který od roku 1970 po dvě desetiletí vyráběl nápravy pro tatrovky. Mnoho bánoveckých obyvatel také v Kopřivnici pracovalo. Mezinárodní spolupráce probíhala zejména na úrovni kulturní a sportovní, než se v hlavě vedoucí paní učitelky MŠ Pionýrské, Markéty Fišerové, zrodil nápad na propojení nejmladší generace.\nDěti ze třídy Rosniček z MŠ Pionýrské se během tohoto školního roku pravidelně setkávaly s dětmi ze třídy Žabiček z MŠ Komenského. Povídaly si při online hovorech, posílaly si e-maily, fotografie, videa i dopisy. Sdílely své zážitky, písničky, výrobky i každodenní radosti ze školky. Společně zjišťovaly, co vše je mají společného, přestože je dělí velká vzdálenost a mluví trochu jiným jazykem. Osobní setkání v květnu a červnu jsou završením krásného projektu, díky kterému se děti už dávno znají.\nCelodenní program v našem městě v absolvovaly Rosničky a Žabičky společně. Slovenské děti měly možnost poznat Kopřivnici nejen jako město automobilů, ale také jako místo zajímavých zážitků. Po příjezdu zamířila výprava do Muzea nákladních automobilů Tatra a zapojila se do edukačně-tvořivého programu s názvem Slovenská strela očima dětí. Po obědě následoval odpolední program na Novém náměstí, kde bylo připraveno divadelní představení Milana Šťastného, svačinka a krátký odpočinek. Na závěr děti zamířily na služebnu městské policie, kde jim strážníci ukázali svou výstroj a výzbroj.\nSetkání potvrdilo, že partnerství Kopřivnice a Bánovců nad Bebravou není jen formální záležitostí, ale živou spoluprací, která přináší dětem nová přátelství, zkušenosti a poznávání života v sousední zemi. Společné aktivity obou školek i průběh celého projektu přibližuje malá výstava, která je až do 31. května k vidění v pavilonu na Novém náměstí."
+    },
+    {
+      "id": "84531",
+      "date": "2026-05-20",
+      "year": "2026",
+      "theme": "socialni",
+      "themeLabel": "Sociální služby",
+      "title": "V Kopřivnici se rozšiřuje síť defibrilátorů",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "D",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-20_v-koprivnici-se-rozsiruje-sit-defibrilatoru_d-84531.md",
+      "wowScore": 1,
+      "body": "> Zaměstnanci městského úřadu a strážníci městské policie absolvovali praktické školení první pomoci zaměřené na zásah při náhlé srdeční zástavě. Součástí byl nácvik použití automatizovaného externího defibrilátoru (AED), který může výrazně zvýšit šance na záchranu života.\nŠkolení bylo zaměřeno především na správné provádění resuscitace a bezpečné použití automatizovaného externího defibrilátoru v krizových situacích. Účastníci si vyzkoušeli jednotlivé kroky poskytování první pomoci a osvojili si práci s přístrojem, který je navržen tak, aby jej dokázali použít nejen odborníci, ale i laická veřejnost. Po zapnutí poskytuje jasné hlasové pokyny a obrazovou nápovědu, které uživatele provedou celým postupem záchrany. Včasné použití AED ještě před příjezdem zdravotnické záchranné služby může být klíčové při obnově srdeční činnosti.\nDefibrilátor bude umístěn ve vestibulu městského úřadu, kde bude k dispozici veřejnosti i zaměstnancům úřadu. Další přístroj bude součástí vybavení služebního vozidla Městské policie Kopřivnice, což umožní rychlejší reakci při mimořádných událostech přímo v terénu.\nMěsto Kopřivnice tímto krokem dále posiluje bezpečnost svých obyvatel a podporuje rozvoj veřejně dostupné sítě AED v regionu. Přehled všech dostupných defibrilátorů v České republice nabízí mobilní aplikace Záchranka."
+    },
+    {
+      "id": "84533",
+      "date": "2026-05-20",
+      "year": "2026",
+      "theme": "kultura-sport",
+      "themeLabel": "Kultura a sport",
+      "title": "Od jamky k jamce",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-05-20_od-jamky-k-jamce_d-84533.md",
+      "wowScore": 1,
+      "body": "> Ve čtvrtek 28. května ožije minigolfové hřiště u kopřivnického koupaliště tradičním turnajem Od jamky k jamce. Oblíbená akce pro aktivní seniory začne v 10 hodin a vstup na ni bude zdarma.\nPříchozí se mohou těšit na pohodové dopoledne plné zábavy, soutěžení a přátelské atmosféry. Vítáni jsou zkušení hráči i úplní začátečníci. Cílem totiž není jen poměřit hráčské schopnosti, ale především aktivně strávit čas a setkat se s ostatními milovníky populární hry.\nAkce se uskuteční pouze za příznivého počasí."
+    },
     {
       "id": "84467",
       "date": "2026-05-13",
@@ -14740,15 +15341,15 @@
   ],
   "themeGraph": {
     "themeCounts": {
-      "investice-stavby": 89,
-      "kultura-sport": 183,
-      "zivotni-prostredi": 116,
+      "investice-stavby": 91,
+      "kultura-sport": 194,
+      "zivotni-prostredi": 120,
       "provozni": 25,
-      "image": 37,
-      "socialni": 77,
-      "podnikani": 24,
-      "skolstvi": 132,
-      "doprava": 156,
+      "image": 38,
+      "socialni": 82,
+      "podnikani": 27,
+      "skolstvi": 136,
+      "doprava": 166,
       "participace": 36
     },
     "themeLabels": {
@@ -14767,43 +15368,43 @@
       {
         "id": "kultura-sport",
         "label": "Kultura a sport",
-        "count": 183,
+        "count": 194,
         "group": "theme"
       },
       {
         "id": "doprava",
         "label": "Doprava",
-        "count": 156,
+        "count": 166,
         "group": "theme"
       },
       {
         "id": "skolstvi",
         "label": "Školství",
-        "count": 132,
+        "count": 136,
         "group": "theme"
       },
       {
         "id": "zivotni-prostredi",
         "label": "Životní prostředí",
-        "count": 116,
+        "count": 120,
         "group": "theme"
       },
       {
         "id": "investice-stavby",
         "label": "Investice a stavby",
-        "count": 89,
+        "count": 91,
         "group": "theme"
       },
       {
         "id": "socialni",
         "label": "Sociální služby",
-        "count": 77,
+        "count": 82,
         "group": "theme"
       },
       {
         "id": "image",
         "label": "Image a ocenění",
-        "count": 37,
+        "count": 38,
         "group": "theme"
       },
       {
@@ -14813,15 +15414,15 @@
         "group": "theme"
       },
       {
-        "id": "provozni",
-        "label": "Provozní",
-        "count": 25,
+        "id": "podnikani",
+        "label": "Podnikání",
+        "count": 27,
         "group": "theme"
       },
       {
-        "id": "podnikani",
-        "label": "Podnikání",
-        "count": 24,
+        "id": "provozni",
+        "label": "Provozní",
+        "count": 25,
         "group": "theme"
       },
       {
@@ -14853,49 +15454,49 @@
       {
         "source": "investice-stavby",
         "target": "sp-B",
-        "weight": 89,
+        "weight": 91,
         "mode": "bySP"
       },
       {
         "source": "kultura-sport",
         "target": "sp-B",
-        "weight": 183,
+        "weight": 194,
         "mode": "bySP"
       },
       {
         "source": "zivotni-prostredi",
         "target": "sp-C",
-        "weight": 116,
+        "weight": 120,
         "mode": "bySP"
       },
       {
         "source": "image",
         "target": "sp-B",
-        "weight": 37,
+        "weight": 38,
         "mode": "bySP"
       },
       {
         "source": "socialni",
         "target": "sp-D",
-        "weight": 77,
+        "weight": 82,
         "mode": "bySP"
       },
       {
         "source": "podnikani",
         "target": "sp-A",
-        "weight": 24,
+        "weight": 27,
         "mode": "bySP"
       },
       {
         "source": "skolstvi",
         "target": "sp-A",
-        "weight": 132,
+        "weight": 136,
         "mode": "bySP"
       },
       {
         "source": "doprava",
         "target": "sp-C",
-        "weight": 156,
+        "weight": 166,
         "mode": "bySP"
       },
       {
@@ -14907,13 +15508,79 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "skolstvi",
+        "source": "doprava",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "image",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "investice-stavby",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
@@ -14925,19 +15592,7 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
+        "source": "podnikani",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
@@ -14945,66 +15600,18 @@
       {
         "source": "provozni",
         "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "skolstvi",
-        "target": "zivotni-prostredi",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "kultura-sport",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15016,25 +15623,7 @@
       },
       {
         "source": "image",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "zivotni-prostredi",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15045,14 +15634,26 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "zivotni-prostredi",
+        "source": "participace",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "zivotni-prostredi",
+        "source": "participace",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       }
@@ -15095,51 +15696,52 @@
         "participace": 13
       },
       "2026": {
-        "investice-stavby": 7,
-        "kultura-sport": 9,
-        "skolstvi": 15,
-        "doprava": 18,
-        "image": 5,
+        "investice-stavby": 9,
+        "kultura-sport": 20,
+        "skolstvi": 19,
+        "doprava": 28,
+        "image": 6,
         "participace": 2,
-        "socialni": 10,
-        "zivotni-prostredi": 14,
-        "provozni": 3
+        "socialni": 15,
+        "zivotni-prostredi": 18,
+        "provozni": 3,
+        "podnikani": 3
       }
     },
     "byType": {
       "investice-stavby": {
-        "investice": 83,
-        "mekky-projekt": 6
+        "investice": 84,
+        "mekky-projekt": 7
       },
       "kultura-sport": {
-        "mekky-projekt": 175,
+        "mekky-projekt": 186,
         "investice": 8
       },
       "zivotni-prostredi": {
-        "mekky-projekt": 112,
+        "mekky-projekt": 116,
         "investice": 4
       },
       "provozni": {
         "provozni": 25
       },
       "image": {
-        "mekky-projekt": 36,
+        "mekky-projekt": 37,
         "investice": 1
       },
       "socialni": {
-        "mekky-projekt": 72,
+        "mekky-projekt": 77,
         "investice": 5
       },
       "podnikani": {
-        "mekky-projekt": 24
+        "mekky-projekt": 27
       },
       "skolstvi": {
-        "mekky-projekt": 119,
+        "mekky-projekt": 123,
         "investice": 13
       },
       "doprava": {
-        "mekky-projekt": 93,
-        "investice": 63
+        "mekky-projekt": 101,
+        "investice": 65
       },
       "participace": {
         "investice": 10,
@@ -15173,11 +15775,11 @@
       },
       {
         "year": 2026,
-        "count": 83,
-        "investice": 19,
-        "mekky": 61,
+        "count": 123,
+        "investice": 22,
+        "mekky": 98,
         "provozni": 3,
-        "mega": 7
+        "mega": 12
       }
     ],
     "strategicGoals": [
@@ -15420,253 +16022,263 @@
   "wordFreq": [
     {
       "text": "kultura",
-      "value": 183,
+      "value": 194,
       "weight": 100
     },
     {
       "text": "sport",
-      "value": 183,
+      "value": 194,
       "weight": 100
     },
     {
       "text": "doprava",
-      "value": 156,
-      "weight": 85
+      "value": 166,
+      "weight": 86
     },
     {
       "text": "školství",
-      "value": 132,
-      "weight": 72
+      "value": 136,
+      "weight": 70
     },
     {
       "text": "prostředí",
-      "value": 125,
-      "weight": 68
+      "value": 129,
+      "weight": 66
     },
     {
       "text": "životní",
-      "value": 119,
-      "weight": 65
+      "value": 123,
+      "weight": 63
     },
     {
       "text": "výstava",
       "value": 114,
-      "weight": 62
+      "weight": 59
     },
     {
       "text": "stavby",
-      "value": 95,
-      "weight": 52
+      "value": 97,
+      "weight": 50
     },
     {
       "text": "rekonstrukce",
       "value": 93,
-      "weight": 51
+      "weight": 48
     },
     {
       "text": "investice",
-      "value": 89,
-      "weight": 49
+      "value": 91,
+      "weight": 47
     },
     {
       "text": "sociální",
-      "value": 86,
+      "value": 91,
       "weight": 47
     },
     {
       "text": "služby",
-      "value": 77,
+      "value": 82,
       "weight": 42
     },
     {
       "text": "ocenění",
-      "value": 61,
-      "weight": 33
+      "value": 62,
+      "weight": 32
     },
     {
       "text": "farmářský",
-      "value": 48,
-      "weight": 26
+      "value": 54,
+      "weight": 28
     },
     {
       "text": "zastupitelé",
       "value": 44,
-      "weight": 24
+      "weight": 23
+    },
+    {
+      "text": "projekt",
+      "value": 44,
+      "weight": 23
     },
     {
       "text": "oprava",
-      "value": 38,
-      "weight": 21
+      "value": 42,
+      "weight": 22
     },
     {
       "text": "image",
-      "value": 37,
+      "value": 38,
       "weight": 20
     },
     {
       "text": "participace",
       "value": 36,
-      "weight": 20
+      "weight": 19
     },
     {
       "text": "beneše",
       "value": 36,
-      "weight": 20
-    },
-    {
-      "text": "projekt",
-      "value": 36,
-      "weight": 20
+      "weight": 19
     },
     {
       "text": "blíží",
       "value": 34,
-      "weight": 19
+      "weight": 18
+    },
+    {
+      "text": "školy",
+      "value": 33,
+      "weight": 17
     },
     {
       "text": "beseda",
       "value": 32,
-      "weight": 17
+      "weight": 16
     },
     {
       "text": "pavilonu",
       "value": 32,
-      "weight": 17
+      "weight": 16
     },
     {
       "text": "brzy",
       "value": 32,
-      "weight": 17
+      "weight": 16
+    },
+    {
+      "text": "děti",
+      "value": 30,
+      "weight": 15
     },
     {
       "text": "letní",
       "value": 30,
-      "weight": 16
+      "weight": 15
     },
     {
       "text": "fojtství",
       "value": 28,
-      "weight": 15
+      "weight": 14
     },
     {
       "text": "muzeu",
       "value": 28,
-      "weight": 15
+      "weight": 14
     },
     {
-      "text": "děti",
+      "text": "setkání",
       "value": 28,
-      "weight": 15
+      "weight": 14
     },
     {
       "text": "tatra",
       "value": 28,
-      "weight": 15
+      "weight": 14
     },
     {
       "text": "sportovní",
       "value": 27,
-      "weight": 15
+      "weight": 14
     },
     {
-      "text": "školy",
+      "text": "podnikání",
       "value": 27,
-      "weight": 15
+      "weight": 14
     },
     {
       "text": "adventní",
       "value": 26,
-      "weight": 14
+      "weight": 13
+    },
+    {
+      "text": "senioři",
+      "value": 26,
+      "weight": 13
     },
     {
       "text": "provozní",
       "value": 25,
-      "weight": 14
+      "weight": 13
     },
     {
       "text": "zátopka",
       "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "podnikání",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "mniší",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "setkání",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "beskyd",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "školky",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "severu",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "vánoční",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "kopřivničané",
-      "value": 24,
-      "weight": 13
-    },
-    {
-      "text": "akcí",
-      "value": 22,
-      "weight": 12
-    },
-    {
-      "text": "chodníku",
-      "value": 22,
       "weight": 12
     },
     {
       "text": "práce",
-      "value": 22,
+      "value": 24,
       "weight": 12
+    },
+    {
+      "text": "mniší",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "beskyd",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "školky",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "severu",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "vánoční",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "kopřivničané",
+      "value": 24,
+      "weight": 12
+    },
+    {
+      "text": "akcí",
+      "value": 22,
+      "weight": 11
+    },
+    {
+      "text": "chodníku",
+      "value": 22,
+      "weight": 11
+    },
+    {
+      "text": "odpoledne",
+      "value": 22,
+      "weight": 11
     },
     {
       "text": "letos",
       "value": 22,
-      "weight": 12
+      "weight": 11
+    },
+    {
+      "text": "nejlepší",
+      "value": 22,
+      "weight": 11
     },
     {
       "text": "akce",
       "value": 22,
-      "weight": 12
+      "weight": 11
     },
     {
       "text": "měsíc",
       "value": 22,
-      "weight": 12
-    },
-    {
-      "text": "senioři",
-      "value": 22,
-      "weight": 12
+      "weight": 11
     },
     {
       "text": "novém",
       "value": 22,
-      "weight": 12
+      "weight": 11
     },
     {
       "text": "výstavba",
@@ -15674,48 +16286,38 @@
       "weight": 11
     },
     {
-      "text": "odpoledne",
-      "value": 20,
-      "weight": 11
-    },
-    {
       "text": "lidé",
       "value": 20,
-      "weight": 11
+      "weight": 10
+    },
+    {
+      "text": "milady",
+      "value": 20,
+      "weight": 10
+    },
+    {
+      "text": "horákové",
+      "value": 20,
+      "weight": 10
+    },
+    {
+      "text": "představí",
+      "value": 20,
+      "weight": 10
     },
     {
       "text": "poslední",
       "value": 20,
-      "weight": 11
+      "weight": 10
     },
     {
       "text": "beskydy",
       "value": 20,
-      "weight": 11
+      "weight": 10
     },
     {
       "text": "pavilon",
       "value": 20,
-      "weight": 11
-    },
-    {
-      "text": "sobotu",
-      "value": 18,
-      "weight": 10
-    },
-    {
-      "text": "zdarma",
-      "value": 18,
-      "weight": 10
-    },
-    {
-      "text": "jarní",
-      "value": 18,
-      "weight": 10
-    },
-    {
-      "text": "dotace",
-      "value": 18,
       "weight": 10
     }
   ],
