@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-06-25T08:42:18.477445",
+    "generated": "2026-06-26T11:44:18.027646",
     "period": "2023-2026",
     "pressReleaseCount": 915,
     "apActivityCount": 496,
@@ -13980,12 +13980,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-10-26_koprivnice-otevira-nove-centrum_d-76709.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/revitalizace-centra-nove-namesti--revitalizace-vcentra-mesta--2de50f0.png",
-          "alt": "Revitalizace vcentra města"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-1",
@@ -14019,12 +14014,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/rekonstrukce-koupaliste--rekonstrukce-koupaliste--eeefc80.jpg",
-          "alt": "Rekonstrukce koupaliště"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-2",
@@ -14049,16 +14039,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-05-13_v-casti-byvale-skoly-vzniknou-byty-prijdte-se-seznamit-s-projektem_d-81456.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/zs-namesti-knihovna-23-bytu--rekonstrukce-pristavby-zs-namesti-na-byty--9a75190.png",
-          "alt": "Rekonstrukce přístavby ZŠ Náměstí na byty"
-        },
-        {
-          "src": "images/projects/zs-namesti-knihovna-23-bytu--rekonstrukce-zs-namesti-na-knihovnu--71c3d71.png",
-          "alt": "Rekonstrukce ZŠ Náměstí na knihovnu"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-3",
@@ -14117,20 +14098,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-05-31_most-na-ulici-kpt-jarose-je-zprujezdnen_d-78685.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/mosty-jarose-dukelska-erbenova--lavka-na-dukelske--457ae40.png",
-          "alt": "Lávka na Dukelské"
-        },
-        {
-          "src": "images/projects/mosty-jarose-dukelska-erbenova--most-na-kpt-jarose--5241721.png",
-          "alt": "Most na Kpt. Jaroše"
-        },
-        {
-          "src": "images/projects/mosty-jarose-dukelska-erbenova--most-na-ulici-erbenove--4c0f782.png",
-          "alt": "Most na ulici Erbenově"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-5",
@@ -14144,12 +14112,7 @@
       "benefit": "Obnova mostu ve Vlčovicích — bezpečnější napojení místní komunikace v místní části.",
       "sources": [],
       "relatedPress": [],
-      "photos": [
-        {
-          "src": "images/projects/most-ve-vlcovicich--most-ve-vlcovicich--4fb1db0.png",
-          "alt": "Most ve Vlčovicích"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-6",
@@ -14174,16 +14137,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-02-19_blizi-se-stavba-nove-okruzni-krizovatky_d-80693.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/okruzni-krizovatka-zahumenni-jarose--okruzni-krizovatka-po--08d9e90.png",
-          "alt": "Okružní křižovatka po"
-        },
-        {
-          "src": "images/projects/okruzni-krizovatka-zahumenni-jarose--okruzni-krizovatka-pred--7728801.png",
-          "alt": "Okružní křižovatka před"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-7",
@@ -14208,12 +14162,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-05-29_pumptrack-je-hotov-muzete-si-uzit-jizdu_d-81595.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/pumptrack-na-hazenaku--pumptrack-na-hazenaku--4e88400.png",
-          "alt": "Pumptrack na házeňáku"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-8",
@@ -14221,14 +14170,23 @@
       "type": "investice",
       "amountCzk": 68000000,
       "amountLabel": "68 mil. Kč",
-      "status": "Plánováno 2026",
+      "status": "Zahájeno 06/2026",
       "spArea": "A",
       "spLabel": "A.3 Vzdělávání",
-      "benefit": "Moderní školní zázemí",
+      "benefit": "Rekonstrukce kuchyně, jídelny, vstupu a respiria — moderní školní zázemí.",
       "sources": [
-        "data/tiskovky/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
+        "data/tiskovky/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md",
+        "data/tiskovky/markdown/2026/2026-06-23_zakum-zs-dr-milady-horakove-zacinaji-prodlouzene-prazdniny_d-84807.md"
       ],
       "relatedPress": [
+        {
+          "id": "84807",
+          "date": "2026-06-23",
+          "title": "Žákům ZŠ dr. Milady Horákové začínají prodloužené prázdniny",
+          "amountCzk": 51000000,
+          "amountLabel": "51 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-06-23_zakum-zs-dr-milady-horakove-zacinaji-prodlouzene-prazdniny_d-84807.md"
+        },
         {
           "id": "83222",
           "date": "2025-12-15",
@@ -14238,7 +14196,12 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-12-15_zastupitele-schvalili-rozpocet-ceka-nas-zahajeni-tri-velkych-investic_d-83222.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad280.png",
+          "alt": "ZŠ Horákové – rekonstrukce"
+        }
+      ]
     },
     {
       "id": "golias-9",
@@ -14272,24 +14235,39 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-07-09_na-radnici-vznikne-sdilena-kancelar-kop-work_d-81989.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f400.png",
+          "alt": "KOP-WORK"
+        }
+      ]
     },
     {
       "id": "golias-10",
-      "title": "Podnikej raz dva – workshopy pro podnikatele",
+      "title": "Podnikej raz dva – workshopy a klub pro podnikatele",
       "type": "měkký",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Opakované běhy 2025",
+      "status": "Opakované běhy 2025–2026",
       "spArea": "A",
       "spLabel": "A.1 Podnikavost",
-      "benefit": "Bezplatné workshopy a mentoring pro vznik a rozvoj podnikání; doložené příběhy účastníků.",
+      "benefit": "Bezplatné workshopy, klubová setkání a mentoring pro vznik a rozvoj podnikání; doložené příběhy účastníků.",
       "sources": [
         "data/tiskovky/markdown/2025/2025-03-14_podnikejte-raz-dva-prijdte-na-uzitecne-workshopy-zdarma_d-80974.md",
+        "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md",
         "data/tiskovky/markdown/2025/2025-09-02_blizi-se-dalsi-setkani-podnikej-raz-dva_d-82292.md",
-        "data/tiskovky/markdown/2025/2025-09-26_pribehy-ucastniku-projektu-podnikej-raz-dva-inspiruji_d-82538.md"
+        "data/tiskovky/markdown/2025/2025-09-26_pribehy-ucastniku-projektu-podnikej-raz-dva-inspiruji_d-82538.md",
+        "data/tiskovky/markdown/2026/2026-06-11_projekt-podnikej-raz-dva-opet-oziva_d-84704.md"
       ],
       "relatedPress": [
+        {
+          "id": "84704",
+          "date": "2026-06-11",
+          "title": "Projekt Podnikej raz dva opět ožívá!",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-06-11_projekt-podnikej-raz-dva-opet-oziva_d-84704.md"
+        },
         {
           "id": "82538",
           "date": "2025-09-26",
@@ -14307,6 +14285,14 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-09-02_blizi-se-dalsi-setkani-podnikej-raz-dva_d-82292.md"
         },
         {
+          "id": "81657",
+          "date": "2025-06-04",
+          "title": "Klub pro podnikatele nabídne rady, inspiraci i kontakty",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md"
+        },
+        {
           "id": "80974",
           "date": "2025-03-14",
           "title": "Podnikejte raz dva! Přijďte na užitečné workshopy zdarma",
@@ -14317,23 +14303,24 @@
       ],
       "photos": [
         {
-          "src": "images/projects/podnikej-raz-dva-workshopy-pro-podnikate--podnikej-raz-dva--e6117e0.png",
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc50.png",
           "alt": "Podnikej raz dva"
         }
       ]
     },
     {
       "id": "golias-11",
-      "title": "Klub pro podnikatele",
+      "title": "Setkávání s podnikateli",
       "type": "měkký",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Zaveden 2025",
+      "status": "Pravidelně od 2023",
       "spArea": "A",
       "spLabel": "A.1 Podnikavost",
-      "benefit": "Pravidelná setkávání podnikatelů s vedením města – rady, inspirace a kontakty.",
+      "benefit": "Setkání vedení města s podnikateli při kávě — informace o aktivitách města, podněty a zpětná vazba.",
       "sources": [
-        "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md",
+        "data/tiskovky/markdown/2023/2023-09-20_radnice-se-opet-sejde-s-podnikateli_d-76410.md",
+        "data/tiskovky/markdown/2024/2024-09-18_vedeni-mesta-se-sejde-s-podnikateli_d-79435.md",
         "data/tiskovky/markdown/2025/2025-10-08_vedeni-mesta-se-sejde-s-podnikateli_d-82483.md"
       ],
       "relatedPress": [
@@ -14346,18 +14333,26 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-10-08_vedeni-mesta-se-sejde-s-podnikateli_d-82483.md"
         },
         {
-          "id": "81657",
-          "date": "2025-06-04",
-          "title": "Klub pro podnikatele nabídne rady, inspiraci i kontakty",
+          "id": "79435",
+          "date": "2024-09-18",
+          "title": "Vedení města se sejde s podnikateli",
           "amountCzk": null,
           "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2025/2025-06-04_klub-pro-podnikatele-nabidne-rady-inspiraci-i-kontakty_d-81657.md"
+          "sourceFile": "data/tiskovky/markdown/2024/2024-09-18_vedeni-mesta-se-sejde-s-podnikateli_d-79435.md"
+        },
+        {
+          "id": "76410",
+          "date": "2023-09-20",
+          "title": "Radnice se opět sejde s podnikateli",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-09-20_radnice-se-opet-sejde-s-podnikateli_d-76410.md"
         }
       ],
       "photos": [
         {
-          "src": "images/projects/klub-pro-podnikatele--klub-pro-podnikatele--9c7e2d0.png",
-          "alt": "Klub pro podnikatele"
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c0.jpeg",
+          "alt": "Setkávání s podnikateli"
         }
       ]
     },
@@ -14393,12 +14388,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-03-26_koprivnicka-radnice-ocenila-26-pedagogu-za-jejich-prinos-vzdelavani_d-81044.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/ocenovani-pedagogu-a-podpora-vzdelavani--ocenovani-nejlepsich-pedagogu--0e0e8b0.png",
-          "alt": "Oceňování nejlepších pedagogů"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-13",
@@ -14432,12 +14422,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/aktivni-senior-celorocni-program--aktivni-senior--7d05020.png",
-          "alt": "Aktivní senior"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-14",
@@ -14451,12 +14436,7 @@
       "benefit": "Poradenství, prevence podvodů a bezpečnostní osvěta pro seniory.",
       "sources": [],
       "relatedPress": [],
-      "photos": [
-        {
-          "src": "images/projects/senior-v-bezpeci-poradenstvi-a-prevence--senior-v-bezpeci--de4ac70.png",
-          "alt": "Senior v bezpečí"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-15",
@@ -14503,9 +14483,18 @@
       "spLabel": "A.1 Podnikavost",
       "benefit": "Dotace a poradenství pro vlastníky a provozovatele v centru — úpravy fasád a výloh podle manuálu Estetika centra (ne daňové úlevy).",
       "sources": [
-        "data/tiskovky/markdown/2024/2024-01-09_podnikatele-v-centru-mohou-zadat-o-dotace-na-upravy-provozoven_d-77291.md"
+        "data/tiskovky/markdown/2024/2024-01-09_podnikatele-v-centru-mohou-zadat-o-dotace-na-upravy-provozoven_d-77291.md",
+        "data/tiskovky/markdown/2024/2024-07-10_podnikatele-v-centru-mohou-stale-zadat-o-dotace_d-79017.md"
       ],
       "relatedPress": [
+        {
+          "id": "79017",
+          "date": "2024-07-10",
+          "title": "Podnikatelé v centru mohou stále žádat o dotace",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-07-10_podnikatele-v-centru-mohou-stale-zadat-o-dotace_d-79017.md"
+        },
         {
           "id": "77291",
           "date": "2024-01-09",
@@ -14515,7 +14504,12 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-01-09_podnikatele-v-centru-mohou-zadat-o-dotace-na-upravy-provozoven_d-77291.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c50.png",
+          "alt": "Motivační program"
+        }
+      ]
     },
     {
       "id": "golias-17",
@@ -14559,50 +14553,26 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-03-07_pedagogy-nadchnul-seminar-o-matematice_d-77794.md"
         }
       ],
-      "photos": []
-    },
-    {
-      "id": "golias-18",
-      "title": "Kariérové poradenství pro žáky ZŠ",
-      "type": "měkký",
-      "amountCzk": null,
-      "amountLabel": "-",
-      "status": "Probíhá průběžně",
-      "spArea": "A",
-      "spLabel": "A.3 Flexibilní a vzdělaní lidé",
-      "benefit": "Systematická podpora kariérového poradenství na školách v Kopřivnici — pomoc žákům 8. a 9. tříd s volbou školy a budoucího povolání.",
-      "sources": [
-        "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md"
-      ],
-      "relatedPress": [
-        {
-          "id": "77433",
-          "date": "2024-01-24",
-          "title": "Beseda pomůže s přihláškami na střední",
-          "amountCzk": null,
-          "amountLabel": "-",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md"
-        }
-      ],
       "photos": [
         {
-          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs--karierove-poradenstvi--e7b55f0.jpg",
-          "alt": "Kariérové poradenství"
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a0.jpeg",
+          "alt": "MAP"
         }
       ]
     },
     {
-      "id": "golias-19",
-      "title": "Dny tvojí kariéry",
+      "id": "golias-18",
+      "title": "Kariérové poradenství pro žáky ZŠ a Dny tvojí kariéry",
       "type": "měkký",
       "amountCzk": null,
       "amountLabel": "-",
-      "status": "Každoročně 2023–2025",
+      "status": "Probíhá průběžně 2023–2026",
       "spArea": "A",
       "spLabel": "A.3 Flexibilní a vzdělaní lidé",
-      "benefit": "Setkání žáků 8. a 9. tříd se zástupci středních škol — pomoc s výběrem budoucího povolání; rekordní počet zúčastněných škol.",
+      "benefit": "Kariérové poradenství na školách a každoroční Den tvojí kariéry — pomoc žákům 8. a 9. tříd s volbou školy a budoucího povolání.",
       "sources": [
         "data/tiskovky/markdown/2023/2023-11-01_den-tvoji-kariery-pomuze-s-vyberem-skoly_d-76765.md",
+        "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md",
         "data/tiskovky/markdown/2024/2024-11-05_den-tvoji-kariery-pomoc-pro-zaky-8-a-9-trid-s-vyberem-skoly_d-79821.md",
         "data/tiskovky/markdown/2025/2025-11-05_den-tve-kariery-opet-pomuze-zakum-s-vyberem-budouciho-povolani_d-82877.md"
       ],
@@ -14624,6 +14594,14 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-11-05_den-tvoji-kariery-pomoc-pro-zaky-8-a-9-trid-s-vyberem-skoly_d-79821.md"
         },
         {
+          "id": "77433",
+          "date": "2024-01-24",
+          "title": "Beseda pomůže s přihláškami na střední",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-01-24_beseda-pomuze-s-prihlaskami-na-stredni_d-77433.md"
+        },
+        {
           "id": "76765",
           "date": "2023-11-01",
           "title": "Den tvojí kariéry pomůže s výběrem školy",
@@ -14634,23 +14612,56 @@
       ],
       "photos": [
         {
-          "src": "images/projects/dny-tvoji-kariery--den-tve-kariery--d15eb80.png",
+          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs-a-dny---den-tve-kariery--e175b70.png",
           "alt": "Den tvé kariéry"
+        },
+        {
+          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs-a-dny---karierove-poradenstvi-a-dny-tvoji-kariery--f23f7e1.jpg",
+          "alt": "Kariérové poradenství a Dny tvojí kariéry"
+        }
+      ]
+    },
+    {
+      "id": "golias-19",
+      "title": "Rekonstrukce jídelny ZŠ 17. listopadu",
+      "type": "investice",
+      "amountCzk": 7350000,
+      "amountLabel": "7 mil. Kč",
+      "status": "Dokončeno 2024",
+      "spArea": "A",
+      "spLabel": "A.3 Vzdělávání",
+      "benefit": "Nová školní jídelna s flexibilním nábytkem a kompletní obnovou rozvodů — 6,8 mil. stavba + nábytek.",
+      "sources": [
+        "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md"
+      ],
+      "relatedPress": [
+        {
+          "id": "79073",
+          "date": "2024-07-17",
+          "title": "Ve školách se o prázdninách nezahálí",
+          "amountCzk": 9000000,
+          "amountLabel": "9 mil. Kč",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md"
+        }
+      ],
+      "photos": [
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea0.png",
+          "alt": "Rekonstrukce jídelny ZŠ 17. listopadu"
         }
       ]
     },
     {
       "id": "golias-20",
-      "title": "Rekonstrukce jídelny ZŠ 17. listopadu",
+      "title": "Rekonstrukce pavilonu ZŠ 17. listopadu",
       "type": "investice",
-      "amountCzk": 7350000,
-      "amountLabel": "7 mil. Kč",
-      "status": "Dokončeno 2024–2025 (jídelna + pavilon Polárka)",
+      "amountCzk": 10000000,
+      "amountLabel": "10 mil. Kč",
+      "status": "Dokončeno 2025",
       "spArea": "A",
       "spLabel": "A.3 Vzdělávání",
-      "benefit": "Nová školní jídelna s flexibilním nábytkem, elektroinstalace a zázemí MŠ Polárka — 6,8 mil. stavba + nábytek.",
+      "benefit": "Kompletní rekonstrukce školního pavilonu včetně MŠ Polárka — učebny, elektroinstalace, podlahy a zasklení.",
       "sources": [
-        "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md",
         "data/tiskovky/markdown/2025/2025-06-20_casti-skolaku-zacaly-prazdniny-o-tyden-drive_d-81815.md",
         "data/tiskovky/markdown/2025/2025-09-01_skolaky-dnes-vitaly-nove-tridy-i-novi-reditele_d-82287.md"
       ],
@@ -14670,20 +14681,12 @@
           "amountCzk": 10000000,
           "amountLabel": "10 mil. Kč",
           "sourceFile": "data/tiskovky/markdown/2025/2025-06-20_casti-skolaku-zacaly-prazdniny-o-tyden-drive_d-81815.md"
-        },
-        {
-          "id": "79073",
-          "date": "2024-07-17",
-          "title": "Ve školách se o prázdninách nezahálí",
-          "amountCzk": 9000000,
-          "amountLabel": "9 mil. Kč",
-          "sourceFile": "data/tiskovky/markdown/2024/2024-07-17_ve-skolach-se-o-prazdninach-nezahali_d-79073.md"
         }
       ],
       "photos": [
         {
-          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea0.png",
-          "alt": "Rekonstrukce jídelny ZŠ 17. listopadu"
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6540.jpeg",
+          "alt": "Rekonstrukce pavilonu ZŠ 17. listopadu"
         }
       ]
     },
@@ -14764,24 +14767,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-11-29_adventni-cteni-v-pavilonu-v-centru-mesta_d-77013.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--akce-v-pavilonu--abeecc0.png",
-          "alt": "Akce v pavilonu"
-        },
-        {
-          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--oziveni-centra0--9c27311.png",
-          "alt": "Oživení centra0"
-        },
-        {
-          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--ozveni-centra1--f5eaa92.png",
-          "alt": "Ožvení centra1"
-        },
-        {
-          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--vystavy-v-pavilonu--06b46c3.png",
-          "alt": "Výstavy v pavilonu"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-22",
@@ -14833,12 +14819,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-05-24_na-vetrkovicke-prehrade-letos-vznikne-molo_d-75613.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/vetrkovicka-prehrada-atraktivita-pro-ver--vetrkovicka-prehrada--475aa60.png",
-          "alt": "Větřkovická přehrada"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-23",
@@ -14881,12 +14862,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-02-05_projekce-v-pavilonu-pripomene-mistni-malire_d-80559.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/odpocivka-nejen-pro-turisty-v-centru-mes--odpocivka-v-centru--2479960.png",
-          "alt": "Odpočívka v centru"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-24",
@@ -14929,12 +14905,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-03-27_koprivnice-spolu-s-novym-jicinem-zavadi-sluzbu-sdilenych-kol_d-77955.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/sdilena-kola-v-koprivnici--sdilena-kola--5ad38e0.png",
-          "alt": "Sdílená kola"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-25",
@@ -14968,12 +14939,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-09-20_koprivnice-podporuje-udrzitelnou-mobilitu_d-79472.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/posileni-autobusovych-linek-do-sidliste---doplneni-autobusovych-linek--52b6cc0.png",
-          "alt": "Doplnění autobusových linek"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-26",
@@ -15025,24 +14991,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-01-13_na-jare-zacne-vystavba-dalsiho-parkoviste_d-40518.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-moravske--8097040.png",
-          "alt": "Parkoviště na Moravské"
-        },
-        {
-          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-obrancu-miru--145f351.png",
-          "alt": "Parkoviště na Obránců Míru"
-        },
-        {
-          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-zd-buriana--55feed2.png",
-          "alt": "Parkoviště na Zd. Buriana"
-        },
-        {
-          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-skolni--e9525e3.png",
-          "alt": "Parkoviště Školní"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-27",
@@ -15085,12 +15034,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-03-18_zhasnuti-centra-mesta-upozorni-na-nutnost-ochrany-klimatu_d-77900.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/vymena-verejneho-osvetleni-za-usporna-le--vymena-verejneho-osvetleni--5ea7bb0.png",
-          "alt": "Výměna veřejného osvětlení"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-28",
@@ -15158,12 +15102,7 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-01-15_specialni-priloha-novin-poradi-s-tridenim-odpadu_d-80354.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/door-to-door-sber-a-trideni-odpadu--door-to-door--653e4d0.png",
-          "alt": "Door-to-door"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-30",
@@ -15215,12 +15154,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-06-26_domov-pro-seniory-ma-byt-hotov-v-lednu-zadosti-bude-mozne-podavat-od-dubna_d-75932.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/krajsky-domov-pro-seniory-pod-bilou-horo--domov-pro-seniory--6ae7800.png",
-          "alt": "Domov pro seniory"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-31",
@@ -15246,12 +15180,7 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-06-30_po-rekonstrukci-se-dum-c-650-dockal-i-nove-zahrady_d-75995.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/obnova-zahrady-dszr-masarykovo-namesti-6--obnova-zahrady-650--9774fc0.png",
-          "alt": "Obnova zahrady 650"
-        }
-      ]
+      "photos": []
     },
     {
       "id": "golias-32",
@@ -15330,12 +15259,7 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-03-04_radnice-planuje-pravidelna-setkani-pecujicich_d-77762.md"
         }
       ],
-      "photos": [
-        {
-          "src": "images/projects/podpora-laickych-pecujicich--aktivity-pro-laicke-pecujici--b7d9830.png",
-          "alt": "Aktivity pro laické pečující"
-        }
-      ]
+      "photos": []
     }
   ],
   "themeGraph": {
@@ -15507,14 +15431,20 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
+        "source": "podnikani",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "podnikani",
+        "source": "image",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15525,44 +15455,20 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
+        "source": "skolstvi",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "provozni",
+        "source": "participace",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "podnikani",
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15573,44 +15479,32 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "zivotni-prostredi",
+        "source": "provozni",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
-        "target": "investice-stavby",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "doprava",
-        "target": "investice-stavby",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "provozni",
+        "source": "kultura-sport",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "podnikani",
-        "target": "skolstvi",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15627,20 +15521,8 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
+        "source": "investice-stavby",
         "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -15651,8 +15533,50 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "skolstvi",
+        "source": "doprava",
+        "target": "image",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       }
