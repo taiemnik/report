@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generated": "2026-07-01T19:49:27.918877",
+    "generated": "2026-07-01T22:55:23.510045",
     "period": "2023-2026",
-    "pressReleaseCount": 915,
+    "pressReleaseCount": 916,
     "apActivityCount": 496,
-    "markdownFiles": 1126,
+    "markdownFiles": 1127,
     "markdownByYear": {
       "2022": 211,
       "2023": 224,
       "2024": 273,
       "2025": 295,
-      "2026": 123
+      "2026": 124
     },
     "analysisSource": "Analýza tiskových zpráv MÚ Kopřivnice",
     "workflow": "Zpráva o komunikaci města · SP × AP × TZ",
@@ -90,26 +90,26 @@
       }
     ],
     "samplePressFiles": [
+      "data/tiskovky/2026/2026-06-26_koprivnicti-urednici-dostali-krasne-vysvedceni_d-84846.md",
       "data/tiskovky/2026/2026-06-24_oprava-vozovky-uzavre-ulici-erbenovu_d-84835.md",
       "data/tiskovky/2026/2026-06-24_mesto-prodava-vybaveni-skolni-kuchyne-v-aukci_d-84845.md",
       "data/tiskovky/2026/2026-06-24_cervencove-nedelni-podvecery-budou-patrit-hudbe_d-84836.md",
       "data/tiskovky/2026/2026-06-23_zakum-zs-dr-milady-horakove-zacinaji-prodlouzene-prazdniny_d-84807.md",
       "data/tiskovky/2026/2026-06-23_koprivnicke-prazdniny-opet-oziji-projektem-nekdo-ven_d-84808.md",
       "data/tiskovky/2026/2026-06-22_pokladka-dlazby-v-centru-pokracuje-podle-noveho-harmonogramu_d-84800.md",
-      "data/tiskovky/2026/2026-06-19_do-prace-na-kole-mistni-ucastnici-naslapali-pres-71-tisic-kilometru_d-84798.md",
-      "data/tiskovky/2026/2026-06-17_koprivnice-ucti-pamatku-milady-horakove_d-84755.md"
+      "data/tiskovky/2026/2026-06-19_do-prace-na-kole-mistni-ucastnici-naslapali-pres-71-tisic-kilometru_d-84798.md"
     ]
   },
   "socio": {
     "overallMood": "Pozitivně-realistická, vítězná mentalita s otevřeností o velkých výzvách",
-    "overallSummary": "Z 915 analyzovaných TZ dominují měkké projekty a investiční příběhy; participace a podnikání jsou v komunikaci slabší vrstva. Průměrné skóre náladových dimenzí: 76/100.",
+    "overallSummary": "Z 916 analyzovaných TZ dominují měkké projekty a investiční příběhy; participace a podnikání jsou v komunikaci slabší vrstva. Průměrné skóre náladových dimenzí: 76/100.",
     "averageScore": 76,
     "dimensions": [
       {
         "id": "hrdost",
         "label": "Hrdost a image města",
         "score": 69,
-        "insight": "Ocenění, šampioni a kulturní akce tvoří 25.4 % tematické mapy (232 TZ). Město komunikuje „vítěznou“ linku, dvojnásobný Šampion Ligy Národní sítě Zdravých měst (ne jen zdraví), otevření centra."
+        "insight": "Ocenění, šampioni a kulturní akce tvoří 25.4 % tematické mapy (233 TZ). Město komunikuje „vítěznou“ linku, dvojnásobný Šampion Ligy Národní sítě Zdravých měst (ne jen zdraví), otevření centra."
       },
       {
         "id": "komunita",
@@ -215,12 +215,27 @@
       }
     ],
     "gaps": [
-      "Podnikání a ekonomika (27 TZ, 3.0 %), slabá vrstva vůči investicím",
+      "Podnikání a ekonomika (27 TZ, 2.9 %), slabá vrstva vůči investicím",
       "Participace jako téma, silné události, ale málo průběžné komunikace mezi anketami",
       "Chybí explicitní komunikace rizik/zpoždění u Goliášů, narativ je téměř bez „tvrdých“ zpráv"
     ]
   },
   "pressTable": [
+    {
+      "id": "84846",
+      "date": "2026-06-26",
+      "year": "2026",
+      "theme": "image",
+      "themeLabel": "Image a ocenění",
+      "title": "Kopřivničtí úředníci dostali krásné vysvědčení",
+      "type": "mekky-projekt",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "spArea": "B",
+      "sourceFile": "data/tiskovky/markdown/2026/2026-06-26_koprivnicti-urednici-dostali-krasne-vysvedceni_d-84846.md",
+      "wowScore": 1,
+      "body": "> Šestnáctý průzkum spokojenosti klientů kopřivnické úředníky opět potěšil. Městský úřad získal vysoké hodnocení kvality poskytovaných služeb, odbornosti i vstřícnosti pracovníků radnice. K posouzení práce úředníků měli lidé použít stejnou hodnotící škálu jako ve škole – 1 výborný až 5 nedostatečný. Středoškolští studenti v roli tazatelů oslovovali klienty ve vestibulu radnice po dobu čtyř dnů.\n> „Občas se setkáváme s dotazy, proč průzkum neprobíhá online. Jelikož nás zajímá, jaké odbory klienti navštívili a jaké jsou jejich bezprostřední dojmy, jak hodnotí prostředí úřadu, čekací dobu a zejména přístup úředníků, je pro nás tento způsob nevhodnější a zajišťuje největší reliabilitu výsledků. Ale samozřejmě pracujeme také s ostatními podněty, které nám lidé posílají i elektronicky,“ vysvětlila vedoucí personálního oddělení Marcela Mikulová.\n> „Někomu se může zdát množství vyplněných dotazníků malé, ovšem toto číslo nelze vztahovat k počtu obyvatel města, nýbrž k množství klientů, kteří k nám v dané dny zamíří. A z nich odpovídá naprostá většina,“ doplnila personalistka.\n> Na otázku, zda úředníci poskytli všechny požadované informace, odpověděla naprostá většina respondentů kladně, což svědčí o vysoké profesionalitě zaměstnanců radnice. Stejný výsledek zaznamenali tazatelé také při hodnocení osobního přístupu pracovníků. Za hlavní kladné stránky označili klienti dostupnost úřadu, chování úředníků a také čekací dobu.\n> „Většina oslovených klientů mířila na odbor správních činností za účelem vyřízení dokladů, případně se přišli o něčem poradit. Proto je krásná známka zejména oceněním kolegyň a kolegů za přepážkami, vykonávajícími státní správu. I když často nejsou „na titulních stranách“, bez jejich pečlivé práce by nebyl dobrý výsledek radnice možný. Děkujeme za jejich nasazení, ochotu a lidský přístup,“ uvedl tajemník Městského úřadu Kopřivnice Josef Procházka.\n> Všem občanům, kteří se průzkumu zúčastnili, děkujeme za spolupráci i krásné hodnocení."
+    },
     {
       "id": "84836",
       "date": "2026-06-24",
@@ -14415,6 +14430,30 @@
         },
         {
           "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad281.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad281"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad282.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad282"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad283.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad283"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad284.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad284"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad285.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad285"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad286.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad286"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad287.png",
           "alt": "ZŠ Horákové – rekonstrukce"
         }
       ]
@@ -14459,6 +14498,30 @@
         },
         {
           "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f401.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f401"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f402.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f402"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f403.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f403"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f404.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f404"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f405.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f405"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f406.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f406"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f407.png",
           "alt": "KOP-WORK"
         }
       ]
@@ -14530,6 +14593,30 @@
         },
         {
           "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc51.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc51"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc52.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc52"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc53.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc53"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc54.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc54"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc55.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc55"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc56.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc56"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc57.png",
           "alt": "Podnikej raz dva"
         }
       ]
@@ -14583,6 +14670,30 @@
         },
         {
           "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c1.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c1"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c2.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c2"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c3.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c3"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c4.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c4"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c5.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c5"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c6.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c6"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c7.jpeg",
           "alt": "Setkávání s podnikateli"
         }
       ]
@@ -14762,6 +14873,30 @@
         },
         {
           "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c51.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c51"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c52.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c52"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c53.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c53"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c54.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c54"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c55.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c55"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c56.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c56"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c57.png",
           "alt": "Motivační program"
         }
       ]
@@ -14816,6 +14951,30 @@
         },
         {
           "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a1.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a1"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a2.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a2"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a3.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a3"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a4.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a4"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a5.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a5"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a6.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a6"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a7.jpeg",
           "alt": "MAP"
         }
       ]
@@ -14913,6 +15072,30 @@
         },
         {
           "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea1.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea1"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea2.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea2"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea3.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea3"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea4.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea4"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea5.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea5"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea6.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea6"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea7.png",
           "alt": "Rekonstrukce jídelny ZŠ 17. listopadu"
         }
       ]
@@ -14957,6 +15140,30 @@
         },
         {
           "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6541.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6541"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6542.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6542"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6543.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6543"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6544.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6544"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6545.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6545"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6546.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6546"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6547.jpeg",
           "alt": "Rekonstrukce pavilonu ZŠ 17. listopadu"
         }
       ]
@@ -15464,7 +15671,12 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-09-18_koprivnice-spousti-anketu-o-mhd_d-76390.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/posileni-autobusovych-linek-do-sidliste---doplneni-autobusovych-linek--4978270.jpg",
+          "alt": "Doplnění autobusových linek"
+        }
+      ]
     },
     {
       "id": "golias-28",
@@ -15636,7 +15848,28 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-01-11_dobrovolne-prispevky-v-re-use-centru-pomohou-zkraslit-mesto_d-40423.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3380.jpg",
+          "alt": "re use centrum  re use centrum  3be3380"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3381.jpg",
+          "alt": "re use centrum  re use centrum  3be3381"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3382.jpg",
+          "alt": "re use centrum  re use centrum  3be3382"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3383.jpg",
+          "alt": "re use centrum  re use centrum  3be3383"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3384.jpg",
+          "alt": "Re-use centrum"
+        }
+      ]
     },
     {
       "id": "golias-31",
@@ -15936,7 +16169,88 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-08-18_v-mnisi-bude-pokracovat-vystavba-chodniku_d-76199.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f0.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f0"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f12.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f12"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f4.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f4"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f8.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f8"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e41.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e41"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e413.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e413"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e45.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e45"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e49.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e49"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8910.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a8910"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8914.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a8914"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a892.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a892"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a896.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a896"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41711.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e41711"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41715.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e41715"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e4173.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e4173"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e4177.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e4177"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f16.jpg",
+          "alt": "Chodníky 1"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e417.png",
+          "alt": "Chodníky 2"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8918.png",
+          "alt": "Chodníky 3"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41719.png",
+          "alt": "Chodníky 4"
+        }
+      ]
     },
     {
       "id": "golias-33",
@@ -15980,7 +16294,28 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-09-13_mesto-cekaji-opravy-komunikaci-a-s-nimi-spojena-dopravni-omezeni_d-76353.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20910.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20910"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20911.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20911"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20912.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20912"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20913.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20913"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20914.png",
+          "alt": "Vila Machů"
+        }
+      ]
     },
     {
       "id": "golias-34",
@@ -16006,7 +16341,28 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-06-17_zbrojnice-v-drnholci-je-po-rekonstrukci-jako-nova_d-81760.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40460.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40460"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40461.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40461"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40462.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40462"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40463.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40463"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40464.png",
+          "alt": "HZ Lubina Drnholec"
+        }
+      ]
     },
     {
       "id": "golias-35",
@@ -16028,10 +16384,19 @@
         "data/tiskovky/markdown/2025/2025-06-27_koprivnicti-urednici-dostali-krasne-vysvedceni_d-81879.md",
         "data/tiskovky/markdown/2025/2025-09-17_koprivnicka-radnice-ziskala-oceneni-zaujala-zejmena-praci-s-ai_d-82438.md",
         "data/tiskovky/markdown/2026/2026-05-22_radnice-overuje-spokojenost-klientu_d-84580.md",
-        "data/tiskovky/markdown/2026/2026-06-15_koprivnice-obhajila-ministerske-stribro_d-84744.md"
+        "data/tiskovky/markdown/2026/2026-06-15_koprivnice-obhajila-ministerske-stribro_d-84744.md",
+        "data/tiskovky/markdown/2026/2026-06-26_koprivnicti-urednici-dostali-krasne-vysvedceni_d-84846.md"
       ],
       "links": [],
       "relatedPress": [
+        {
+          "id": "84846",
+          "date": "2026-06-26",
+          "title": "Kopřivničtí úředníci dostali krásné vysvědčení",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-06-26_koprivnicti-urednici-dostali-krasne-vysvedceni_d-84846.md"
+        },
         {
           "id": "84744",
           "date": "2026-06-15",
@@ -16113,7 +16478,12 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-05-17_radnice-zjistuje-spokojenost-klientu_d-75557.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/zvysovani-kvality-a-modernizace-procesu---modernizace-uradu--69fffe0.jpg",
+          "alt": "Modernizace úřadu"
+        }
+      ]
     },
     {
       "id": "golias-36",
@@ -16297,7 +16667,7 @@
       "kultura-sport": 194,
       "zivotni-prostredi": 120,
       "provozni": 25,
-      "image": 38,
+      "image": 39,
       "socialni": 82,
       "podnikani": 27,
       "skolstvi": 136,
@@ -16356,7 +16726,7 @@
       {
         "id": "image",
         "label": "Image a ocenění",
-        "count": 38,
+        "count": 39,
         "group": "theme"
       },
       {
@@ -16424,7 +16794,7 @@
       {
         "source": "image",
         "target": "sp-B",
-        "weight": 38,
+        "weight": 39,
         "mode": "bySP"
       },
       {
@@ -16461,61 +16831,55 @@
     "edgesCooccurrence": [
       {
         "source": "image",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
+        "source": "podnikani",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "socialni",
         "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "doprava",
-        "target": "participace",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "investice-stavby",
+        "source": "provozni",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16527,31 +16891,7 @@
       },
       {
         "source": "image",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
         "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16562,50 +16902,80 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
+        "source": "image",
         "target": "provozni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
+        "source": "image",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
+        "source": "image",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
         "target": "investice-stavby",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "podnikani",
-        "target": "socialni",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "podnikani",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "podnikani",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       }
@@ -16652,7 +17022,7 @@
         "kultura-sport": 20,
         "skolstvi": 19,
         "doprava": 28,
-        "image": 6,
+        "image": 7,
         "participace": 2,
         "socialni": 15,
         "zivotni-prostredi": 18,
@@ -16677,7 +17047,7 @@
         "provozni": 25
       },
       "image": {
-        "mekky-projekt": 37,
+        "mekky-projekt": 38,
         "investice": 1
       },
       "socialni": {
@@ -16727,9 +17097,9 @@
       },
       {
         "year": 2026,
-        "count": 123,
+        "count": 124,
         "investice": 22,
-        "mekky": 98,
+        "mekky": 99,
         "provozni": 3,
         "mega": 12
       }
@@ -17034,7 +17404,7 @@
     },
     {
       "text": "ocenění",
-      "value": 62,
+      "value": 63,
       "weight": 32
     },
     {
@@ -17059,7 +17429,7 @@
     },
     {
       "text": "image",
-      "value": 38,
+      "value": 39,
       "weight": 20
     },
     {
