@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-02T10:15:42.989131",
+    "generated": "2026-07-02T11:43:58.496275",
     "period": "2023-2026",
     "pressReleaseCount": 916,
     "apActivityCount": 496,
@@ -16443,7 +16443,7 @@
       "status": "Realizováno průběžně",
       "spArea": "D",
       "spLabel": "D.1.1 Spolupracující síť sociálních služeb",
-      "benefit": "Metoda spolupráce mezi obcí, poskytovateli a uživateli sociálních služeb — společné plánování rozvoje sítě služeb podle reálných potřeb.",
+      "benefit": "Komunitní plánování je metoda spolupráce a vyjednávání mezi zadavateli/obcemi, poskytovateli/organizacemi a uživateli/klienty sociálních služeb. Cílem je sociální začleňování, zvyšování kvality a dostupnosti služeb podle skutečných potřeb lidí v regionu. Výsledkem je strategický dokument, který určuje priority, rozsah a financování péče v daném městě.",
       "sources": [
         "data/tiskovky/markdown/2026/2026-02-11_koprivnice-zve-verejnost-k-diskusi-o-socialnich-sluzbach_d-83589.md"
       ],
@@ -16474,7 +16474,7 @@
       "status": "Realizováno dílčími akcemi",
       "spArea": "D",
       "spLabel": "D.1.3 Volnočasové aktivity pro osoby se zdravotním postižením",
-      "benefit": "Podpora tradiční divadelní přehlídky Motýlek, Sportovních her zdravotně postižených a dalších inkluzivních akcí (Šťastný pátek) pro osoby se zdravotním postižením.",
+      "benefit": "Podpora tradiční divadelní přehlídky Motýlek, Sportovních her zdravotně postižených, akcí v komunitním centru Pětka – Šťastný pátek, Kamarádská polévka",
       "sources": [
         "data/tiskovky/markdown/2023/2023-05-10_stastny-patek-rozzari-deti-stestim_d-75480.md",
         "data/tiskovky/markdown/2023/2023-11-01_motylek-vyletne-do-oblak_d-76767.md",
@@ -16590,7 +16590,7 @@
       "status": "Realizováno dílčími aktivitami",
       "spArea": "D",
       "spLabel": "D.2.1 Efektivní programy prevence rizikového chování u dětí a mládeže",
-      "benefit": "Školení, přednášky, interaktivní výstavy a exkurze zaměřené na prevenci rizikového chování dětí a mládeže (např. Revolution train, exkurze na úřad).",
+      "benefit": "Realizace školení, přednášek, interaktivních výstav či exkurzí zaměřených na problematiku prevence závislostí, šikany a kyberšikany, bezpečnost v dopravě, a to ve spolupráci se školami, městskou policií a specializovanými organizacemi.",
       "sources": [
         "data/tiskovky/markdown/2023/2023-02-24_zaci-se-prisli-seznamit-s-fungovanim-uradu_d-42255.md",
         "data/tiskovky/markdown/2025/2025-04-04_do-koprivnice-se-vraci-revolution-train_d-81150.md"
@@ -16795,74 +16795,20 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "podnikani",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "participace",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "provozni",
+        "source": "image",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "kultura-sport",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "podnikani",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16873,32 +16819,38 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "podnikani",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
+        "source": "socialni",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
+        "source": "skolstvi",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
         "source": "investice-stavby",
-        "target": "podnikani",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
-        "target": "kultura-sport",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16909,38 +16861,86 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "socialni",
+        "source": "participace",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "kultura-sport",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
+        "source": "participace",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
+        "source": "participace",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
         "source": "investice-stavby",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
         "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
-        "target": "participace",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "image",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       }
