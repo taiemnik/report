@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-02T09:12:30.571305",
+    "generated": "2026-07-02T10:15:42.989131",
     "period": "2023-2026",
     "pressReleaseCount": 916,
     "apActivityCount": 496,
@@ -16795,8 +16795,86 @@
     ],
     "edgesCooccurrence": [
       {
+        "source": "podnikani",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
         "source": "doprava",
         "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "podnikani",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "podnikani",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16807,140 +16885,62 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
+        "source": "podnikani",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "image",
+        "source": "investice-stavby",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "skolstvi",
+        "source": "image",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
+        "source": "kultura-sport",
         "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "podnikani",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "kultura-sport",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "provozni",
+        "source": "kultura-sport",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "podnikani",
+        "source": "doprava",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "kultura-sport",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
         "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "investice-stavby",
         "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       }

@@ -1,5 +1,5 @@
 {
-  "title": "Plnění plánu v obrazech",
+  "title": "Plán v obrazech",
   "intro": "Vizuální přehled toho, co se ve městě změnilo — stejná logika jako výroční soubor „Co se povedlo“: témata po letech, u starších ročníků jednotlivé fotky.",
   "featured": {
     "title": "Centrum — před a po",
@@ -1282,6 +1282,307 @@
           "title": "Žáky ve školách vystřídali stavaři",
           "type": "image",
           "src": "images/co-se-povedlo/2023/zaky-ve-skolach-vystridali-stavari.png"
+        }
+      ]
+    },
+    {
+      "year": "Strategie 2023–2026",
+      "sections": [],
+      "items": [
+        {
+          "title": "Akce v centru města a výstavním pavilonu · foto 1",
+          "type": "image",
+          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--akce-v-pavilonu--abeecc0.png"
+        },
+        {
+          "title": "Akce v centru města a výstavním pavilonu · foto 2",
+          "type": "image",
+          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--oziveni-centra0--9c27311.png"
+        },
+        {
+          "title": "Akce v centru města a výstavním pavilonu · foto 3",
+          "type": "image",
+          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--ozveni-centra1--f5eaa92.png"
+        },
+        {
+          "title": "Akce v centru města a výstavním pavilonu · foto 4",
+          "type": "image",
+          "src": "images/projects/akce-v-centru-mesta-a-vystavnim-pavilonu--vystavy-v-pavilonu--06b46c3.png"
+        },
+        {
+          "title": "Aktivní senior – celoroční program · foto 1",
+          "type": "image",
+          "src": "images/projects/aktivni-senior-celorocni-program--aktivni-senior--7d05020.png"
+        },
+        {
+          "title": "Dny Tvoji Kariery · foto 1",
+          "type": "image",
+          "src": "images/projects/dny-tvoji-kariery--den-tve-kariery--d15eb80.png"
+        },
+        {
+          "title": "Door-to-door sběr a třídění odpadu · foto 1",
+          "type": "image",
+          "src": "images/projects/door-to-door-sber-a-trideni-odpadu--door-to-door--653e4d0.png"
+        },
+        {
+          "title": "Karierove Poradenstvi Pro Zaky Zs · foto 1",
+          "type": "image",
+          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs--karierove-poradenstvi--e7b55f0.jpg"
+        },
+        {
+          "title": "Karierove Poradenstvi Pro Zaky Zs A Dny · foto 1",
+          "type": "image",
+          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs-a-dny---den-tve-kariery--e175b70.png"
+        },
+        {
+          "title": "Karierove Poradenstvi Pro Zaky Zs A Dny · foto 2",
+          "type": "image",
+          "src": "images/projects/karierove-poradenstvi-pro-zaky-zs-a-dny---karierove-poradenstvi-a-dny-tvoji-kariery--f23f7e1.jpg"
+        },
+        {
+          "title": "Klub Pro Podnikatele · foto 1",
+          "type": "image",
+          "src": "images/projects/klub-pro-podnikatele--klub-pro-podnikatele--9c7e2d0.png"
+        },
+        {
+          "title": "Komunitní plánování sociálních služeb · foto 1",
+          "type": "image",
+          "src": "images/projects/komunitni-planovani-socialnich-sluzeb--komunitni-planovani--8e6fd60.png"
+        },
+        {
+          "title": "KOP-WORK – sdílená kancelář na radnici · foto 1",
+          "type": "image",
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f400.png"
+        },
+        {
+          "title": "Krajský domov pro seniory Pod Bílou horou · foto 1",
+          "type": "image",
+          "src": "images/projects/krajsky-domov-pro-seniory-pod-bilou-horo--domov-pro-seniory--6ae7800.png"
+        },
+        {
+          "title": "Místní akční plán rozvoje vzdělávání (MAP) · foto 1",
+          "type": "image",
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a0.jpeg"
+        },
+        {
+          "title": "Most Ve Vlcovicich · foto 1",
+          "type": "image",
+          "src": "images/projects/most-ve-vlcovicich--most-ve-vlcovicich--4fb1db0.png"
+        },
+        {
+          "title": "Mosty Jarose Dukelska Erbenova · foto 1",
+          "type": "image",
+          "src": "images/projects/mosty-jarose-dukelska-erbenova--lavka-na-dukelske--457ae40.png"
+        },
+        {
+          "title": "Mosty Jarose Dukelska Erbenova · foto 2",
+          "type": "image",
+          "src": "images/projects/mosty-jarose-dukelska-erbenova--most-na-kpt-jarose--5241721.png"
+        },
+        {
+          "title": "Mosty Jarose Dukelska Erbenova · foto 3",
+          "type": "image",
+          "src": "images/projects/mosty-jarose-dukelska-erbenova--most-na-ulici-erbenove--4c0f782.png"
+        },
+        {
+          "title": "Motivační program pro podnikatele v centru města · foto 1",
+          "type": "image",
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c50.png"
+        },
+        {
+          "title": "Nová parkoviště (Obránců míru, Školní, u ZŠ 17. listopadu) · foto 1",
+          "type": "image",
+          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-moravske--8097040.png"
+        },
+        {
+          "title": "Nová parkoviště (Obránců míru, Školní, u ZŠ 17. listopadu) · foto 2",
+          "type": "image",
+          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-obrancu-miru--145f351.png"
+        },
+        {
+          "title": "Nová parkoviště (Obránců míru, Školní, u ZŠ 17. listopadu) · foto 3",
+          "type": "image",
+          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-na-zd-buriana--55feed2.png"
+        },
+        {
+          "title": "Nová parkoviště (Obránců míru, Školní, u ZŠ 17. listopadu) · foto 4",
+          "type": "image",
+          "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-skolni--e9525e3.png"
+        },
+        {
+          "title": "Obnova a doplňování infrastruktury pro pěší · foto 1",
+          "type": "image",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f0.jpg"
+        },
+        {
+          "title": "Obnova a doplňování infrastruktury pro pěší · foto 2",
+          "type": "image",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e41.png"
+        },
+        {
+          "title": "Obnova a doplňování infrastruktury pro pěší · foto 3",
+          "type": "image",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a892.png"
+        },
+        {
+          "title": "Obnova a doplňování infrastruktury pro pěší · foto 4",
+          "type": "image",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e4173.png"
+        },
+        {
+          "title": "Obnova zahrady DSZR Masarykovo náměstí 650 · foto 1",
+          "type": "image",
+          "src": "images/projects/obnova-zahrady-dszr-masarykovo-namesti-6--obnova-zahrady-650--9774fc0.png"
+        },
+        {
+          "title": "Oceňování pedagogů a podpora vzdělávání · foto 1",
+          "type": "image",
+          "src": "images/projects/ocenovani-pedagogu-a-podpora-vzdelavani--ocenovani-nejlepsich-pedagogu--0e0e8b0.png"
+        },
+        {
+          "title": "Odpočívka nejen pro turisty v centru města · foto 1",
+          "type": "image",
+          "src": "images/projects/odpocivka-nejen-pro-turisty-v-centru-mes--odpocivka-v-centru--2479960.png"
+        },
+        {
+          "title": "Okružní křižovatka Záhumenní – Jaroše · foto 1",
+          "type": "image",
+          "src": "images/projects/okruzni-krizovatka-zahumenni-jarose--okruzni-krizovatka-po--08d9e90.png"
+        },
+        {
+          "title": "Okružní křižovatka Záhumenní – Jaroše · foto 2",
+          "type": "image",
+          "src": "images/projects/okruzni-krizovatka-zahumenni-jarose--okruzni-krizovatka-pred--7728801.png"
+        },
+        {
+          "title": "Podnikej raz dva – workshopy a klub pro podnikatele · foto 1",
+          "type": "image",
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc50.png"
+        },
+        {
+          "title": "Podnikej Raz Dva Workshopy Pro Podnikate · foto 1",
+          "type": "image",
+          "src": "images/projects/podnikej-raz-dva-workshopy-pro-podnikate--podnikej-raz-dva--e6117e0.png"
+        },
+        {
+          "title": "Podpora akcí a aktivit pro osoby se zdravotním postižením · foto 1",
+          "type": "image",
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-1--8303690.png"
+        },
+        {
+          "title": "Podpora akcí a aktivit pro osoby se zdravotním postižením · foto 2",
+          "type": "image",
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-2--3f3d3a1.png"
+        },
+        {
+          "title": "Podpora laických pečujících · foto 1",
+          "type": "image",
+          "src": "images/projects/podpora-laickych-pecujicich--aktivity-pro-laicke-pecujici--b7d9830.png"
+        },
+        {
+          "title": "Posileni Autobusovych Linek Do Sidliste · foto 1",
+          "type": "image",
+          "src": "images/projects/posileni-autobusovych-linek-do-sidliste---doplneni-autobusovych-linek--4978270.jpg"
+        },
+        {
+          "title": "Posileni Autobusovych Linek Do Sidliste · foto 2",
+          "type": "image",
+          "src": "images/projects/posileni-autobusovych-linek-do-sidliste---doplneni-autobusovych-linek--52b6cc0.png"
+        },
+        {
+          "title": "Preventivní programy pro děti a mládež · foto 1",
+          "type": "image",
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-1--964de60.png"
+        },
+        {
+          "title": "Preventivní programy pro děti a mládež · foto 2",
+          "type": "image",
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-2--d8292b1.jpeg"
+        },
+        {
+          "title": "Pumptrack na házeňáku · foto 1",
+          "type": "image",
+          "src": "images/projects/pumptrack-na-hazenaku--pumptrack-na-hazenaku--4e88400.png"
+        },
+        {
+          "title": "Re-use centrum · foto 1",
+          "type": "image",
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3380.jpg"
+        },
+        {
+          "title": "Rekonstrukce HZ Lubina Drnholec · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40460.png"
+        },
+        {
+          "title": "Rekonstrukce jídelny ZŠ 17. listopadu · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea0.png"
+        },
+        {
+          "title": "Rekonstrukce koupaliště · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-koupaliste--rekonstrukce-koupaliste--eeefc80.jpg"
+        },
+        {
+          "title": "Rekonstrukce pavilonu ZŠ 17. listopadu · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6540.jpeg"
+        },
+        {
+          "title": "Rekonstrukce silnice a zpomalovacího prahu u Vily Machů · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20910.png"
+        },
+        {
+          "title": "Revitalizace centra / Nové náměstí · foto 1",
+          "type": "image",
+          "src": "images/projects/revitalizace-centra-nove-namesti--revitalizace-vcentra-mesta--2de50f0.png"
+        },
+        {
+          "title": "Sdílená kola v Kopřivnici · foto 1",
+          "type": "image",
+          "src": "images/projects/sdilena-kola-v-koprivnici--sdilena-kola--5ad38e0.png"
+        },
+        {
+          "title": "Senior v bezpečí – poradenství a prevence · foto 1",
+          "type": "image",
+          "src": "images/projects/senior-v-bezpeci-poradenstvi-a-prevence--senior-v-bezpeci--de4ac70.png"
+        },
+        {
+          "title": "Setkávání s podnikateli · foto 1",
+          "type": "image",
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c0.jpeg"
+        },
+        {
+          "title": "Větřkovická přehrada – atraktivita pro veřejnost · foto 1",
+          "type": "image",
+          "src": "images/projects/vetrkovicka-prehrada-atraktivita-pro-ver--vetrkovicka-prehrada--475aa60.png"
+        },
+        {
+          "title": "Výměna veřejného osvětlení za úsporná LED svítidla · foto 1",
+          "type": "image",
+          "src": "images/projects/vymena-verejneho-osvetleni-za-usporna-le--vymena-verejneho-osvetleni--5ea7bb0.png"
+        },
+        {
+          "title": "ZŠ dr. Milady Horákové – rekonstrukce · foto 1",
+          "type": "image",
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad280.png"
+        },
+        {
+          "title": "ZŠ Náměstí → knihovna + 23 bytů · foto 1",
+          "type": "image",
+          "src": "images/projects/zs-namesti-knihovna-23-bytu--rekonstrukce-pristavby-zs-namesti-na-byty--9a75190.png"
+        },
+        {
+          "title": "ZŠ Náměstí → knihovna + 23 bytů · foto 2",
+          "type": "image",
+          "src": "images/projects/zs-namesti-knihovna-23-bytu--rekonstrukce-zs-namesti-na-knihovnu--71c3d71.png"
+        },
+        {
+          "title": "Zvysovani Kvality A Modernizace Procesu · foto 1",
+          "type": "image",
+          "src": "images/projects/zvysovani-kvality-a-modernizace-procesu---modernizace-uradu--69fffe0.jpg"
         }
       ]
     }
