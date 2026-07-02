@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-01T22:55:23.510045",
+    "generated": "2026-07-02T09:01:22.095491",
     "period": "2023-2026",
     "pressReleaseCount": 916,
     "apActivityCount": 496,
@@ -14454,6 +14454,14 @@
         },
         {
           "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad287.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad287"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad288.png",
+          "alt": "zs dr milady horakove rekonstrukce  zs horakove rekonstrukce  89ad288"
+        },
+        {
+          "src": "images/projects/zs-dr-milady-horakove-rekonstrukce--zs-horakove-rekonstrukce--89ad289.png",
           "alt": "ZŠ Horákové – rekonstrukce"
         }
       ]
@@ -14522,6 +14530,14 @@
         },
         {
           "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f407.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f407"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f408.png",
+          "alt": "kop work sdilena kancelar na radnici  kop work  418f408"
+        },
+        {
+          "src": "images/projects/kop-work-sdilena-kancelar-na-radnici--kop-work--418f409.png",
           "alt": "KOP-WORK"
         }
       ]
@@ -14617,6 +14633,14 @@
         },
         {
           "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc57.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc57"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc58.png",
+          "alt": "podnikej raz dva workshopy a klub pro po  podnikej raz dva  0c9cc58"
+        },
+        {
+          "src": "images/projects/podnikej-raz-dva-workshopy-a-klub-pro-po--podnikej-raz-dva--0c9cc59.png",
           "alt": "Podnikej raz dva"
         }
       ]
@@ -14694,6 +14718,14 @@
         },
         {
           "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c7.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c7"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c8.jpeg",
+          "alt": "setkavani s podnikateli  setkavani s podnikateli  b5051c8"
+        },
+        {
+          "src": "images/projects/setkavani-s-podnikateli--setkavani-s-podnikateli--b5051c9.jpeg",
           "alt": "Setkávání s podnikateli"
         }
       ]
@@ -14750,10 +14782,49 @@
       "benefit": "Celoroční nabídka aktivit, vzdělávání a setkávání pro seniory.",
       "sources": [
         "data/tiskovky/markdown/2025/2025-01-21_spousti-se-dalsi-rocnik-aktivniho-seniora-v-koprivnici_d-80402.md",
-        "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
+        "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md",
+        "data/tiskovky/markdown/2023/2023-02-01_aktivni-senior-startuje-druhou-dekadu_d-41913.md",
+        "data/tiskovky/markdown/2024/2024-05-20_pro-seniory-jsou-pripraveny-outdoorove-aktivity-a-cyklovylet_d-78513.md",
+        "data/tiskovky/markdown/2024/2024-11-26_predvanocni-tvoreni-na-radnici-zakonci-serial-aktivni-senior-2024_d-79984.md",
+        "data/tiskovky/markdown/2025/2025-05-26_vanaivan-bude-v-utery-dopoledne-patrit-seniorum_d-81574.md",
+        "data/tiskovky/markdown/2026/2026-02-04_seniori-se-sejdou-pri-harmonice_d-83540.md",
+        "data/tiskovky/markdown/2026/2026-05-05_den-s-fyzioterapeutkou-tentokrat-o-problemech-patere_d-84374.md",
+        "data/tiskovky/markdown/2026/2026-06-03_seniori-vyrazi-na-kolech-z-hranic-do-kromerize_d-84637.md"
       ],
       "links": [],
       "relatedPress": [
+        {
+          "id": "84637",
+          "date": "2026-06-03",
+          "title": "Senioři vyrazí na kolech z Hranic do Kroměříže",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-06-03_seniori-vyrazi-na-kolech-z-hranic-do-kromerize_d-84637.md"
+        },
+        {
+          "id": "84374",
+          "date": "2026-05-05",
+          "title": "Den s fyzioterapeutkou, tentokrát o problémech páteře",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-05-05_den-s-fyzioterapeutkou-tentokrat-o-problemech-patere_d-84374.md"
+        },
+        {
+          "id": "83540",
+          "date": "2026-02-04",
+          "title": "Senioři se sejdou při harmonice",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-02-04_seniori-se-sejdou-pri-harmonice_d-83540.md"
+        },
+        {
+          "id": "81574",
+          "date": "2025-05-26",
+          "title": "Vanaivan bude v úterý dopoledne patřit seniorům",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-05-26_vanaivan-bude-v-utery-dopoledne-patrit-seniorum_d-81574.md"
+        },
         {
           "id": "80402",
           "date": "2025-01-21",
@@ -14763,18 +14834,50 @@
           "sourceFile": "data/tiskovky/markdown/2025/2025-01-21_spousti-se-dalsi-rocnik-aktivniho-seniora-v-koprivnici_d-80402.md"
         },
         {
+          "id": "79984",
+          "date": "2024-11-26",
+          "title": "Předvánoční tvoření na radnici zakončí seriál Aktivní senior 2024",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-11-26_predvanocni-tvoreni-na-radnici-zakonci-serial-aktivni-senior-2024_d-79984.md"
+        },
+        {
+          "id": "78513",
+          "date": "2024-05-20",
+          "title": "Pro seniory jsou připraveny outdoorové aktivity a cyklovýlet",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-05-20_pro-seniory-jsou-pripraveny-outdoorove-aktivity-a-cyklovylet_d-78513.md"
+        },
+        {
           "id": "77323",
           "date": "2024-01-12",
           "title": "Aktivní senioři se opět mohou těšit na pestrou nabídku akcí",
           "amountCzk": null,
           "amountLabel": "-",
           "sourceFile": "data/tiskovky/markdown/2024/2024-01-12_aktivni-seniori-se-opet-mohou-tesit-na-pestrou-nabidku-akci_d-77323.md"
+        },
+        {
+          "id": "41913",
+          "date": "2023-02-01",
+          "title": "Aktivní senior startuje druhou dekádu",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-02-01_aktivni-senior-startuje-druhou-dekadu_d-41913.md"
         }
       ],
       "photos": [
         {
           "src": "images/projects/aktivni-senior-celorocni-program--aktivni-senior--7d05020.png",
           "alt": "aktivni senior celorocni program  aktivni senior  7d05020"
+        },
+        {
+          "src": "images/projects/aktivni-senior-celorocni-program--aktivni-senior--7d05021.png",
+          "alt": "aktivni senior celorocni program  aktivni senior  7d05021"
+        },
+        {
+          "src": "images/projects/aktivni-senior-celorocni-program--aktivni-senior--7d05022.png",
+          "alt": "Aktivní senior"
         }
       ]
     },
@@ -14788,9 +14891,56 @@
       "spArea": "D",
       "spLabel": "D Sociální zázemí",
       "benefit": "Poradenství, prevence podvodů a bezpečnostní osvěta pro seniory.",
-      "sources": [],
+      "sources": [
+        "data/tiskovky/markdown/2025/2025-03-07_seniori-se-zapojili-do-kurzu-prace-na-chytrem-telefonu_d-80897.md",
+        "data/tiskovky/markdown/2025/2025-09-15_beseda-pro-bezpeci-v-on-line-prostoru_d-82430.md",
+        "data/tiskovky/markdown/2025/2025-10-15_senior-v-doprave-aneb-skoleni-ridicu_d-82687.md",
+        "data/tiskovky/markdown/2026/2026-01-22_kurzy-sebeobrany-pro-seniory-lakaji-nove-zajemce_d-83414.md",
+        "data/tiskovky/markdown/2026/2026-03-03_bezpeci-v-on-line-prostoru-pro-seniory_d-83778.md"
+      ],
       "links": [],
-      "relatedPress": [],
+      "relatedPress": [
+        {
+          "id": "83778",
+          "date": "2026-03-03",
+          "title": "Bezpečí v on-line prostoru pro seniory",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-03-03_bezpeci-v-on-line-prostoru-pro-seniory_d-83778.md"
+        },
+        {
+          "id": "83414",
+          "date": "2026-01-22",
+          "title": "Kurzy sebeobrany pro seniory lákají nové zájemce",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-01-22_kurzy-sebeobrany-pro-seniory-lakaji-nove-zajemce_d-83414.md"
+        },
+        {
+          "id": "82687",
+          "date": "2025-10-15",
+          "title": "Senior v dopravě aneb Školení řidičů",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-10-15_senior-v-doprave-aneb-skoleni-ridicu_d-82687.md"
+        },
+        {
+          "id": "82430",
+          "date": "2025-09-15",
+          "title": "Beseda pro bezpečí v on-line prostoru",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-09-15_beseda-pro-bezpeci-v-on-line-prostoru_d-82430.md"
+        },
+        {
+          "id": "80897",
+          "date": "2025-03-07",
+          "title": "Senioři se zapojili do kurzů práce na chytrém telefonu",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-03-07_seniori-se-zapojili-do-kurzu-prace-na-chytrem-telefonu_d-80897.md"
+        }
+      ],
       "photos": [
         {
           "src": "images/projects/senior-v-bezpeci-poradenstvi-a-prevence--senior-v-bezpeci--de4ac70.png",
@@ -14897,6 +15047,14 @@
         },
         {
           "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c57.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c57"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c58.png",
+          "alt": "motivacni program pro podnikatele v cent  motivacni program  e2a7c58"
+        },
+        {
+          "src": "images/projects/motivacni-program-pro-podnikatele-v-cent--motivacni-program--e2a7c59.png",
           "alt": "Motivační program"
         }
       ]
@@ -14975,6 +15133,14 @@
         },
         {
           "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a7.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a7"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a8.jpeg",
+          "alt": "mistni akcni plan rozvoje vzdelavani map  map  f0fb1a8"
+        },
+        {
+          "src": "images/projects/mistni-akcni-plan-rozvoje-vzdelavani-map--map--f0fb1a9.jpeg",
           "alt": "MAP"
         }
       ]
@@ -15096,6 +15262,14 @@
         },
         {
           "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea7.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea7"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea8.png",
+          "alt": "rekonstrukce jidelny zs 17 listopadu  rekonstrukce jidelny zs 17 listopadu  6107ea8"
+        },
+        {
+          "src": "images/projects/rekonstrukce-jidelny-zs-17-listopadu--rekonstrukce-jidelny-zs-17-listopadu--6107ea9.png",
           "alt": "Rekonstrukce jídelny ZŠ 17. listopadu"
         }
       ]
@@ -15164,6 +15338,14 @@
         },
         {
           "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6547.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6547"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6548.jpeg",
+          "alt": "rekonstrukce pavilonu zs 17 listopadu  rekonstrukce pavilonu zs 17 listopadu  57e6548"
+        },
+        {
+          "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6549.jpeg",
           "alt": "Rekonstrukce pavilonu ZŠ 17. listopadu"
         }
       ]
@@ -15867,6 +16049,14 @@
         },
         {
           "src": "images/projects/re-use-centrum--re-use-centrum--3be3384.jpg",
+          "alt": "re use centrum  re use centrum  3be3384"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3385.jpg",
+          "alt": "re use centrum  re use centrum  3be3385"
+        },
+        {
+          "src": "images/projects/re-use-centrum--re-use-centrum--3be3386.jpg",
           "alt": "Re-use centrum"
         }
       ]
@@ -16179,6 +16369,14 @@
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f12"
         },
         {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f16.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f16"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f20.jpg",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f20"
+        },
+        {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f4.jpg",
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 1  37b18f4"
         },
@@ -16193,6 +16391,14 @@
         {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e413.png",
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e413"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e417.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e417"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e421.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 2  d8d3e421"
         },
         {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e45.png",
@@ -16211,8 +16417,16 @@
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a8914"
         },
         {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8918.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a8918"
+        },
+        {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a892.png",
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a892"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8922.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 3  0f2a8922"
         },
         {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a896.png",
@@ -16227,6 +16441,14 @@
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e41715"
         },
         {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41719.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e41719"
+        },
+        {
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41723.png",
+          "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e41723"
+        },
+        {
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e4173.png",
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e4173"
         },
@@ -16235,19 +16457,19 @@
           "alt": "obnova a doplnovani infrastruktury pro p  chodniky 4  33e4177"
         },
         {
-          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f16.jpg",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f24.jpg",
           "alt": "Chodníky 1"
         },
         {
-          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e417.png",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-2--d8d3e425.png",
           "alt": "Chodníky 2"
         },
         {
-          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8918.png",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-3--0f2a8926.png",
           "alt": "Chodníky 3"
         },
         {
-          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41719.png",
+          "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-4--33e41727.png",
           "alt": "Chodníky 4"
         }
       ]
@@ -16313,6 +16535,14 @@
         },
         {
           "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20914.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20914"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20915.png",
+          "alt": "rekonstrukce silnice a zpomalovaciho pra  vila machu  0b20915"
+        },
+        {
+          "src": "images/projects/rekonstrukce-silnice-a-zpomalovaciho-pra--vila-machu--0b20916.png",
           "alt": "Vila Machů"
         }
       ]
@@ -16360,6 +16590,14 @@
         },
         {
           "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40464.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40464"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40465.png",
+          "alt": "rekonstrukce hz lubina drnholec  hz lubina drnholec  ae40465"
+        },
+        {
+          "src": "images/projects/rekonstrukce-hz-lubina-drnholec--hz-lubina-drnholec--ae40466.png",
           "alt": "HZ Lubina Drnholec"
         }
       ]
@@ -16659,6 +16897,217 @@
           "alt": "podpora laickych pecujicich  aktivity pro laicke pecujici  b7d9830"
         }
       ]
+    },
+    {
+      "id": "golias-39",
+      "title": "Komunitní plánování sociálních služeb",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Realizováno průběžně",
+      "spArea": "D",
+      "spLabel": "D.1.1 Spolupracující síť sociálních služeb",
+      "benefit": "Metoda spolupráce mezi obcí, poskytovateli a uživateli sociálních služeb — společné plánování rozvoje sítě služeb podle reálných potřeb.",
+      "sources": [
+        "data/tiskovky/markdown/2026/2026-02-11_koprivnice-zve-verejnost-k-diskusi-o-socialnich-sluzbach_d-83589.md"
+      ],
+      "links": [],
+      "relatedPress": [
+        {
+          "id": "83589",
+          "date": "2026-02-11",
+          "title": "Kopřivnice zve veřejnost k diskusi o sociálních službách",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-02-11_koprivnice-zve-verejnost-k-diskusi-o-socialnich-sluzbach_d-83589.md"
+        }
+      ],
+      "photos": [
+        {
+          "src": "images/projects/komunitni-planovani-socialnich-sluzeb--komunitni-planovani--8e6fd60.png",
+          "alt": "komunitni planovani socialnich sluzeb  komunitni planovani  8e6fd60"
+        },
+        {
+          "src": "images/projects/komunitni-planovani-socialnich-sluzeb--komunitni-planovani--8e6fd61.png",
+          "alt": "Komunitní plánování"
+        }
+      ]
+    },
+    {
+      "id": "golias-40",
+      "title": "Podpora akcí a aktivit pro osoby se zdravotním postižením",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Realizováno dílčími akcemi",
+      "spArea": "D",
+      "spLabel": "D.1.3 Volnočasové aktivity pro osoby se zdravotním postižením",
+      "benefit": "Podpora tradiční divadelní přehlídky Motýlek, Sportovních her zdravotně postižených a dalších inkluzivních akcí (Šťastný pátek) pro osoby se zdravotním postižením.",
+      "sources": [
+        "data/tiskovky/markdown/2023/2023-05-10_stastny-patek-rozzari-deti-stestim_d-75480.md",
+        "data/tiskovky/markdown/2023/2023-11-01_motylek-vyletne-do-oblak_d-76767.md",
+        "data/tiskovky/markdown/2024/2024-05-13_deti-si-uziji-stastny-patek_d-78462.md",
+        "data/tiskovky/markdown/2024/2024-06-11_sportovni-hry-zdravotne-postizenych-opet-v-koprivnici_d-78777.md",
+        "data/tiskovky/markdown/2024/2024-11-05_letosni-motylek-bude-halloweensky_d-79823.md",
+        "data/tiskovky/markdown/2025/2025-05-12_stastny-patek-v-centru-petka-prinese-odpoledne-plne-radosti-a-zabavy_d-81450.md",
+        "data/tiskovky/markdown/2025/2025-06-04_koprivnice-opet-hosti-sportovni-hry-zdravotne-postizenych_d-81656.md",
+        "data/tiskovky/markdown/2025/2025-11-04_letosni-motylek-bude-pohadkovy_d-82870.md",
+        "data/tiskovky/markdown/2026/2026-05-06_motylek-zve-k-navsteve-pavilonu_d-84407.md",
+        "data/tiskovky/markdown/2026/2026-06-08_koprivnice-hosti-25-rocnik-sportovnich-her-zdravotne-postizenych_d-84693.md"
+      ],
+      "links": [],
+      "relatedPress": [
+        {
+          "id": "84693",
+          "date": "2026-06-08",
+          "title": "Kopřivnice hostí 25. ročník Sportovních her zdravotně postižených",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-06-08_koprivnice-hosti-25-rocnik-sportovnich-her-zdravotne-postizenych_d-84693.md"
+        },
+        {
+          "id": "84407",
+          "date": "2026-05-06",
+          "title": "Motýlek zve k návštěvě pavilonu",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2026/2026-05-06_motylek-zve-k-navsteve-pavilonu_d-84407.md"
+        },
+        {
+          "id": "82870",
+          "date": "2025-11-04",
+          "title": "Letošní Motýlek bude pohádkový",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-11-04_letosni-motylek-bude-pohadkovy_d-82870.md"
+        },
+        {
+          "id": "81656",
+          "date": "2025-06-04",
+          "title": "Kopřivnice opět hostí Sportovní hry zdravotně postižených",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-06-04_koprivnice-opet-hosti-sportovni-hry-zdravotne-postizenych_d-81656.md"
+        },
+        {
+          "id": "81450",
+          "date": "2025-05-12",
+          "title": "Šťastný pátek v Centru Pětka přinese odpoledne plné radosti a zábavy",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-05-12_stastny-patek-v-centru-petka-prinese-odpoledne-plne-radosti-a-zabavy_d-81450.md"
+        },
+        {
+          "id": "79823",
+          "date": "2024-11-05",
+          "title": "Letošní Motýlek bude halloweenský",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-11-05_letosni-motylek-bude-halloweensky_d-79823.md"
+        },
+        {
+          "id": "78777",
+          "date": "2024-06-11",
+          "title": "Sportovní hry zdravotně postižených opět v Kopřivnici",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-06-11_sportovni-hry-zdravotne-postizenych-opet-v-koprivnici_d-78777.md"
+        },
+        {
+          "id": "78462",
+          "date": "2024-05-13",
+          "title": "Děti si užijí Šťastný pátek",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2024/2024-05-13_deti-si-uziji-stastny-patek_d-78462.md"
+        },
+        {
+          "id": "76767",
+          "date": "2023-11-01",
+          "title": "Motýlek vylétne do oblak",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-11-01_motylek-vyletne-do-oblak_d-76767.md"
+        },
+        {
+          "id": "75480",
+          "date": "2023-05-10",
+          "title": "Šťastný pátek rozzáří děti štěstím",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-05-10_stastny-patek-rozzari-deti-stestim_d-75480.md"
+        }
+      ],
+      "photos": [
+        {
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-1--8303690.png",
+          "alt": "podpora akci a aktivit pro osoby se zdra  podpora ozp 1  8303690"
+        },
+        {
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-2--3f3d3a1.png",
+          "alt": "podpora akci a aktivit pro osoby se zdra  podpora ozp 2  3f3d3a1"
+        },
+        {
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-1--8303692.png",
+          "alt": "Podpora OZP 1"
+        },
+        {
+          "src": "images/projects/podpora-akci-a-aktivit-pro-osoby-se-zdra--podpora-ozp-2--3f3d3a3.png",
+          "alt": "Podpora OZP 2"
+        }
+      ]
+    },
+    {
+      "id": "golias-41",
+      "title": "Preventivní programy pro děti a mládež",
+      "type": "měkký",
+      "amountCzk": null,
+      "amountLabel": "-",
+      "status": "Realizováno dílčími aktivitami",
+      "spArea": "D",
+      "spLabel": "D.2.1 Efektivní programy prevence rizikového chování u dětí a mládeže",
+      "benefit": "Školení, přednášky, interaktivní výstavy a exkurze zaměřené na prevenci rizikového chování dětí a mládeže (např. Revolution train, exkurze na úřad).",
+      "sources": [
+        "data/tiskovky/markdown/2023/2023-02-24_zaci-se-prisli-seznamit-s-fungovanim-uradu_d-42255.md",
+        "data/tiskovky/markdown/2025/2025-04-04_do-koprivnice-se-vraci-revolution-train_d-81150.md"
+      ],
+      "links": [],
+      "relatedPress": [
+        {
+          "id": "81150",
+          "date": "2025-04-04",
+          "title": "Do Kopřivnice se vrací Revolution train",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2025/2025-04-04_do-koprivnice-se-vraci-revolution-train_d-81150.md"
+        },
+        {
+          "id": "42255",
+          "date": "2023-02-24",
+          "title": "Žáci se přišli seznámit s fungováním úřadu",
+          "amountCzk": null,
+          "amountLabel": "-",
+          "sourceFile": "data/tiskovky/markdown/2023/2023-02-24_zaci-se-prisli-seznamit-s-fungovanim-uradu_d-42255.md"
+        }
+      ],
+      "photos": [
+        {
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-1--964de60.png",
+          "alt": "preventivni programy pro deti a mladez  prevence deti 1  964de60"
+        },
+        {
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-2--d8292b1.jpeg",
+          "alt": "preventivni programy pro deti a mladez  prevence deti 2  d8292b1"
+        },
+        {
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-1--964de62.png",
+          "alt": "Prevence děti 1"
+        },
+        {
+          "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-2--d8292b3.jpeg",
+          "alt": "Prevence děti 2"
+        }
+      ]
     }
   ],
   "themeGraph": {
@@ -16830,32 +17279,56 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "image",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "socialni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "doprava",
         "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "socialni",
+        "source": "doprava",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "investice-stavby",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "image",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16872,8 +17345,8 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "participace",
-        "target": "socialni",
+        "source": "socialni",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16884,97 +17357,73 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "podnikani",
+        "source": "podnikani",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "image",
+        "source": "investice-stavby",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
-        "target": "provozni",
+        "source": "podnikani",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "image",
+        "source": "provozni",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
-        "target": "kultura-sport",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "investice-stavby",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "kultura-sport",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "investice-stavby",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
