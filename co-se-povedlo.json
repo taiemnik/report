@@ -1,495 +1,600 @@
 {
   "title": "Plán v obrazech",
-  "intro": "Vizuální přehled toho, co se ve městě změnilo — stejná logika jako výroční soubor „Co se povedlo“: témata po letech, u starších ročníků jednotlivé fotky.",
-  "featured": {
-    "title": "Centrum — před a po",
-    "type": "pages",
-    "pages": [
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p001.jpg",
-        "page": 1
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p002.jpg",
-        "page": 2
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p003.jpg",
-        "page": 3
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p004.jpg",
-        "page": 4
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p005.jpg",
-        "page": 5
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p006.jpg",
-        "page": 6
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p007.jpg",
-        "page": 7
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p008.jpg",
-        "page": 8
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p009.jpg",
-        "page": 9
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p010.jpg",
-        "page": 10
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p011.jpg",
-        "page": 11
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p012.jpg",
-        "page": 12
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p013.jpg",
-        "page": 13
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p014.jpg",
-        "page": 14
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p015.jpg",
-        "page": 15
-      },
-      {
-        "src": "images/co-se-povedlo/featured/centrum-pred-a-po/centrum-pred-a-po-p016.jpg",
-        "page": 16
-      }
-    ]
-  },
+  "intro": "Vizuální přehled toho, co se ve městě změnilo — stejná logika jako výroční soubor „Co se povedlo“. Témata a roky jsou v rozbalovacích blocích; fotky jsou vypreparované ze zdrojových dokumentů.",
   "years": [
     {
+      "year": "Centrum",
+      "subtitle": "před a po",
+      "sections": [],
+      "items": [
+        {
+          "title": "Centrum — před a po · foto 1",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-001.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 2",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-002.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 3",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-003.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 4",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-004.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 5",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-005.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 6",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-006.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 7",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-007.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 8",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-008.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 9",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-009.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 10",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-010.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 11",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-011.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 12",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-012.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 13",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-013.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 14",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-014.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 15",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-015.jpg"
+        },
+        {
+          "title": "Centrum — před a po · foto 16",
+          "type": "image",
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-016.jpg"
+        }
+      ]
+    },
+    {
       "year": "2025",
+      "subtitle": "Co se povedlo",
       "sections": [
         {
           "title": "Budovy",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p001.jpg",
-              "page": 1
+              "title": "Budovy · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p002.jpg",
-              "page": 2
+              "title": "Budovy · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p003.jpg",
-              "page": 3
+              "title": "Budovy · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p004.jpg",
-              "page": 4
+              "title": "Budovy · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p005.jpg",
-              "page": 5
+              "title": "Budovy · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p006.jpg",
-              "page": 6
+              "title": "Budovy · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p007.jpg",
-              "page": 7
+              "title": "Budovy · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p008.jpg",
-              "page": 8
+              "title": "Budovy · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p009.jpg",
-              "page": 9
+              "title": "Budovy · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p010.jpg",
-              "page": 10
+              "title": "Budovy · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p011.jpg",
-              "page": 11
+              "title": "Budovy · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p012.jpg",
-              "page": 12
+              "title": "Budovy · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p013.jpg",
-              "page": 13
+              "title": "Budovy · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p014.jpg",
-              "page": 14
+              "title": "Budovy · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-014.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/budovy/budovy-p015.jpg",
-              "page": 15
+              "title": "Budovy · foto 15",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/budovy/budovy-015.jpg"
             }
           ]
         },
         {
           "title": "Ocenění",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p001.jpg",
-              "page": 1
+              "title": "Ocenění · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p002.jpg",
-              "page": 2
+              "title": "Ocenění · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p003.jpg",
-              "page": 3
+              "title": "Ocenění · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p004.jpg",
-              "page": 4
+              "title": "Ocenění · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p005.jpg",
-              "page": 5
+              "title": "Ocenění · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p006.jpg",
-              "page": 6
+              "title": "Ocenění · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/oceneni/oceneni-p007.jpg",
-              "page": 7
+              "title": "Ocenění · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/oceneni/oceneni-007.jpg"
             }
           ]
         },
         {
           "title": "Prostranství",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p001.jpg",
-              "page": 1
+              "title": "Prostranství · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p002.jpg",
-              "page": 2
+              "title": "Prostranství · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p003.jpg",
-              "page": 3
+              "title": "Prostranství · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p004.jpg",
-              "page": 4
+              "title": "Prostranství · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p005.jpg",
-              "page": 5
+              "title": "Prostranství · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p006.jpg",
-              "page": 6
+              "title": "Prostranství · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p007.jpg",
-              "page": 7
+              "title": "Prostranství · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p008.jpg",
-              "page": 8
+              "title": "Prostranství · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p009.jpg",
-              "page": 9
+              "title": "Prostranství · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p010.jpg",
-              "page": 10
+              "title": "Prostranství · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p011.jpg",
-              "page": 11
+              "title": "Prostranství · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p012.jpg",
-              "page": 12
+              "title": "Prostranství · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p013.jpg",
-              "page": 13
+              "title": "Prostranství · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-p014.jpg",
-              "page": 14
+              "title": "Prostranství · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/prostranstvi/prostranstvi-014.jpg"
             }
           ]
         },
         {
           "title": "Rok malířů",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p001.jpg",
-              "page": 1
+              "title": "Rok malířů · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p002.jpg",
-              "page": 2
+              "title": "Rok malířů · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p003.jpg",
-              "page": 3
+              "title": "Rok malířů · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p004.jpg",
-              "page": 4
+              "title": "Rok malířů · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p005.jpg",
-              "page": 5
+              "title": "Rok malířů · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p006.jpg",
-              "page": 6
+              "title": "Rok malířů · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p007.jpg",
-              "page": 7
+              "title": "Rok malířů · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p008.jpg",
-              "page": 8
+              "title": "Rok malířů · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p009.jpg",
-              "page": 9
+              "title": "Rok malířů · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p010.jpg",
-              "page": 10
+              "title": "Rok malířů · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p011.jpg",
-              "page": 11
+              "title": "Rok malířů · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p012.jpg",
-              "page": 12
+              "title": "Rok malířů · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p013.jpg",
-              "page": 13
+              "title": "Rok malířů · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p014.jpg",
-              "page": 14
+              "title": "Rok malířů · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-014.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p015.jpg",
-              "page": 15
+              "title": "Rok malířů · foto 15",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-015.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p016.jpg",
-              "page": 16
+              "title": "Rok malířů · foto 16",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-016.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-p017.jpg",
-              "page": 17
+              "title": "Rok malířů · foto 17",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/rok-maliru/rok-maliru-017.jpg"
             }
           ]
         },
         {
           "title": "Silnice a chodníky",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p001.jpg",
-              "page": 1
+              "title": "Silnice a chodníky · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p002.jpg",
-              "page": 2
+              "title": "Silnice a chodníky · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p003.jpg",
-              "page": 3
+              "title": "Silnice a chodníky · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p004.jpg",
-              "page": 4
+              "title": "Silnice a chodníky · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p005.jpg",
-              "page": 5
+              "title": "Silnice a chodníky · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p006.jpg",
-              "page": 6
+              "title": "Silnice a chodníky · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p007.jpg",
-              "page": 7
+              "title": "Silnice a chodníky · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p008.jpg",
-              "page": 8
+              "title": "Silnice a chodníky · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p009.jpg",
-              "page": 9
+              "title": "Silnice a chodníky · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p010.jpg",
-              "page": 10
+              "title": "Silnice a chodníky · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p011.jpg",
-              "page": 11
+              "title": "Silnice a chodníky · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p012.jpg",
-              "page": 12
+              "title": "Silnice a chodníky · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p013.jpg",
-              "page": 13
+              "title": "Silnice a chodníky · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p014.jpg",
-              "page": 14
+              "title": "Silnice a chodníky · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-014.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p015.jpg",
-              "page": 15
+              "title": "Silnice a chodníky · foto 15",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-015.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p016.jpg",
-              "page": 16
+              "title": "Silnice a chodníky · foto 16",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-016.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p017.jpg",
-              "page": 17
+              "title": "Silnice a chodníky · foto 17",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-017.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-p018.jpg",
-              "page": 18
+              "title": "Silnice a chodníky · foto 18",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/silnice-a-chodniky/silnice-a-chodniky-018.jpg"
             }
           ]
         },
         {
           "title": "Sport",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p001.jpg",
-              "page": 1
+              "title": "Sport · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p002.jpg",
-              "page": 2
+              "title": "Sport · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p003.jpg",
-              "page": 3
+              "title": "Sport · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p004.jpg",
-              "page": 4
+              "title": "Sport · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p005.jpg",
-              "page": 5
+              "title": "Sport · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p006.jpg",
-              "page": 6
+              "title": "Sport · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p007.jpg",
-              "page": 7
+              "title": "Sport · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p008.jpg",
-              "page": 8
+              "title": "Sport · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p009.jpg",
-              "page": 9
+              "title": "Sport · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p010.jpg",
-              "page": 10
+              "title": "Sport · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/sport/sport-p011.jpg",
-              "page": 11
+              "title": "Sport · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/sport/sport-011.jpg"
             }
           ]
         },
         {
           "title": "Školství",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p001.jpg",
-              "page": 1
+              "title": "Školství · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p002.jpg",
-              "page": 2
+              "title": "Školství · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p003.jpg",
-              "page": 3
+              "title": "Školství · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p004.jpg",
-              "page": 4
+              "title": "Školství · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p005.jpg",
-              "page": 5
+              "title": "Školství · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p006.jpg",
-              "page": 6
+              "title": "Školství · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p007.jpg",
-              "page": 7
+              "title": "Školství · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p008.jpg",
-              "page": 8
+              "title": "Školství · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p009.jpg",
-              "page": 9
+              "title": "Školství · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p010.jpg",
-              "page": 10
+              "title": "Školství · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p011.jpg",
-              "page": 11
+              "title": "Školství · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-p012.jpg",
-              "page": 12
+              "title": "Školství · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2025/skolstvi/skolstvi-012.jpg"
             }
           ]
         }
@@ -498,606 +603,725 @@
     },
     {
       "year": "2024",
+      "subtitle": "Co se povedlo",
       "sections": [
         {
           "title": "Chodníky",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p001.jpg",
-              "page": 1
+              "title": "Chodníky · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p002.jpg",
-              "page": 2
+              "title": "Chodníky · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p003.jpg",
-              "page": 3
+              "title": "Chodníky · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p004.jpg",
-              "page": 4
+              "title": "Chodníky · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p005.jpg",
-              "page": 5
+              "title": "Chodníky · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p006.jpg",
-              "page": 6
+              "title": "Chodníky · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/chodniky/chodniky-p007.jpg",
-              "page": 7
+              "title": "Chodníky · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/chodniky/chodniky-007.jpg"
             }
           ]
         },
         {
           "title": "Komunikace",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p001.jpg",
-              "page": 1
+              "title": "Komunikace · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p002.jpg",
-              "page": 2
+              "title": "Komunikace · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p003.jpg",
-              "page": 3
+              "title": "Komunikace · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p004.jpg",
-              "page": 4
+              "title": "Komunikace · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p005.jpg",
-              "page": 5
+              "title": "Komunikace · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p006.jpg",
-              "page": 6
+              "title": "Komunikace · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p007.jpg",
-              "page": 7
+              "title": "Komunikace · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p008.jpg",
-              "page": 8
+              "title": "Komunikace · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p009.jpg",
-              "page": 9
+              "title": "Komunikace · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/komunikace/komunikace-p010.jpg",
-              "page": 10
+              "title": "Komunikace · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/komunikace/komunikace-010.jpg"
             }
           ]
         },
         {
           "title": "Mosty a lávky",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p001.jpg",
-              "page": 1
+              "title": "Mosty a lávky · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p002.jpg",
-              "page": 2
+              "title": "Mosty a lávky · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p003.jpg",
-              "page": 3
+              "title": "Mosty a lávky · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p004.jpg",
-              "page": 4
+              "title": "Mosty a lávky · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p005.jpg",
-              "page": 5
+              "title": "Mosty a lávky · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p006.jpg",
-              "page": 6
+              "title": "Mosty a lávky · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-p007.jpg",
-              "page": 7
+              "title": "Mosty a lávky · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/mosty-a-lavky/mosty-a-lavky-007.jpg"
             }
           ]
         },
         {
           "title": "Ocenění",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p001.jpg",
-              "page": 1
+              "title": "Ocenění · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p002.jpg",
-              "page": 2
+              "title": "Ocenění · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p003.jpg",
-              "page": 3
+              "title": "Ocenění · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p004.jpg",
-              "page": 4
+              "title": "Ocenění · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p005.jpg",
-              "page": 5
+              "title": "Ocenění · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oceneni/oceneni-p006.jpg",
-              "page": 6
+              "title": "Ocenění · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oceneni/oceneni-006.jpg"
             }
           ]
         },
         {
           "title": "Oživení centra",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p001.jpg",
-              "page": 1
+              "title": "Oživení centra · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p002.jpg",
-              "page": 2
+              "title": "Oživení centra · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p003.jpg",
-              "page": 3
+              "title": "Oživení centra · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p004.jpg",
-              "page": 4
+              "title": "Oživení centra · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p005.jpg",
-              "page": 5
+              "title": "Oživení centra · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p006.jpg",
-              "page": 6
+              "title": "Oživení centra · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p007.jpg",
-              "page": 7
+              "title": "Oživení centra · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p008.jpg",
-              "page": 8
+              "title": "Oživení centra · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p009.jpg",
-              "page": 9
+              "title": "Oživení centra · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p010.jpg",
-              "page": 10
+              "title": "Oživení centra · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p011.jpg",
-              "page": 11
+              "title": "Oživení centra · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p012.jpg",
-              "page": 12
+              "title": "Oživení centra · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p013.jpg",
-              "page": 13
+              "title": "Oživení centra · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p014.jpg",
-              "page": 14
+              "title": "Oživení centra · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-014.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p015.jpg",
-              "page": 15
+              "title": "Oživení centra · foto 15",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-015.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p016.jpg",
-              "page": 16
+              "title": "Oživení centra · foto 16",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-016.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p017.jpg",
-              "page": 17
+              "title": "Oživení centra · foto 17",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-017.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p018.jpg",
-              "page": 18
+              "title": "Oživení centra · foto 18",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-018.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p019.jpg",
-              "page": 19
+              "title": "Oživení centra · foto 19",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-019.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-p020.jpg",
-              "page": 20
+              "title": "Oživení centra · foto 20",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/oziveni-centra/oziveni-centra-020.jpg"
             }
           ]
         },
         {
           "title": "Parkování",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p001.jpg",
-              "page": 1
+              "title": "Parkování · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p002.jpg",
-              "page": 2
+              "title": "Parkování · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p003.jpg",
-              "page": 3
+              "title": "Parkování · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p004.jpg",
-              "page": 4
+              "title": "Parkování · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p005.jpg",
-              "page": 5
+              "title": "Parkování · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p006.jpg",
-              "page": 6
+              "title": "Parkování · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/parkovani/parkovani-p007.jpg",
-              "page": 7
+              "title": "Parkování · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/parkovani/parkovani-007.jpg"
             }
           ]
         },
         {
           "title": "Sociální oblast",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p001.jpg",
-              "page": 1
+              "title": "Sociální oblast · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p002.jpg",
-              "page": 2
+              "title": "Sociální oblast · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p003.jpg",
-              "page": 3
+              "title": "Sociální oblast · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p004.jpg",
-              "page": 4
+              "title": "Sociální oblast · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p005.jpg",
-              "page": 5
+              "title": "Sociální oblast · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p006.jpg",
-              "page": 6
+              "title": "Sociální oblast · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p007.jpg",
-              "page": 7
+              "title": "Sociální oblast · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p008.jpg",
-              "page": 8
+              "title": "Sociální oblast · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p009.jpg",
-              "page": 9
+              "title": "Sociální oblast · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-p010.jpg",
-              "page": 10
+              "title": "Sociální oblast · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/socialni-oblast/socialni-oblast-010.jpg"
             }
           ]
         },
         {
           "title": "Společná setkání",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p001.jpg",
-              "page": 1
+              "title": "Společná setkání · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p002.jpg",
-              "page": 2
+              "title": "Společná setkání · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p003.jpg",
-              "page": 3
+              "title": "Společná setkání · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p004.jpg",
-              "page": 4
+              "title": "Společná setkání · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p005.jpg",
-              "page": 5
+              "title": "Společná setkání · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p006.jpg",
-              "page": 6
+              "title": "Společná setkání · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p007.jpg",
-              "page": 7
+              "title": "Společná setkání · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p008.jpg",
-              "page": 8
+              "title": "Společná setkání · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p009.jpg",
-              "page": 9
+              "title": "Společná setkání · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p010.jpg",
-              "page": 10
+              "title": "Společná setkání · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p011.jpg",
-              "page": 11
+              "title": "Společná setkání · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p012.jpg",
-              "page": 12
+              "title": "Společná setkání · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p013.jpg",
-              "page": 13
+              "title": "Společná setkání · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-013.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p014.jpg",
-              "page": 14
+              "title": "Společná setkání · foto 14",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-014.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p015.jpg",
-              "page": 15
+              "title": "Společná setkání · foto 15",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-015.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p016.jpg",
-              "page": 16
+              "title": "Společná setkání · foto 16",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-016.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-p017.jpg",
-              "page": 17
+              "title": "Společná setkání · foto 17",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/spolecna-setkani/spolecna-setkani-017.jpg"
             }
           ]
         },
         {
           "title": "Sport a volný čas",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p001.jpg",
-              "page": 1
+              "title": "Sport a volný čas · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p002.jpg",
-              "page": 2
+              "title": "Sport a volný čas · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p003.jpg",
-              "page": 3
+              "title": "Sport a volný čas · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p004.jpg",
-              "page": 4
+              "title": "Sport a volný čas · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p005.jpg",
-              "page": 5
+              "title": "Sport a volný čas · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p006.jpg",
-              "page": 6
+              "title": "Sport a volný čas · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p007.jpg",
-              "page": 7
+              "title": "Sport a volný čas · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p008.jpg",
-              "page": 8
+              "title": "Sport a volný čas · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p009.jpg",
-              "page": 9
+              "title": "Sport a volný čas · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p010.jpg",
-              "page": 10
+              "title": "Sport a volný čas · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p011.jpg",
-              "page": 11
+              "title": "Sport a volný čas · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-011.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p012.jpg",
-              "page": 12
+              "title": "Sport a volný čas · foto 12",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-012.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-p013.jpg",
-              "page": 13
+              "title": "Sport a volný čas · foto 13",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/sport-a-volny-cas/sport-a-volny-cas-013.jpg"
             }
           ]
         },
         {
           "title": "Udržitelná doprava",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p001.jpg",
-              "page": 1
+              "title": "Udržitelná doprava · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p002.jpg",
-              "page": 2
+              "title": "Udržitelná doprava · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p003.jpg",
-              "page": 3
+              "title": "Udržitelná doprava · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p004.jpg",
-              "page": 4
+              "title": "Udržitelná doprava · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p005.jpg",
-              "page": 5
+              "title": "Udržitelná doprava · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-p006.jpg",
-              "page": 6
+              "title": "Udržitelná doprava · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/udrzitelna-doprava/udrzitelna-doprava-006.jpg"
             }
           ]
         },
         {
           "title": "VO a městské budovy",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p001.jpg",
-              "page": 1
+              "title": "VO a městské budovy · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p002.jpg",
-              "page": 2
+              "title": "VO a městské budovy · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p003.jpg",
-              "page": 3
+              "title": "VO a městské budovy · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p004.jpg",
-              "page": 4
+              "title": "VO a městské budovy · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p005.jpg",
-              "page": 5
+              "title": "VO a městské budovy · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p006.jpg",
-              "page": 6
+              "title": "VO a městské budovy · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p007.jpg",
-              "page": 7
+              "title": "VO a městské budovy · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-p008.jpg",
-              "page": 8
+              "title": "VO a městské budovy · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/vo-a-mestske-budovy/vo-a-mestske-budovy-008.jpg"
             }
           ]
         },
         {
           "title": "Školství",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p001.jpg",
-              "page": 1
+              "title": "Školství · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p002.jpg",
-              "page": 2
+              "title": "Školství · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p003.jpg",
-              "page": 3
+              "title": "Školství · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p004.jpg",
-              "page": 4
+              "title": "Školství · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p005.jpg",
-              "page": 5
+              "title": "Školství · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p006.jpg",
-              "page": 6
+              "title": "Školství · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p007.jpg",
-              "page": 7
+              "title": "Školství · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p008.jpg",
-              "page": 8
+              "title": "Školství · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-p009.jpg",
-              "page": 9
+              "title": "Školství · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/skolstvi/skolstvi-009.jpg"
             }
           ]
         },
         {
           "title": "ŽP",
-          "type": "pages",
-          "pages": [
+          "items": [
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p001.jpg",
-              "page": 1
+              "title": "ŽP · foto 1",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-001.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p002.jpg",
-              "page": 2
+              "title": "ŽP · foto 2",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-002.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p003.jpg",
-              "page": 3
+              "title": "ŽP · foto 3",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-003.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p004.jpg",
-              "page": 4
+              "title": "ŽP · foto 4",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-004.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p005.jpg",
-              "page": 5
+              "title": "ŽP · foto 5",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-005.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p006.jpg",
-              "page": 6
+              "title": "ŽP · foto 6",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-006.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p007.jpg",
-              "page": 7
+              "title": "ŽP · foto 7",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-007.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p008.jpg",
-              "page": 8
+              "title": "ŽP · foto 8",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-008.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p009.jpg",
-              "page": 9
+              "title": "ŽP · foto 9",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-009.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p010.jpg",
-              "page": 10
+              "title": "ŽP · foto 10",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-010.jpg"
             },
             {
-              "src": "images/co-se-povedlo/2024/zp/zp-p011.jpg",
-              "page": 11
+              "title": "ŽP · foto 11",
+              "type": "image",
+              "src": "images/co-se-povedlo/2024/zp/zp-011.jpg"
             }
           ]
         }
@@ -1106,6 +1330,7 @@
     },
     {
       "year": "2023",
+      "subtitle": "Co se povedlo",
       "sections": [],
       "items": [
         {
@@ -1287,6 +1512,7 @@
     },
     {
       "year": "Strategie 2023–2026",
+      "subtitle": "Projekty plánu",
       "sections": [],
       "items": [
         {
