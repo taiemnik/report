@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-03T08:39:22.068410",
+    "generated": "2026-07-07T19:51:47.254131",
     "period": "2023-2026",
     "pressReleaseCount": 916,
     "apActivityCount": 496,
@@ -15327,7 +15327,16 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-04-28_rekonstrukce-tribuny-je-dokoncena_d-75360.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/rekonstrukce-objektu-saten-a-zazemi-letn--satny-letni-stadion-1--b956ec0.png",
+          "alt": "Šatny letní stadion 1"
+        },
+        {
+          "src": "images/projects/rekonstrukce-objektu-saten-a-zazemi-letn--satny-letni-stadion-2--f11d601.png",
+          "alt": "Šatny letní stadion 2"
+        }
+      ]
     },
     {
       "id": "golias-23",
@@ -15353,7 +15362,12 @@
           "sourceFile": "data/tiskovky/markdown/2023/2023-06-23_zastupitele-diskutovali-o-budoucnosti-muzei-i-lyzarskeho-arealu_d-75917.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/nove-rekreacni-zazemi-na-cervenem-kameni--cerveny-kamen-rekreace--c44a7f0.png",
+          "alt": "Červený kámen rekreace"
+        }
+      ]
     },
     {
       "id": "golias-24",
@@ -15397,7 +15411,12 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-06-21_zastupitele-schvalili-prevod-muzea-kraji-a-dali-zelenou-vystavbe-schodiste-pred_d-78894.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/predprostor-technickeho-muzea-v-koprivni--predprostor-muzea--be10410.jpg",
+          "alt": "Předprostor muzea"
+        }
+      ]
     },
     {
       "id": "golias-25",
@@ -15432,7 +15451,12 @@
           "sourceFile": "data/tiskovky/markdown/2024/2024-06-21_zastupitele-schvalili-prevod-muzea-kraji-a-dali-zelenou-vystavbe-schodiste-pred_d-78894.md"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "images/projects/rekonstrukce-schodiste-kdk--schodiste-kdk--6044340.png",
+          "alt": "Schodiště KDK"
+        }
+      ]
     },
     {
       "id": "golias-26",
@@ -16795,80 +16819,14 @@
     ],
     "edgesCooccurrence": [
       {
-        "source": "doprava",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
+        "source": "investice-stavby",
         "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "participace",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "investice-stavby",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "podnikani",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "podnikani",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "skolstvi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "provozni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
         "target": "participace",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "image",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16879,31 +16837,55 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "kultura-sport",
+        "source": "investice-stavby",
+        "target": "provozni",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
-        "target": "socialni",
+        "source": "image",
+        "target": "investice-stavby",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
+        "source": "investice-stavby",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "skolstvi",
+        "source": "investice-stavby",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "kultura-sport",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "participace",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "provozni",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
@@ -16915,7 +16897,19 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "skolstvi",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "podnikani",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
@@ -16927,19 +16921,49 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "skolstvi",
-        "target": "socialni",
+        "source": "doprava",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "skolstvi",
+        "source": "participace",
+        "target": "provozni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "image",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
         "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "participace",
+        "target": "socialni",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "participace",
+        "target": "podnikani",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "participace",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
         "target": "provozni",
         "weight": 4,
         "mode": "cooccurrence"
