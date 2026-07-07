@@ -5,87 +5,120 @@
     {
       "year": "Centrum",
       "subtitle": "před a po",
+      "layout": "before-after",
       "sections": [],
       "items": [
         {
-          "title": "Centrum — před a po · foto 1",
+          "title": "Centrum · místo 1 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-001.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-001-pred.jpg",
+          "pairIndex": 1,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 2",
+          "title": "Centrum · místo 1 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-002.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-001-po.jpg",
+          "pairIndex": 1,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 3",
+          "title": "Centrum · místo 2 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-003.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-002-pred.jpg",
+          "pairIndex": 2,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 4",
+          "title": "Centrum · místo 2 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-004.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-002-po.jpg",
+          "pairIndex": 2,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 5",
+          "title": "Centrum · místo 3 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-005.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-003-pred.jpg",
+          "pairIndex": 3,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 6",
+          "title": "Centrum · místo 3 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-006.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-003-po.jpg",
+          "pairIndex": 3,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 7",
+          "title": "Centrum · místo 4 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-007.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-004-pred.jpg",
+          "pairIndex": 4,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 8",
+          "title": "Centrum · místo 4 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-008.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-004-po.jpg",
+          "pairIndex": 4,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 9",
+          "title": "Centrum · místo 5 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-009.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-005-pred.jpg",
+          "pairIndex": 5,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 10",
+          "title": "Centrum · místo 5 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-010.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-005-po.jpg",
+          "pairIndex": 5,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 11",
+          "title": "Centrum · místo 6 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-011.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-006-pred.jpg",
+          "pairIndex": 6,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 12",
+          "title": "Centrum · místo 6 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-012.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-006-po.jpg",
+          "pairIndex": 6,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 13",
+          "title": "Centrum · místo 7 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-013.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-007-pred.jpg",
+          "pairIndex": 7,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 14",
+          "title": "Centrum · místo 7 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-014.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-007-po.jpg",
+          "pairIndex": 7,
+          "phase": "po"
         },
         {
-          "title": "Centrum — před a po · foto 15",
+          "title": "Centrum · místo 8 · před",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-015.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-008-pred.jpg",
+          "pairIndex": 8,
+          "phase": "pred"
         },
         {
-          "title": "Centrum — před a po · foto 16",
+          "title": "Centrum · místo 8 · po",
           "type": "image",
-          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-016.jpg"
+          "src": "images/co-se-povedlo/centrum/centrum-pred-a-po/centrum-pred-a-po-008-po.jpg",
+          "pairIndex": 8,
+          "phase": "po"
         }
       ]
     },
@@ -1636,6 +1669,11 @@
           "src": "images/projects/nova-parkoviste-obrancu-miru-skolni-u-zs--parkoviste-skolni--e9525e3.png"
         },
         {
+          "title": "Nové rekreační zázemí na Červeném kameni · foto 1",
+          "type": "image",
+          "src": "images/projects/nove-rekreacni-zazemi-na-cervenem-kameni--cerveny-kamen-rekreace--c44a7f0.png"
+        },
+        {
           "title": "Obnova a doplňování infrastruktury pro pěší · foto 1",
           "type": "image",
           "src": "images/projects/obnova-a-doplnovani-infrastruktury-pro-p--chodniky-1--37b18f0.jpg"
@@ -1716,6 +1754,11 @@
           "src": "images/projects/posileni-autobusovych-linek-do-sidliste---doplneni-autobusovych-linek--52b6cc0.png"
         },
         {
+          "title": "Předprostor Technického muzea v Kopřivnici · foto 1",
+          "type": "image",
+          "src": "images/projects/predprostor-technickeho-muzea-v-koprivni--predprostor-muzea--be10410.jpg"
+        },
+        {
           "title": "Preventivní programy pro děti a mládež · foto 1",
           "type": "image",
           "src": "images/projects/preventivni-programy-pro-deti-a-mladez--prevence-deti-1--964de60.png"
@@ -1751,9 +1794,24 @@
           "src": "images/projects/rekonstrukce-koupaliste--rekonstrukce-koupaliste--eeefc80.jpg"
         },
         {
+          "title": "Rekonstrukce objektu šaten a zázemí letního stadionu – I. a II. etapa · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-objektu-saten-a-zazemi-letn--satny-letni-stadion-1--b956ec0.png"
+        },
+        {
+          "title": "Rekonstrukce objektu šaten a zázemí letního stadionu – I. a II. etapa · foto 2",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-objektu-saten-a-zazemi-letn--satny-letni-stadion-2--f11d601.png"
+        },
+        {
           "title": "Rekonstrukce pavilonu ZŠ 17. listopadu · foto 1",
           "type": "image",
           "src": "images/projects/rekonstrukce-pavilonu-zs-17-listopadu--rekonstrukce-pavilonu-zs-17-listopadu--57e6540.jpeg"
+        },
+        {
+          "title": "Rekonstrukce schodiště KDK · foto 1",
+          "type": "image",
+          "src": "images/projects/rekonstrukce-schodiste-kdk--schodiste-kdk--6044340.png"
         },
         {
           "title": "Rekonstrukce silnice a zpomalovacího prahu u Vily Machů · foto 1",
