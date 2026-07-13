@@ -2,7 +2,7 @@
 
 Interpretační čtení toho, **jak komunikace města vyznívá**, jaké hodnoty, emoce a sebepojetí z tiskových zpráv vystupují. Není to měření spokojenosti občanů (to by vyžadovalo průzkum), ale analýza obrazu, který město samo o sobě vytváří. Optika: **vyváženost sdělení**, kde je narativ silný a kde má slepá místa.
 
-> Metodická poznámka: Náladové dimenze jsou interpretační skóre (0–100) odvozené z obsahu a tónu tiskových zpráv 2023–2026, ne ze sociologického šetření mezi obyvateli. Skóre vyjadřuje, jak silně a pozitivně dané téma v komunikaci zaznívá. Slouží k odhalení vzorců a slepých míst, ne jako tvrdá metrika spokojenosti.
+> Metodická poznámka: Náladové dimenze jsou interpretační skóre (0–100) odvozené z obsahu a tónu tiskových zpráv 2023–2026, ne ze sociologického šetření mezi obyvateli. Skóre vyjadřuje, jak silně a pozitivně dané téma v komunikaci zaznívá. Slouží k odhalení vzorců a slepých míst, ne jako tvrdá metrika spokojenosti. Zpracováno s podporou AI — podrobnosti a limity viz [[metodologie.md]].
 
 ## Manažerské shrnutí
 
@@ -22,7 +22,7 @@ Interpretační čtení toho, **jak komunikace města vyznívá**, jaké hodnoty
 | Rodiny, školství, péče | 66 | Přítomné, ale méně výrazné než stavby a akce |
 | Participace a důvěra v plánování | 59 | Nejslabší dimenze, zapojení občanů zaznívá málo |
 
-Rozpětí 59–92 ukazuje vyhraněný profil: město je nejsilnější tam, kde ukazuje výsledky a ambici (investice, bezpečí, komunita), a nejslabší tam, kde jde o sdílení moci a průběžný dialog (participace). To je typický profil sebevědomé, výkonově orientované samosprávy.
+Rozpětí 59–92 ukazuje vyhraněný profil: město je nejsilnější tam, kde ukazuje výsledky a ambici (investice, bezpečí, komunita), a nejslabší tam, kde jde o sdílení moci a průběžný dialog (participace). To je typický profil sebevědomé, výkonově orientované komunikace.
 
 ## Slepá místa komunikace
 
@@ -39,25 +39,17 @@ Pozitivní, výsledkový narativ je silná stránka, buduje důvěru a hrdost. M
 
 ---
 
-## Pro vedení města
+## Pro občany
 
-Máte mimořádně silný a sebevědomý narativ (74/100, ambice 92). Vaše riziko není slabá komunikace, ale příliš hladká komunikace. Doporučení: vědomě přidat „tvrdou" vrstvu, u velkých projektů komunikovat i rizika, zpoždění a kompromisy dřív, než se stanou problémem. A posílit nejslabší dimenzi (participace 59): ne víc anket, ale viditelná zpětná vazba, co se s názory občanů stalo. Otevřenost o výzvách paradoxně posiluje důvěru víc než bezchybný příběh.
+Město o sobě mluví sebevědomě a pozitivně, hlavně o tom, co staví, pořádá a v čem uspělo. Méně se dozvíte o tom, jak se naložilo s vašimi názory z anket, nebo jaká rizika a zpoždění velké projekty provázejí. To neznamená, že problémy nejsou; jen se o nich méně mluví.
 
 ## Pro zastupitele
 
 Obraz, který město o sobě vytváří, je pozitivní a výkonový, s nejslabším místem v zapojování občanů a v otevřenosti o problémech velkých investic. Při schvalování velkých projektů má smysl trvat na tom, aby se s veřejností komunikovala i rizika a harmonogram, ne jen slavnostní otevření, chrání to město i zastupitele, až přijde první zádrhel.
 
-## Pro občany
-
-Město o sobě mluví sebevědomě a pozitivně, hlavně o tom, co staví, pořádá a v čem uspělo. Méně se dozvíte o tom, jak se naložilo s vašimi názory z anket, nebo jaká rizika a zpoždění velké projekty provázejí. To neznamená, že problémy nejsou; jen se o nich méně mluví.
-
-## Pro úřad (interní)
-
-Náladový profil (silné ambice, slabá participace, absence rizik) je vodítko pro komunikační standard. Doporučení: u každého velkého projektu zavést „rizikový odstavec" jako běžnou součást zpráv (harmonogram, co může nastat) a u participace standardizovat „uzavírací" komunikaci (co jsme zjistili, jak jsme rozhodli). Obojí je levné a posiluje důvěryhodnost celého narativu.
-
 ## Metodika a zdroje
 
-- **Zdroj:** archiv tiskových zpráv 2023–2026 (`data/tiskovky/markdown/`); náladová analýza zpracovaná v rámci datové pipeline projektu.
+- **Zdroj:** archiv tiskových zpráv 2023–2026 z koprivnice.cz; náladová analýza zpracovaná v rámci datové pipeline projektu.
 - **Zpracování:** interpretační skóre dimenzí (0–100) z obsahu a tónu zpráv; identifikace opakujících se slepých míst.
 - **Omezení:** jde o analýzu komunikace města, nikoli o průzkum spokojenosti obyvatel. Skóre jsou interpretační, ne statistická; pro tvrdá tvrzení o náladě obyvatel by bylo nutné samostatné šetření.
 - **Ověření:** závěry o slepých místech jsou konzistentní s tematickým rozložením komunikace ([[report-tiskove-zpravy.md]]) i s komunikačním gapem ([[report-komunikacni-gap.md]]).

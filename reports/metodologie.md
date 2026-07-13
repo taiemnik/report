@@ -1,17 +1,54 @@
-# Metodologie: jak se co počítá
+# Metodologie a transparentnost: jak report vznikl a jak ho číst
 
-Tento dokument vysvětluje, odkud pocházejí všechna čísla v reportech a v aplikaci, jak byla spočítána a kde jsou hranice jejich platnosti. Cílem je, aby každý údaj byl ověřitelný a aby bylo jasné, co je tvrdé měření a co interpretace.
+Tento dokument je návod ke čtení celého Reportu plnění strategického plánu. Vysvětluje, jak report vznikl, jakou roli v něm hrála umělá inteligence, odkud pocházejí všechna čísla a kde jsou hranice jejich platnosti. Cílem je, aby každý údaj byl dohledatelný a aby bylo vždy jasné, co je tvrdé měření a co interpretace.
 
-## Zdroje dat
+## Co tento report je — a co není
+
+**Report je** analytické čtení toho, jak se naplňuje Strategický plán rozvoje města Kopřivnice 2023–2038: přes vyhodnocení dvouletých akčních plánů, vybrané projekty a komunikaci města v tiskových zprávách.
+
+**Report není:**
+
+- **audit hospodaření ani vyúčtování investic** — nepracuje s rozpočtem města, závěrečnými účty ani účetnictvím;
+- **hodnocení práce konkrétních osob či orgánů města** — sleduje plnění plánu, ne kdo za co může;
+- **průzkum spokojenosti obyvatel** — tam, kde report mluví o „náladách", jde o rozbor toho, jak město samo komunikuje, ne o měření názorů občanů.
+
+Report nenahrazuje oficiální dokumenty města. Ty jsou vždy nadřazeným zdrojem.
+
+## Jak se pracovalo s umělou inteligencí
+
+Report vznikl kombinací strojového zpracování (AI) a lidské redakce.
+
+**Co udělala AI:**
+
+- převedla podklady (vyhodnocovací tabulky akčních plánů, PDF strategického plánu, archiv tiskových zpráv) do strojově čitelné podoby;
+- klasifikovala stavy aktivit akčních plánů podle klíčových slov ve sloupci „Vyhodnocení";
+- roztřídila tiskové zprávy do témat podle klíčových slov;
+- spočítala souhrnné statistiky a připravila podklady pro grafy;
+- navrhla texty shrnutí a interpretací, které následně prošly lidskou redakcí;
+- odvodila interpretační skóre „nálad" z obsahu a tónu tiskových zpráv.
+
+**Co AI neudělala a nedělá:**
+
+- nevytvářela ani neměnila zdrojová data — všechna čísla vycházejí z existujících dokumentů města;
+- nehodnotí kvalitu rozhodnutí města ani jednotlivých projektů;
+- nerozhodovala o tom, co se do reportu zařadí — výběr, kontrola a finální znění jsou lidská práce.
+
+**Jak to interpretovat:** i s lidskou kontrolou platí, že automatická klasifikace obsahuje chyby (typicky v řádu jednotek procent) a shrnutí generovaná AI mohou zjednodušovat. Čísla v reportu čtěte jako **proporce a trendy**, ne jako přesné účetní hodnoty. U každého údaje uvádíme zdroj a postup, aby šel ověřit.
+
+## Odkud jsou čísla — a odkud nejsou
 
 | Oblast | Zdroj | Formát |
 |---|---|---|
-| Plnění akčních plánů | Vyhodnocení AP 2023–24, 2024–25, 2025–26 + návrh AP 2026–27 | XLSX (originály) |
+| Plnění akčních plánů | Vyhodnocení AP 2023–24, 2024–25, 2025–26 + návrh AP 2026–27 | tabulky (originály) |
 | Strategický plán | Strategický plán rozvoje města 2023–2038 | PDF |
-| Činnost úřadu | Zprávy o činnosti MÚ 2022–2025 | DOCX |
-| Komunikace | Archiv tiskových zpráv 2022–2026 (1086 souborů) | Markdown |
+| Komunikace | Archiv tiskových zpráv z koprivnice.cz 2022–2026 (1086 souborů) | text |
 
-Reporty čerpají přímo z těchto originálů. Aplikace navíc používá agregovaný datový balíček `report-bundle.json`, který staví skript `scripts/build_report_bundle.py`.
+Reporty čerpají přímo z těchto originálů. Aplikace navíc používá agregovaný datový balíček, který se z originálů staví skriptem.
+
+**Dvě zásadní vymezení:**
+
+1. **Čísla o plnění pocházejí z vyhodnocení akčních plánů, ne z rozpočtu města.** Když report říká, že je něco „splněno" nebo „probíhá", opírá se o to, jak aktivitu vyhodnotil garant v akčním plánu — ne o rozpočtové čerpání.
+2. **Částky uváděné u projektů nejsou finální investice.** Částky na kartách projektů a u tiskových zpráv jsou hodnoty, které zazněly v tiskových zprávách nebo podkladech v době oznámení či průběhu projektu (předpokládané náklady, vysoutěžené ceny, dotační rámce). **Neříkají, kolik projekt nakonec skutečně stál.** Pro skutečné náklady je nutné jít do rozpočtu a závěrečného účtu města.
 
 ## Plnění akčních plánů (36 %)
 
@@ -64,6 +101,10 @@ Co skóre znamená a co ne:
 - **Znamená:** jak město samo o sobě komunikuje, sílu a vyznění jednotlivých témat v jeho vlastních zprávách.
 - **Neznamená:** spokojenost obyvatel. Pro tvrzení o náladě obyvatel by bylo nutné samostatné sociologické šetření.
 
+## Pohledy pro občany a zastupitele
+
+Každý report končí dvěma krátkými pohledy: **Pro občany** a **Pro zastupitele**. Nejsou to nová data — jen jiné shrnutí téhož obsahu. Pohled pro občany překládá zjištění do každodenní řeči; pohled pro zastupitele zdůrazňuje, na co se ptát při kontrole plnění plánu a schvalování dalších akčních plánů.
+
 ## Společná omezení
 
 - Klasifikace témat i stavů je automatická a orientační (u témat ~11 % nezařazeno).
@@ -71,7 +112,8 @@ Co skóre znamená a co ne:
 - Rok 2026 je neúplný (data do jara 2026).
 - Komunikační mezera je citlivá na mapování témat na oblasti, viz výše.
 - Skóre nálad je interpretační, ne statistické.
+- Částky u projektů jsou hodnoty z doby oznámení, ne finální náklady (viz výše).
 
 ## Doporučení k ověření
 
-Pro zásadní rozhodnutí doporučujeme klíčová čísla ověřit proti originálním zdrojům (vyhodnocovací tabulky AP, zprávy o činnosti). Reporty uvádějí u každého oddílu zdroj a postup, aby šlo dohledat, odkud údaj pochází.
+Pro zásadní rozhodnutí doporučujeme klíčová čísla ověřit proti originálním zdrojům (vyhodnocovací tabulky akčních plánů, oficiální dokumenty města). Reporty uvádějí u každého oddílu zdroj a postup, aby šlo dohledat, odkud údaj pochází.

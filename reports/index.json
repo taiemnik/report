@@ -1,9 +1,5 @@
 [
   {
-    "id": "report-zpravy-o-cinnosti",
-    "title": "Report: Zprávy o činnosti úřadu 2022–2025"
-  },
-  {
     "id": "report-akcni-plany",
     "title": "Report: Vyhodnocení akčních plánů 2023–2026"
   },
@@ -25,6 +21,6 @@
   },
   {
     "id": "metodologie",
-    "title": "Metodologie: jak se co počítá"
+    "title": "Metodologie a transparentnost: jak report vznikl a jak ho číst"
   }
 ]

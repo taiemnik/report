@@ -2,7 +2,7 @@
 
 Hloubkový rozbor zastřešujícího dokumentu rozvoje města, vytěžený přímo z originálu (90 stran). Mapuje vizi, prioritní oblasti, strategické cíle a opatření a ukazuje, jak se plán promítá do akčních plánů a komunikace. Optika: **soulad mezi plánem, realizací a řečí.**
 
-> Metodická poznámka: Struktura je čtena z originálního PDF. Strategický plán je dlouhodobý (15letý) rámec; jeho operacionalizací jsou dvouleté akční plány (viz [[report-akcni-plany.md]]). Některé kódy opatření v hlubokých úrovních mohou být v PDF formátovány nejednotně; tento report se proto opírá především o úroveň prioritních oblastí a strategických cílů, která je spolehlivá.
+> Metodická poznámka: Struktura je čtena z originálního PDF. Strategický plán je dlouhodobý (15letý) rámec; jeho operacionalizací jsou dvouleté akční plány (viz [[report-akcni-plany.md]]). Některé kódy opatření v hlubokých úrovních mohou být v PDF formátovány nejednotně; tento report se proto opírá především o úroveň prioritních oblastí a strategických cílů, která je spolehlivá. Zpracováno s podporou AI — podrobnosti a limity viz [[metodologie.md]].
 
 ## Manažerské shrnutí
 
@@ -59,25 +59,17 @@ Strategický plán → akční plány (dvouleté) → realizace → komunikace. 
 
 ---
 
-## Pro vedení města
+## Pro občany
 
-Plán je dobře postavený a jeho těžiště (oblast C) sedí s tím, kam reálně směřuje práce úřadu, to je vzácný soulad. Dvě věci hlídat: za prvé, opakovaný strop dokončenosti ~36 % za periodu znamená, že plán obsahuje víc aktivit, než kapacita stíhá uzavřít; při revizi zvážit buď zúžení, nebo posílení realizačních kapacit. Za druhé, oblast A (podnikání) je strategicky rozpracovaná, ale veřejnost o ní neví, nesoulad mezi strategickou váhou a viditelností oslabuje její dopad.
+Město má dlouhodobý plán rozvoje do roku 2038, postavený na čtyřech pilířích: ekonomika a vzdělávání, atraktivní město a volný čas, doprava a bydlení, a sociální zázemí. Nejvíc energie směřuje do dopravy, bydlení a veřejného prostoru. Plán vznikal se zapojením veřejnosti a postupně se naplňuje přes dvouleté akční plány.
 
 ## Pro zastupitele
 
 Strategický plán dává městu jasný čtyřpilířový směr na 15 let a vznikl participativně. Při kontrole jeho naplňování jsou relevantní dvě otázky: zda dvouleté akční plány nejsou systematicky předimenzované (dokončuje se ~třetina), a zda se priority plánu, zejména podnikání a zapojení občanů, promítají i do toho, o čem město veřejně mluví, ne jen do tabulek.
 
-## Pro občany
-
-Město má dlouhodobý plán rozvoje do roku 2038, postavený na čtyřech pilířích: ekonomika a vzdělávání, atraktivní město a volný čas, doprava a bydlení, a sociální zázemí. Nejvíc energie směřuje do dopravy, bydlení a veřejného prostoru. Plán vznikal se zapojením veřejnosti a postupně se naplňuje přes dvouleté akční plány.
-
-## Pro úřad (interní)
-
-Architektura plán → AP → realizace funguje, slabinou je zpětná vazba do komunikace a měření rozpracovanosti. Doporučení: při revizi AP explicitně označit opatření, která jsou strategicky prioritní, ale realizačně/komunikačně zaostávají (typicky oblast A), a navázat na ně jak kapacitu, tak komunikační plán. Sjednotit kódování opatření napříč AP a plánem, aby šlo vazbu sledovat strojově.
-
 ## Metodika a zdroje
 
-- **Zdroj:** `data/zdroje/ostatni dokumenty/Strat.plán.pdf`, Strategický plán rozvoje města Kopřivnice 2023–2038 (90 stran).
+- **Zdroj:** Strategický plán rozvoje města Kopřivnice 2023–2038 (originál, 90 stran).
 - **Zpracování:** extrakce struktury (vize, prioritní oblasti, strategické cíle, opatření) z PDF; propojení s daty akčních plánů a komunikace.
 - **Omezení:** report pracuje na úrovni oblastí a strategických cílů; úplný výčet a znění všech opatření je v originálu. Oblast D má v extrakci méně detailu, doplnit z PDF při hlubší práci.
 - **Ověření:** struktura cílů ověřena proti originálu; vazba na realizaci a komunikaci čerpá z [[report-akcni-plany.md]] a [[report-komunikacni-gap.md]].

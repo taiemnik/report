@@ -2,7 +2,7 @@
 
 Hloubková analýza tří vyhodnocených akčních plánů (AP 2023–2024, 2024–2025, 2025–2026) a návrhu AP 2026–2027, vytěžená přímo z originálních vyhodnocovacích tabulek. Optika: **Value for Money**, co se za naplánované úsilí reálně dotáhlo do konce.
 
-> Metodická poznámka: Stavy aktivit jsou klasifikovány ze sloupce „Vyhodnocení" v originálních XLSX. „splněno" = splněno/realizováno/dokončeno; „probíhá" = zahájeno/plněno průběžně; dále nezahájeno, pozastaveno, zrušeno a neuvedeno (prázdné hodnocení). Akční plány navazují na 4 prioritní oblasti Strategického plánu 2023–2038.
+> Metodická poznámka: Stavy aktivit jsou klasifikovány ze sloupce „Vyhodnocení" v originálních vyhodnocovacích tabulkách. „splněno" = splněno/realizováno/dokončeno; „probíhá" = zahájeno/plněno průběžně; dále nezahájeno, pozastaveno, zrušeno a neuvedeno (prázdné hodnocení). Akční plány navazují na 4 prioritní oblasti Strategického plánu 2023–2038. Report čerpá z vyhodnocení akčních plánů, ne z rozpočtu města; zpracováno s podporou AI — podrobnosti a limity viz [[metodologie.md]].
 
 ## Manažerské shrnutí
 
@@ -55,29 +55,21 @@ Nezahájených a pozastavených aktivit je celkově málo (47 z 500), ale koncen
 
 ## Návrh AP 2026–2027: co napovídá o prioritách
 
-Návrh obsahuje 159 aktivit s rozložením A 28 / B 39 / C 80 / D 12. Struktura prakticky kopíruje předchozí periody, oblast C zůstává dominantní (50 % aktivit). Vysoký podíl zatím nehodnocených položek (zejména v A a C) odpovídá tomu, že jde o plán před zahájením. **Signál:** priority se nepřeskupují; pokud má vedení záměr posílit některou podceněnou oblast (viz [[report-komunikacni-gap.md]]), v návrhu to zatím není čitelné a stojí za vědomé rozhodnutí.
+Návrh obsahuje 159 aktivit s rozložením A 28 / B 39 / C 80 / D 12. Struktura prakticky kopíruje předchozí periody, oblast C zůstává dominantní (50 % aktivit). Vysoký podíl zatím nehodnocených položek (zejména v A a C) odpovídá tomu, že jde o plán před zahájením. **Signál:** priority se nepřeskupují; pokud by město chtělo posílit některou podceněnou oblast (viz [[report-komunikacni-gap.md]]), v návrhu to zatím není čitelné a stojí za vědomé rozhodnutí.
 
 ---
-
-## Pro vedení města
-
-Plánujete zhruba třikrát víc, než stihnete v periodě dokončit, a tento poměr se nemění tři cykly po sobě. To je buď kapacitní strop (málo lidí na projektovou přípravu v oblasti C), nebo příliš krátký dvouletý horizont. Doporučení: u příštího AP vědomě rozhodnout mezi dvěma cestami, **zúžit plán na realisticky dotažitelný objem**, nebo **posílit přípravné kapacity** v oblasti C. Oblast D ukazuje, že vysoká dokončenost je dosažitelná; vyplatí se zjistit, čím se D liší (jasnější zadání, kratší realizace, menší závislost na externím financování) a přenést to jinam.
-
-## Pro zastupitele
-
-Z 500 naplánovaných aktivit je 36 % hotových a 48 % rozpracovaných, město tedy plán nenechává ležet, ale dokončuje pomaleji, než plánuje. Mrtvých aktivit (zrušeno/pozastaveno) je minimum, což svědčí o realistickém plánování bez velkých „odpisů". Při schvalování dalšího AP je legitimní ptát se, proč je dvouletá dokončenost stabilně kolem třetiny a zda další plán neobsahuje opět víc aktivit, než lze v období uzavřít.
 
 ## Pro občany
 
 Město si na každé dva roky stanoví stovky konkrétních úkolů, od oprav chodníků po kulturní akce. Z těch se během dvou let zhruba třetina dokončí a polovina rozběhne; jen malá část se nezačne vůbec. Nejrychleji se daří v sociální oblasti (péče, bydlení, rodiny). Nejvíc úkolů a nejvíc těch, co se protáhnou, je ve „vyváženém rozvoji", tedy ve stavbách, dopravě a veřejném prostoru, kde příprava trvá roky.
 
-## Pro úřad (interní)
+## Pro zastupitele
 
-Klíčová provozní metrika je poměr splněno : probíhá : nezahájeno = 36 : 48 : 8. „Probíhá" je zdaleka největší kategorie, takže hodnota se schovává v rozpracovanosti, kterou stávající vyhodnocení nezachycuje (zahájeno = 0–99 %). Doporučení: u dalšího vyhodnocení zavést hrubý odhad rozpracovanosti (např. 25/50/75 %) u položek „zahájeno", aby šlo odlišit aktivitu těsně před dokončením od té, co se sotva rozjela. Vysoký podíl prázdných hodnocení v oblastech A a C zkresluje statistiku, stojí za to doplnit i u položek, které „nemají co hlásit".
+Z 500 naplánovaných aktivit je 36 % hotových a 48 % rozpracovaných, město tedy plán nenechává ležet, ale dokončuje pomaleji, než plánuje. Mrtvých aktivit (zrušeno/pozastaveno) je minimum, což svědčí o realistickém plánování bez velkých „odpisů". Při schvalování dalšího AP je legitimní ptát se, proč je dvouletá dokončenost stabilně kolem třetiny, zda další plán neobsahuje opět víc aktivit, než lze v období uzavřít, a čím se liší oblast D, které se daří dokončovat nejvíc (jasnější zadání, kratší realizace, menší závislost na externím financování).
 
 ## Metodika a zdroje
 
-- **Zdroj:** originální vyhodnocovací tabulky `data/zdroje/ostatni dokumenty/`, `Vyhodnocení AP2023-2024 k 31.12.2023.xlsx`, `Vyhodnocení AP2024-2025_k 31.12.2024.xlsx`, `Vyhodnocení AP2025-2026_k 31.12.2025.xlsx`, `Návrh_AP2026-2027__finál.xlsx`.
+- **Zdroj:** originální vyhodnocovací tabulky akčních plánů — Vyhodnocení AP 2023–2024 (k 31. 12. 2023), Vyhodnocení AP 2024–2025 (k 31. 12. 2024), Vyhodnocení AP 2025–2026 (k 31. 12. 2025) a Návrh AP 2026–2027.
 - **Zpracování:** každý list A–D, řádky s vyplněným názvem aktivity; stav klasifikován ze sloupce „Vyhodnocení".
-- **Omezení:** kategorie „probíhá" (zahájeno) nerozlišuje míru rozpracovanosti. Prázdná hodnocení (7 %) jsou vedena samostatně, ne jako nesplněno.
-- **Ověření:** čísla jsou nezávisle přepočtena skriptem nad originály; doporučuji při zásadních rozhodnutích zkontrolovat proti zdrojovým tabulkám.
+- **Omezení:** kategorie „probíhá" (zahájeno) nerozlišuje míru rozpracovanosti. Prázdná hodnocení (7 %) jsou vedena samostatně, ne jako nesplněno. Report nepracuje s rozpočtem města — vypovídá o plnění aktivit, ne o čerpání peněz.
+- **Ověření:** čísla jsou nezávisle přepočtena skriptem nad originály; při zásadních rozhodnutích doporučujeme zkontrolovat proti zdrojovým tabulkám.

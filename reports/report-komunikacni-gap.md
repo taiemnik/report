@@ -2,7 +2,7 @@
 
 Průřezová analýza, která vedle sebe staví dvě nezávislé datové stopy: **kde leží práce úřadu** (rozložení aktivit akčních plánů podle oblastí Strategického plánu) a **o čem město mluví navenek** (tematické rozložení tiskových zpráv). Rozdíl mezi nimi je komunikační gap. Optika: **Value for Money komunikace**, dostává každé téma prostor odpovídající jeho strategické váze?
 
-> Metodická poznámka, čtěte před závěry: Srovnání „práce vs. řeč" je citlivé na to, jak se komunikační témata přiřadí ke strategickým oblastem. Některá témata patří do více oblastí (školství je v SP současně součástí oblasti A „flexibilní a vzdělaní lidé" i sociálního zázemí D). Proto uvádíme závěry ve dvou úrovních: **robustní zjištění na úrovni témat** (nezávislá na mapování) a **orientační srovnání na úrovni oblastí** (mapování-citlivé). Čísla berte jako proporce, ne jako přesné účetnictví.
+> Metodická poznámka, čtěte před závěry: Srovnání „práce vs. řeč" je citlivé na to, jak se komunikační témata přiřadí ke strategickým oblastem. Některá témata patří do více oblastí (školství je v SP současně součástí oblasti A „flexibilní a vzdělaní lidé" i sociálního zázemí D). Proto uvádíme závěry ve dvou úrovních: **robustní zjištění na úrovni témat** (nezávislá na mapování) a **orientační srovnání na úrovni oblastí** (mapování-citlivé). Čísla berte jako proporce, ne jako přesné účetnictví. Zpracováno s podporou AI — podrobnosti a limity viz [[metodologie.md]].
 
 ## Manažerské shrnutí
 
@@ -63,25 +63,17 @@ Gap není chyba, komunikovat hotové a viditelné je legitimní a srozumitelné.
 
 ---
 
-## Pro vedení města
-
-Vaše komunikace věrně zrcadlí, co je hotové a vidět a tím systematicky podhodnocuje tři věci: podporu podnikání, průběžné zapojování občanů a životní prostředí. To jsou shodou okolností témata, kde efekt vzniká právě tím, že o nich lidé vědí (podnikatel využije program, jen když o něm ví; občan se zapojí, jen když dostane pozvánku). Doporučení: zavést stálou komunikační linku k těmto třem tématům s vlastním ročním plánem, nezávislou na tom, zda se zrovna otevírá stavba.
-
-## Pro zastupitele
-
-Město mluví hlavně o tom, co staví. Témata, která bývají předmětem politické debaty, podpora podnikání, participace, životní prostředí, jsou ve veřejné komunikaci nejméně vidět, ačkoli ve strategii a akčních plánech mají své místo. To je legitimní podnět: pokud má některé z těchto témat být prioritou, mělo by se to projevit i v komunikaci, ne jen v plánu.
-
 ## Pro občany
 
 Z toho, o čem město píše, byste mohli usoudit, že se hlavně staví a opravuje. Úřad přitom hodně pracuje i na přípravě dalších projektů a na tématech, o kterých se mluví málo, například na podpoře podnikání nebo na možnostech, jak se zapojit do plánování města. Pokud vás taková témata zajímají, vyplatí se aktivně sledovat ankety a plánovací akce, protože mezi nimi o nich bývá ticho.
 
-## Pro úřad (interní)
+## Pro zastupitele
 
-Gap vzniká přirozeně: komunikuje se podle událostí (otevření, akce), ne podle strategické váhy témat. Náprava není „víc tiskovek", ale **tematický komunikační plán** odvozený od strategie, s minimální roční kvótou pro podceněná témata (podnikání, participace, ŽP). Předpokladem je jednotné tagování zpráv tématem už při vzniku (viz [[report-tiskove-zpravy.md]]), aby šlo bilanci sledovat průběžně. Stojí také za revizi, jak interaktivní aplikace mapuje témata na oblasti, aby byl gap reportován jednotně.
+Město mluví hlavně o tom, co staví. Témata, která bývají předmětem veřejné debaty, podpora podnikání, participace, životní prostředí, jsou ve veřejné komunikaci nejméně vidět, ačkoli ve strategii a akčních plánech mají své místo. To je legitimní podnět: pokud má některé z těchto témat být prioritou, mělo by se to projevit i v komunikaci, ne jen v plánu.
 
 ## Metodika a zdroje
 
-- **Zdroje:** vyhodnocení AP (`data/zdroje/ostatni dokumenty/Vyhodnocení AP*.xlsx`), archiv tiskovek (`data/tiskovky/markdown/`), Strategický plán (`Strat.plán.pdf`).
+- **Zdroje:** vyhodnocovací tabulky akčních plánů, archiv tiskových zpráv z koprivnice.cz a Strategický plán rozvoje města 2023–2038.
 - **Zpracování:** podíl práce = rozložení aktivit AP po oblastech A–D; podíl řeči = tematická klasifikace tiskovek; gap = rozdíl podílů.
 - **Omezení:** srovnání je citlivé na mapování témat na oblasti; proto jsou primární závěry vedeny na úrovni témat. Hodnoty jsou proporce, ne přesné počty.
 - **Ověření:** směr hlavních zjištění (podnikání a participace podkomunikovány; viditelná témata převažují) je robustní napříč dvěma nezávislými způsoby členění. Přesné procento gapu jednotlivé oblasti ověřovat podle zvoleného mapování.

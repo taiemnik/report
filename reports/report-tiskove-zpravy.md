@@ -2,7 +2,7 @@
 
 Hloubková analýza komunikace města navenek, vytěžená přímo ze staženého archivu tiskových zpráv. Sleduje objem, sezónnost a tematické rozložení komunikace. Optika: **Value for Money**, dostává každé téma prostor odpovídající jeho významu?
 
-> Metodická poznámka: Archiv obsahuje 1086 markdownových souforů stažených z koprivnice.cz (2022–2026). Témata jsou klasifikována klíčovými slovy z titulku a úvodu zprávy do deseti kategorií; 11 % zpráv zůstalo nezařazeno („ostatní"). Rok 2026 je neúplný (data do jara 2026). Klasifikace je orientační, slouží k zachycení proporcí, ne k přesnému počítání jednotlivých zpráv.
+> Metodická poznámka: Archiv obsahuje 1086 zpráv stažených z koprivnice.cz (2022–2026). Témata jsou klasifikována klíčovými slovy z titulku a úvodu zprávy do deseti kategorií; 11 % zpráv zůstalo nezařazeno („ostatní"). Rok 2026 je neúplný (data do jara 2026). Klasifikace je orientační, slouží k zachycení proporcí, ne k přesnému počítání jednotlivých zpráv. Zpracováno s podporou AI — podrobnosti a limity viz [[metodologie.md]].
 
 ## Manažerské shrnutí
 
@@ -21,7 +21,7 @@ Hloubková analýza komunikace města navenek, vytěžená přímo ze staženéh
 | 2025 | 295 | +8 % |
 | 2026 (neúplný) | 83 | - |
 
-Růst je konzistentní; nejvýraznější skok přišel v roce 2024. Pro veřejnou správu jde o zdravý signál, město nezvyšuje hlasitost nárazově kolem voleb, ale buduje stálý komunikační provoz.
+Růst je konzistentní; nejvýraznější skok přišel v roce 2024. Pro veřejnou správu jde o zdravý signál, město nezvyšuje hlasitost nárazově, ale buduje stálý komunikační provoz.
 
 ## Sezónnost
 
@@ -68,25 +68,17 @@ Komunikace zhruba kopíruje to, co je vidět a hotové, ne nutně to, kde leží
 
 ---
 
-## Pro vedení města
+## Pro občany
 
-Komunikujete víc a stabilněji než dřív (+40 % objemu za tři roky) a držíte zdravou rovnováhu mezi stavbami a kvalitou života. Slabina není v objemu, ale ve struktuře: participace a podnikání, dvě strategicky důležitá témata, jsou navenek prakticky neviditelná. Doporučení: vědomě nasadit komunikační linku k zapojování občanů a k podpoře podnikání i mimo nárazové ankety, ideálně mimo jarní špičku, kdy je kapacita vázaná na akce a stavby.
+Město o své práci informuje stále aktivněji, v roce 2025 vydalo o 40 % víc zpráv než v roce 2022. Nejčastěji se dozvíte o stavbách a opravách, dopravě, kultuře, sportu a o dění ve školách a v sociální oblasti. Méně často se píše o podpoře podnikání nebo o možnostech, jak se sami zapojit do plánování města.
 
 ## Pro zastupitele
 
 Město komunikuje vyváženě napříč tématy s jasnou převahou viditelných výsledků (stavby, doprava, akce). Pokud vás zajímá, zda se navenek dostatečně mluví o tématech vašeho zájmu (podnikání, zapojování občanů, životní prostředí), data ukazují, že právě tato témata mají nejmenší prostor, legitimní podnět k diskusi o komunikační prioritě.
 
-## Pro občany
-
-Město o své práci informuje stále aktivněji, v roce 2025 vydalo o 40 % víc zpráv než v roce 2022. Nejčastěji se dozvíte o stavbách a opravách, dopravě, kultuře, sportu a o dění ve školách a v sociální oblasti. Méně často se píše o podpoře podnikání nebo o možnostech, jak se sami zapojit do plánování města.
-
-## Pro úřad (interní)
-
-Komunikační provoz má silnou jarně-letní špičku (duben–červen). Kapacitu vnějších vztahů je vhodné plánovat podle této křivky a zimní období využít na hloubková, vysvětlující témata. Pro lepší řízení doporučuji zavést jednotné tematické tagování zpráv už při jejich vzniku (dnes se téma dovozuje až zpětně z textu), odpadne 11 % nezařazených a bude možné sledovat tematickou bilanci průběžně, ne jen retrospektivně.
-
 ## Metodika a zdroje
 
-- **Zdroj:** `data/tiskovky/markdown/{2022–2026}/*.md`, archiv tiskových zpráv stažený z koprivnice.cz.
+- **Zdroj:** archiv tiskových zpráv 2022–2026 stažený z koprivnice.cz.
 - **Zpracování:** počty po letech a měsících z metadat souborů; tematická klasifikace klíčovými slovy z titulku a úvodu do 10 kategorií.
 - **Omezení:** klasifikace je orientační (11 % nezařazeno); rok 2026 je neúplný; jeden soubor = jedna zveřejněná stránka, nikoli nutně jedna „velká" zpráva.
 - **Ověření:** proporce témat jsou robustní vůči hraničním případům; přesné počty jednotlivých zpráv ověřovat proti archivu.
