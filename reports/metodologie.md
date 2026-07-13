@@ -51,6 +51,18 @@ I s kontrolou platí: automatická klasifikace může obsahovat chyby v řádu j
 
 Interpretační skóre z tónu tiskových zpráv (0–100). Ukazuje, **jak město mluví o sobě** — ne spokojenost obyvatel. Pro názory občanů by bylo nutné samostatné šetření.
 
+## Práce vs. komunikace (komunikační mezera)
+
+Report vedle plnění akčních plánů srovnává dvě nezávislé stopy: **kolik práce leží v jednotlivých oblastech plánu** (podíl aktivit AP) a **o čem město mluví navenek** (podíl tiskových zpráv podle témat).
+
+**Co z toho plyne (bez dramatizace):**
+
+- Město přirozeně komunikuje viditelné výsledky — stavby, akce, ocenění. To je legitimní a srozumitelné.
+- Některá strategicky důležitá témata (podnikání, participace, příprava infrastruktury) mají v tiskovkách menší podíl než jejich váha v plánu.
+- Gap neznamená selhání — spíš mapu, kde doplnit průběžnou komunikaci, ne jen nárazové akce.
+
+Čísla čtěte jako **proporce a směr**, ne jako přesné účetnictví. Detailní rozbor je v záložce Komunikace a v interaktivním grafu v záložce Strategie.
+
 ## Zdrojové dokumenty ke stažení
 
 Originály akčních plánů a strategického plánu jsou v záložce **Databáze** — každé číslo v reportu lze proti nim ověřit.
