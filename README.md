@@ -2,7 +2,9 @@
 
 Interaktivní editoriální report (Shrnutí, Úřad, Goliáši, Témata, Databáze, Vývoj).
 
-**Živě:** https://taiemnik.github.io/report/
+**Živě (grafy):** https://taiemnik.github.io/report/
+
+**Textová zpráva na webu města (pro AI):** https://www.koprivnice.cz/assets/File.ashx?id_org=6939&id_dokumenty=84959
 
 ## GitHub Pages
 
