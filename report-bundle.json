@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-14T13:06:35.410357",
+    "generated": "2026-07-15T08:31:13.943254",
     "period": "2023-2026",
     "pressReleaseCount": 916,
     "apActivityCount": 496,
@@ -16830,13 +16830,13 @@
     "edgesCooccurrence": [
       {
         "source": "doprava",
-        "target": "investice-stavby",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "socialni",
+        "source": "skolstvi",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16847,50 +16847,50 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "podnikani",
+        "source": "podnikani",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "kultura-sport",
+        "source": "participace",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "image",
-        "target": "investice-stavby",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "participace",
+        "source": "kultura-sport",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
-        "target": "provozni",
+        "source": "socialni",
+        "target": "zivotni-prostredi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "investice-stavby",
+        "source": "provozni",
+        "target": "zivotni-prostredi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "doprava",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "doprava",
-        "target": "zivotni-prostredi",
+        "target": "investice-stavby",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16902,7 +16902,7 @@
       },
       {
         "source": "doprava",
-        "target": "kultura-sport",
+        "target": "participace",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16914,7 +16914,13 @@
       },
       {
         "source": "doprava",
-        "target": "participace",
+        "target": "kultura-sport",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "doprava",
+        "target": "socialni",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16925,44 +16931,32 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "doprava",
+        "source": "investice-stavby",
         "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "socialni",
-        "target": "zivotni-prostredi",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
         "source": "podnikani",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "kultura-sport",
-        "target": "socialni",
-        "weight": 4,
-        "mode": "cooccurrence"
-      },
-      {
-        "source": "image",
-        "target": "socialni",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
         "source": "participace",
-        "target": "socialni",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
       {
-        "source": "provozni",
-        "target": "socialni",
+        "source": "image",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "kultura-sport",
+        "target": "skolstvi",
         "weight": 4,
         "mode": "cooccurrence"
       },
@@ -16973,8 +16967,14 @@
         "mode": "cooccurrence"
       },
       {
-        "source": "podnikani",
-        "target": "zivotni-prostredi",
+        "source": "provozni",
+        "target": "skolstvi",
+        "weight": 4,
+        "mode": "cooccurrence"
+      },
+      {
+        "source": "investice-stavby",
+        "target": "podnikani",
         "weight": 4,
         "mode": "cooccurrence"
       }
